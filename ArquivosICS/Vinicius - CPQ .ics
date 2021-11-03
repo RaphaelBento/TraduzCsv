@@ -1,0 +1,977 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vinicius - CPQ 
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20210824T220000Z
+DTEND:20210824T230000Z
+DTSTAMP:20211014T133019Z
+UID:3u2e6uq5a6a01lio7uukf1lft7@google.com
+CREATED:20210823T125736Z
+DESCRIPTION:Empresa: N & A INSTALACAO E MANUTENCAO DE DUTOS LTDA\nCNPJ: 10.
+ 887.846/0001-49\nE-CAC: 302.554\,32\nContato: 11 99237-4105\nResponsável: N
+ oel Ferreira do Nascimento \nFalei com a esposa do Noel\, ela me fez divers
+ as perguntas e parece desconfiada\, mas disse ter muito interesse em resolv
+ er as dividas. Marcamos uma reunião presencial.
+LAST-MODIFIED:20210823T125745Z
+LOCATION:Av. Congonhas\, 51 - Jardim Alegria\, Francisco Morato - SP\, 0798
+ 7-160\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - N & A INSTALACAO E MANUTENC
+ AO DE DUTOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T140000Z
+DTEND:20210825T150000Z
+DTSTAMP:20211014T133019Z
+UID:1s5gdkajgaimi1orja3ghd7lnu@google.com
+CREATED:20210823T144625Z
+DESCRIPTION:Empresa: PLASTICOS PACE IND. E COM. LTDA\nE-CAC: 118.372\,02\nC
+ ontato: 11 96479-1686\nCNPJ: 64.848.138/0001-28\nResponsavel : Marcelo Pace
+  \nDescrição: Passei para o marcelo nossa proposta e ele pareceu interessad
+ o\, marcamos uma reunião presencial.
+LAST-MODIFIED:20210823T144635Z
+LOCATION:R. Colina\, 92 - Jardim Paraiso\, Cajamar - SP\, 07750-000\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - PLASTICOS PACE IND. E COM. LTDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210826T130000Z
+DTEND:20210826T140000Z
+DTSTAMP:20211014T133019Z
+UID:7sv7aik99pt7nn3oj426h1ibv6@google.com
+CREATED:20210819T191700Z
+DESCRIPTION:CNPJ: 24.550.595/0001-17\nempresa: A. V. GOMES GALDINO \nE-CAC:
+  136.354\,21\nContato: 11 95170-5400\nNome do responsável: Antonio Valter G
+ omes Galdino\nPassei o script de PRF e o Antônio ficou interessado\, marcam
+ os a reunião presencial. 
+LAST-MODIFIED:20210824T121722Z
+LOCATION:R. Sebastião Queiroz\, 738 - Jardim Olga\, Francisco Morato - SP\,
+  07992-050\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - A. V. GOMES GALDINO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T160000Z
+DTEND:20210825T170000Z
+DTSTAMP:20211014T133019Z
+UID:0m34fc4u7ce3q42fkb96kcmuas@google.com
+CREATED:20210824T132948Z
+DESCRIPTION:Empresa: ANDRE S DE OLIVEIRA\nCNPJ: 20.210.790/0001-47\nRespons
+ ável: André Silva\nContato : 11 96403-7994\nE-CAC: 267.223\,22\nDescrição: 
+ Falei com o Andre e ele me passou que tem interesse. Marcamos uma reunião p
+ resencial.
+LAST-MODIFIED:20210824T132958Z
+LOCATION:Av. Ver. Joaquim Pereira Barbosa\, 319 - Jardim Nova Jordanésia\, 
+ Cajamar - SP\, 07776-450\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - ANDRE S DE OLIVEIRA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210824T120000Z
+DTEND:20210824T130000Z
+DTSTAMP:20211014T133019Z
+UID:0eiqcq491kub2lc4suf0pf4g4a@google.com
+CREATED:20210820T132954Z
+DESCRIPTION:CNPJ: 10.243.438/0001-54\nEmpresa: VALQUIRIA GONCALVES MAIOLO D
+ OS SANTOS\nE-CAC: 119.638\,34\nContato: 11 99790-0427\nNome do responsável:
+  Isaias Aguiar (contador) \nDescrição: Valquíria\, proprietária\, me passou
+  que não tem como comparecer a reunião pois seu filho sofreu um acidente\, 
+ mas falou que tem muito interesse. Marquei com o contador. 
+LAST-MODIFIED:20210824T134731Z
+LOCATION:R. Progresso\, 129 - Centro\, Francisco Morato - SP\, 07901-170\, 
+ Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato -  VALQUIRIA GONCALVES MAIOLO
+  DOS SANTOS  
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210826T180000Z
+DTEND:20210826T190000Z
+DTSTAMP:20211014T133019Z
+UID:5tvaav69iji9etjicli89c9o9s@google.com
+CREATED:20210824T181152Z
+DESCRIPTION:Empresa: CAMPOS & AMARAL COMERCIO DE ALIMENTOS LTDA.\nNome do r
+ esponsável: Romulo Amaral\nCNPJ: 19.757.668/0001-06\nContato:  11 99786-808
+ 0\nE-CAC: 100.090\,55\nDescrição: Falei com Romulo e ele pareceu bem intere
+ ssado. Marcamos a reunião a principio presencial.
+LAST-MODIFIED:20210824T181201Z
+LOCATION:R. Prof. Carvalho Pinto\, 153\, loja 3 - Companhia Fazenda Belem\,
+  Franco da Rocha - SP\, 07803-100\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - CAMPOS & AMARAL COMERCIO DE 
+ ALIMENTOS LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210826T190000Z
+DTEND:20210826T200000Z
+DTSTAMP:20211014T133019Z
+UID:329f3s3rgeskn0uqf670hvr56l@google.com
+CREATED:20210825T141953Z
+DESCRIPTION:Empresa: ASSOCIACAO COMERCIAL E EMPRESARIAL DE FRANCO DA ROCHA\
+ nCNPJ: 50.529.742/0001-87 \nResponsável: Alexandre \nContato: 11 95550-8684
+ \nE-CAC: 318.838\,1\nMandei para o alexandre o nosso script e ele ficou bem
+  interessado\, porém não quer uma reunião longa\, segundo ele gostaria de i
+ r direto ao assunto.
+LAST-MODIFIED:20210825T141953Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius- Franco da Rocha - ASSOCIACAO COMERCIAL E EMPRES
+ ARIAL DE FRANCO DA ROCHA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210827T130000Z
+DTEND:20210827T140000Z
+DTSTAMP:20211014T133019Z
+UID:2ddhje93p7r2dfhsa5mrsrhlfh@google.com
+CREATED:20210825T171055Z
+DESCRIPTION:Empresa: FLASALV INSTALACOES ELETRICAS E HIDRAULICAS LTDA\nCNPJ
+ : 08.964.305/0001-25\nResponsável: Jose Flavio \nE-CAC: 416.962\,93\nContat
+ o:  11 98451-3367\nDescrição: Mandei o script para o Jose e ele pareceu bem
+  interessado. Marcamos uma reunião presencial.
+LAST-MODIFIED:20210825T171102Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - FLASALV INSTALACOES ELETRICA
+ S E HIDRAULICAS LTDA  
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210901T143000Z
+DTEND:20210901T153000Z
+DTSTAMP:20211014T133019Z
+UID:1gt87r8j2v54llnbo2gp93ttl0@google.com
+CREATED:20210826T141035Z
+DESCRIPTION:Empresa: DSL COMERCIO DE ALIMENTOS LTDA \nCNPJ: 05.692.270/0001
+ -24\nNome responsável: Luiz \nE-CAC: 3.045318\,25\nContato: 11 99687-7833
+LAST-MODIFIED:20210826T141957Z
+LOCATION:Rua Dona Amália no Sestine\, 255 centro Franco da Rocha
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha -  DSL COMERCIO DE ALIMENTOS L
+ TDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210826T150000Z
+DTEND:20210826T160000Z
+DTSTAMP:20211014T133019Z
+UID:5cb6mq8t71ksoob40nb5m1s00d@google.com
+CREATED:20210825T141526Z
+DESCRIPTION:Empresa: GLEISON CHAVES SILVA\nResponsável: Gleison \nE-CAC: 20
+ 5.912\,11\nContato:  11 97514-9937\nCNPJ: 05.791.115/0001-65\nDescrição: Gl
+ eison ficou bem interessado\, mas me passou que sofreu um acidente então o 
+ irmão estará presente na reunião. Marcamos presencialmente.\n\n\nRetorno di
+ a 31/08. \nPreço : 1400\,00\nCNPJ bloqueado. Cliente ficou interessado
+LAST-MODIFIED:20210826T152548Z
+LOCATION:Av. Sete de Setembro\, 88 - Vila Artur Sestini\, Franco da Rocha -
+  SP\, 07851-120\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - GLEISON CHAVES SILVA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210830T140000Z
+DTEND:20210830T150000Z
+DTSTAMP:20211014T133019Z
+UID:0uplj9tpvobennmfq4cp5uho1a@google.com
+CREATED:20210826T172559Z
+DESCRIPTION:Empresa: SORVETES FRUTIQUELLO LTDA\nCNPJ: 01.327.274/0001-52 \n
+ E-CAC: 2.164.286\,81\nResponsável : Rogerio \nContato: 11 95025-2323\nDescr
+ ição: Falei com o Rogerio e ele ficou surpreso com as dividas. Pediu para m
+ arcarmos online via zoom. 
+LAST-MODIFIED:20210826T172608Z
+LOCATION:Online (zoom meeting)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - SORVETES FRUTIQUELLO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210824T140000Z
+DTEND:20210824T150000Z
+DTSTAMP:20211014T133019Z
+UID:6dpf8tmg4b17g6sjk493jitk13@google.com
+CREATED:20210819T174654Z
+DESCRIPTION:Empresa Massa Dois Corações LTDA \nCNPJ: 05.326.651/0001-90 \nE
+ -CAC: 117422\,22 \nResponsável: Paulo Pereira da Silva (dono) \nContato: 11
+  99954-4505\n\nEmpresa ANTILHETOS RESTAURANTE & PIZZARIA  EIRELI\nCNPJ: 03.
+ 653.717/0001-20\nE-CAC: 952.710\,04\n\nResponsável: Paulo Pereira da Silva 
+ (dono)\nContato: 11 99954-4505\nPassei o script de PRF e o Paulo ficou inte
+ ressado\, marcamos a reunião presencial. Ele tem duas empresas. \n\n\n( Res
+ umo do atendimento presencial)\nDemos o retorno 2 vezes no cliente. Na prim
+ eira falou que estava em reunião e sairia as 13. Voltamos ao meio dia e o m
+ esmo mandou a secretária dizer que estava no médico .
+LAST-MODIFIED:20210826T175839Z
+LOCATION:Tv. José Benedito Ryan\, 94 - Belem Estacao\, Francisco Morato - S
+ P\, 07901-060\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - Massa Dois Corações LTDA - 
+ ANTILHETOS RESTAURANTE & PIZZARIA EIRELI 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210824T160000Z
+DTEND:20210824T170000Z
+DTSTAMP:20211014T133019Z
+UID:00vo98mjd42pche76llktedi87@google.com
+CREATED:20210820T135812Z
+DESCRIPTION:CNPJ: 04.883.592/0001-98 \nE-CAC: 248.499\nEmpresa: INSTITUTO R
+ OMERO DE EDUCACAO LTDA\nContato: 11 99463-4123\nResponsavel: Valdir Martins
+ \nFalei com a esposa de Valdir\, a empresa não está em funcionamento mas el
+ es tem interesse de quitar as dividas\, marquei um horario na casa deles.\n
+ \n\nValdir e Angela um casal que assumiu o instituto Romero que já tinha um
+ a inadimplência grande. \nHoje a empresa não existe mais porém possuem inte
+ resse em arcar com a dívida do governo mesmo não tendo bens no seu nome. \n
+  Preço : 500\,00 \n\nResultado: Cliente está pagando um acordo extrajudicia
+ l que firmou com os antigos funcionários disse que em outubro ele vai entra
+ r em contato conosco para assinar o contrato.
+LAST-MODIFIED:20210826T180256Z
+LOCATION:R. Dezessete\, 249 - Recanto Feliz\, Francisco Morato - SP\, 07980
+ -015\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - INSTITUTO ROMERO DE EDUCACA
+ O LTDA  
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210824T190000Z
+DTEND:20210824T200000Z
+DTSTAMP:20211014T133019Z
+UID:5qu0v6v0do3v9q5h9trfu3u6d3@google.com
+CREATED:20210823T143952Z
+DESCRIPTION:Empresa:  COMERCIAL E EMPREITEIRA MAXIMO TINTAS LTDA\nCNPJ: 09.
+ 086.848/0001-50\nE-CAC: 295.736\,29\nContato: 11 94719-4680\nNome do Respon
+ sável:  JOSE CLELDIO FERREIRA DE SOUZA.\nDescrição: Marcamos uma reunião pr
+ esencial em um café.\n\n\n\nJosé um cara bacana. Não possui bens no seu nom
+ e e tem o conhecimento que isso não vai o prejudicar. Não tem pressa para a
+ certar a dívida e não demonstrou muito interesse.
+LAST-MODIFIED:20210826T180457Z
+LOCATION:R. João Mendes Júnior\, 293 - Jardim Prof. Francisco Morato\, Fran
+ cisco Morato - SP\, 07910-210\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - COMERCIAL E EMPREITEIRA MAX
+ IMO TINTAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T130000Z
+DTEND:20210825T140000Z
+DTSTAMP:20211014T133019Z
+UID:4o50j8belii6pmjok6h6999819@google.com
+CREATED:20210824T200536Z
+DESCRIPTION:Empresa: GAZOL GAS SOLUTION EIRELI\nCNPJ: 18.634.734/0001-98\nE
+ -CAC: 283.722\,42\nContato: 11 98280-4797\nResponsavel: Sergio \nDescrição:
+  Marquei com Sergio uma reunião presencial na sua residencia.\n\n\n\nSergio
+  deu um feed back negativo. \nCDAS 2021 e ele vai arcar com as despesas soz
+ inho no parcelamento padrão que o contador vai passar.
+LAST-MODIFIED:20210826T180612Z
+LOCATION:Rua Tietê 1041 - Condomínio Forest Ville
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - GAZOL GAS SOLUTION EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T170000Z
+DTEND:20210825T180000Z
+DTSTAMP:20211014T133019Z
+UID:6up5un9v9k96kv6f8rkemh6rvd@google.com
+CREATED:20210820T193151Z
+DESCRIPTION:Empresa: SCORPIOS RESTAURANTE LTDA\nE-CAC: 108.339\,22\nCNPJ: 6
+ 7.944.090/0001-40\nNome do Responsável: ALCEU ZAMBOTTI JUNIOR\nContato: 11 
+ 99961-0900\nDescrição: Falei com Alceu e marcamos na empresa dele\, ele só 
+ me confirmou e não entrou em detalhes.\n\n\n\nO Alceu tem uma operação muit
+ o boa. 2 CNPJ's em seu nome. Falou que retornaria para passar o  feed back 
+ quanto a contratação da Villela
+LAST-MODIFIED:20210826T180753Z
+LOCATION:Av. Jordano Mendes\, 214 - Jardim Nova Jordanésia\, Cajamar - SP\,
+  07750-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - SCORPIOS RESTAURANTE LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T223000Z
+DTEND:20210831T233000Z
+DTSTAMP:20211014T133019Z
+UID:27anubgp2q059jmhd10b55d0ph@google.com
+CREATED:20210830T125700Z
+DESCRIPTION:Empresa: GILMAR BRITO SANTOS\nCNPJ: 06.273.813/0001-31\nRespons
+ ável: Gilmar \nE-CAC: 1.006.343\,68\nContato:  11 97125-6974\nFalei com tel
+ efone com Gilmar e ele pareceu interessado\, marcamos uma reunião online.
+LAST-MODIFIED:20210830T125700Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - GILMAR BRITO SANTOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210903T180000Z
+DTEND:20210903T190000Z
+DTSTAMP:20211014T133019Z
+UID:4env3oaas4hupj6ulcm2hj5646@google.com
+CREATED:20210826T125827Z
+DESCRIPTION:empresa: IMPERJET ACABAMENTOS TEXTEIS LTDA \nCNPJ: 67.706.580/0
+ 001-08\nE-CAC: 1.934.628\,67\ncontato: 11 99314-2251\nResponsável: Marco \n
+ Descrição: Falei com Marcos e ele pareceu interessado\, mas me passou que e
+ stá morando em outra cidade\, então teria que ser online. 
+LAST-MODIFIED:20210830T192539Z
+LOCATION:online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - IMPERJET ACABAMENTOS TEXTEIS
+  LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T130000Z
+DTEND:20210831T140000Z
+DTSTAMP:20211014T133019Z
+UID:30hgo1qhkfm33g6n0nact0lt4o@google.com
+CREATED:20210823T191324Z
+DESCRIPTION:Empresa: FABIO ALVES DOS SANTOS TRANSPORTES\nResponsável: Fabio
+  Alves dos Santos \nE-CAC: 223.548\,12\nCNPJ: 24.408.377/0001-42\nContato: 
+ 11 99748-3462\nDescrição: Falei com o Fabio e ele pareceu interessado\, mas
+  informou que não teria tempo de uma reunião presencial\, então marcamos vi
+ a zoom as 10 horas.\n\n\n\nUma ótima reunião. Fabio teve a disposição de pe
+ rguntar os valores que firmamos em 1000\,00 reais.\nFabio não tem uma equip
+ e jurídica ao seu dispor onde focamos nossa reunião. Fabio pediu dois dias 
+ para a resposta.
+LAST-MODIFIED:20210831T135852Z
+LOCATION:Online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - FABIO ALVES DOS SANTOS TRANSPORTES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210902T150000Z
+DTEND:20210902T160000Z
+DTSTAMP:20211014T133019Z
+UID:cgrmcoj6cgo38bb4chij6b9k6gs6ab9pcoo3cbb66cqjgc9j6crj6cpock@google.com
+CREATED:20210901T150509Z
+DESCRIPTION:Buscar a ligação
+LAST-MODIFIED:20210901T150509Z
+LOCATION:Estr. Cel. José Gladiador\, 202
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DSL Comércio de Alimentos Ltda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T133000Z
+DTEND:20210909T143000Z
+DTSTAMP:20211014T133019Z
+UID:0pcttuk2qofs8gjb42ku4pipsb@google.com
+CREATED:20210901T182331Z
+DESCRIPTION:Empresa: MATEUTEC DEDETIZADORA LTDA\nCNPJ: 02.680.435/0001-50\n
+ E-CAC: 129.723\,90\nContato: 11 99151-9892\nResponsável: Matheus e Alice\nF
+ alei com Mateus e ele me passou o contato da mãe\, Alice. Ela disse que tem
+  bastante interesse\, e prefere online por conta do Covid. Ela está interes
+ sada em desconto da divida dela\, ela disse que ira fazer uma comparação co
+ m o valor que a prefeitura ofereceu e se o nosso for mais baixo ela fecha c
+ onosco.
+LAST-MODIFIED:20210901T182331Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - MATEUTEC DEDETIZADORA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210908T160000Z
+DTEND:20210908T170000Z
+DTSTAMP:20211014T133019Z
+UID:5f82tbsalhe551k7jo2vjbr8as@google.com
+CREATED:20210902T121837Z
+DESCRIPTION:Empresa: GIUDIT COSMETICOS EIRELI \nCNPJ: 58.619.263/0001-63\nE
+ -CAC: 222.701\,33\nContato: 11 98104-2701\nResponsável: Ricardo \nMandei o 
+ script para Ricardo e ele pareceu bem interessado. Marcamos uma reunião onl
+ ine \, e o contador dele estará junto.
+LAST-MODIFIED:20210902T121837Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - GIUDIT COSMETICOS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210906T183000Z
+DTEND:20210906T193000Z
+DTSTAMP:20211014T133019Z
+UID:1p316dg6ksmcl0fue61oni769j@google.com
+CREATED:20210902T123708Z
+DESCRIPTION:Empresa: ASSOCIACAO PROMOCAO SOCIAL MAIS UMA ESTRELA QUE NASCE\
+ nCNPJ: 50.955.665/0001-27\nE-CAC: 107.985\,46\nResponsável: Lucas\nContato:
+  11 97994-1004\nFalei com o Lucas e ele gostaria de um horario presencial n
+ o dia 7\, mas como é feriado marcamos online\, ele pediu para ser com Googl
+ e Meet\, pareceu muito interessado e compromissado. Ele pediu para eu lhe e
+ nviar o link com antecedência.\nEnviar link da reunião para e-mail dele tam
+ bém : senerodrigues@gmail.com 
+LAST-MODIFIED:20210902T123808Z
+LOCATION:Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - ASSOCIACAO PROMOCAO SOCIAL MAIS UM
+ A ESTRELA QUE NASCE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210908T130000Z
+DTEND:20210908T140000Z
+DTSTAMP:20211014T133019Z
+UID:0rug4fj7o459sm535rvm6huvd2@google.com
+CREATED:20210902T125609Z
+DESCRIPTION:Empresa: VITOR DONISETE DE OLIVEIRA\nCNPJ: 05.214.329/0001-79\n
+ E-CAC: 235.702\,25\nResponsável: Vitor \nContato:  11 99988-2783\nDescrição
+ : Mandei o script para o Vitor e ele pareceu bem interessado\, mandou pront
+ amente o endereço.
+LAST-MODIFIED:20210902T125609Z
+LOCATION:Estr. Santa Inês\, 500\, Mairiporã - SP\, 07600-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - VITOR DONISETE DE OLIVEIRA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210903T160000Z
+DTEND:20210903T170000Z
+DTSTAMP:20211014T133019Z
+UID:66bf2bnag352aogr42g0uj72j6@google.com
+CREATED:20210827T131712Z
+DESCRIPTION:Empresa: ENTRE RIOS REPRESENTACAO COMERCIAL E CONSULTORIA SS LT
+ DA\nCNPJ: 09.296.735/0001-89\nContato: 11 99813-0525 ( Germano) ou 11 97249
+ -0919\n( Silvana)\nResponsável: Germano (marido de Silvana\, a dona da empr
+ esa) \nE-CAC: 567.610\,34\nDescrição: Falei com Silvana\, ela me passou o c
+ ontato do Germano e ele imediatamente me ligou\, pareceu  extremamente inte
+ ressado\, marcamos uma reunião online pois ele não estará em Cajamar. 
+LAST-MODIFIED:20210902T132159Z
+LOCATION:Online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - ENTRE RIOS REPRESENTACAO COMERCIAL E
+  CONSULTORIA SS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T120000Z
+DTEND:20210909T130000Z
+DTSTAMP:20211014T133019Z
+UID:1q7ph1n2lcp70ig6b6sghp7ib2@google.com
+CREATED:20210902T142135Z
+DESCRIPTION:Empresa: CENTRO RECREATIVO MATSUDO E MORAES LTDA\nE-CAC: 255.06
+ 9\,94 \nCNPJ: 24.242.477/0001-41\nResponsável: Rafael\nContato: 11 96171-71
+ 89 ( proprietário) e 11 98961-4610 ( setor financeiro da escola) \nDescriçã
+ o: Passei o script para o Rafael\, ele me pediu para marcar com o setor fin
+ anceira\, marcamos presencialmente em uma unidade deles. 
+LAST-MODIFIED:20210902T142144Z
+LOCATION:Av. Ver. Belarmino Pereira de Carvalho\, 8000 - Parque Petrópolis\
+ , Mairiporã - SP\, 07600-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - CENTRO RECREATIVO MATSUDO E MORAES
+  LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T193000Z
+DTEND:20210831T203000Z
+DTSTAMP:20211014T133019Z
+UID:0kbjterfs075bbuak123rrm3f7@google.com
+CREATED:20210827T123442Z
+DESCRIPTION:Empresa: SOCIEDADE BRASILEIRA DE BEBIDAS PREMIUM LTDA\nE-CAC: 5
+ 67.391\,09\nResponsável: Sidney \nContato: 11 98910-1151\nCNPJ: 09.325.874/
+ 0001-93\nDescrição: Falei com Sidney por telefone\, ele me ligou e pareceu 
+ bem interessado. Marcamos uma reunião presencial.\n\n\nPreço 1000\,00. Tere
+ mos que fazer uma uma nova reunião com o Sidney. Se aprovada a proposta com
+ ercial. O cliente pediu apenas auditoria do débito .
+LAST-MODIFIED:20210902T164646Z
+LOCATION:R. Osasco\, 949 - Sala 3 - Guaturinho\, Cajamar - SP\, 07750-000\,
+  Brasil
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - SOCIEDADE BRASILEIRA DE BEBIDAS PREM
+ IUM LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210824T180000Z
+DTEND:20210824T190000Z
+DTSTAMP:20211014T133019Z
+UID:3jrope1co5o5cprkc9loeon32m@google.com
+CREATED:20210819T185432Z
+DESCRIPTION:Empresa: ESPORTE CLUBE PROGRESSO\nCNPJ: 47.344.643/0001-16 \nNo
+ me do Responsavel: Celso \nE-CAC:  124.345\,48\nContato: 11 99723-3889\nPas
+ sei o script de PRF e o Celso ficou interessado\, marcamos a reunião presen
+ cial.\n\nO preço ficou 1500\,00. Celso realizou uma assembleia para decidir
+  com os sócios.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste
+  evento tem uma videochamada.\nParticipar: https://meet.google.com/wcr-vzzq
+ -vnz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210902T165912Z
+LOCATION:R. Pedro Lessa\, 278 - Jardim Prof. Francisco Morato\, Francisco M
+ orato - SP\, 07910-040\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - Esporte Clube Progresso
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210906T110000Z
+DTEND:20210906T150000Z
+DTSTAMP:20211014T133019Z
+UID:73scbddsk67emadf1am537u3ah@google.com
+CREATED:20210902T195159Z
+DESCRIPTION:
+LAST-MODIFIED:20210902T195159Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bloqueada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210920T110000Z
+DTEND:20210920T150000Z
+DTSTAMP:20211014T133019Z
+UID:5pbkna1hrmuvlm0thmpqmrs299@google.com
+CREATED:20210902T201329Z
+DESCRIPTION:
+LAST-MODIFIED:20210902T201329Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bloqueada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210903T143000Z
+DTEND:20210903T153000Z
+DTSTAMP:20211014T133019Z
+UID:46i8fq1gh7irgeq4m5h14qi1vm@google.com
+CREATED:20210826T174100Z
+DESCRIPTION:Empresa: NATALIA CUNHA MATIAS\nCNPJ: 13.996.342/0001-55\nE-CAC:
+  363.032\,92\nContato: 11 94725-6546\nResponsável: Natalia \nPassei o scrip
+ t presencial para Natalia e ela pareceu bem interessada. Marcamos uma reuni
+ ão presencial em um café.\n\n\nAtendimento: A Renee marcou a primeira reuni
+ ão onde a Renata não compareceu. \nRemarcou para sexta. \nNo dia ouve o des
+ locamento até o local com a confirmação da visita em meia hora. \nNão apare
+ ceu novamento.  E não respondeu as mensagens e nem atendeu as ligações.
+LAST-MODIFIED:20210903T172457Z
+LOCATION:Sr Joka Empório e Café\, R. Ver. José Mendes\, 267 - Jordanesia\, 
+ Cajamar - SP\, 07776-460\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - NATALIA CUNHA MATIAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210906T170000Z
+DTEND:20210906T180000Z
+DTSTAMP:20211014T133019Z
+UID:3ib02rud24mp1vuvpftqo0ka2f@google.com
+CREATED:20210824T180719Z
+DESCRIPTION:Nome responsável: Felippe\nEmpresa: FEMOPA LOCACOES E SERVICOS 
+ LIMITADA\nCNPJ: 13.065.273/0001-66 \nE-CAC: 172.699\,54\nContato: 11 94020-
+ 8312\nDescrição: Falei com Felippe\, que é um dos sócios da empresa\, e ele
+  me passou que essa semana só poderá onine. Marcamos uma reunião online.\n\
+ n\n\n\nFellipe estava sem sinal por isso não ocorreu a reunião online. Esta
+ mos definindo uma nova data para a mesma.
+LAST-MODIFIED:20210906T172716Z
+LOCATION:online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Franco da Rocha - FEMOPA LOCACOES E SERVICOS L
+ IMITADA   
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210910T160000Z
+DTEND:20210910T170000Z
+DTSTAMP:20211014T133019Z
+UID:5d8kbu09gjaa6ie3uga2mih1pd@google.com
+CREATED:20210906T175908Z
+DESCRIPTION:Empresa: A R & L B MONTAGENS LTDA e ANTONIO RIBEIRO DE ARAUJO S
+ ERRALHEIRO\nCNPJ: 16.989.098/0001-91 e 06.231.448.0001-00\nE-CAC: 130.374\,
+ 65\nContato: 11 97222-8920\nResponsável: Antônio\nDescrição: Passei o scrip
+ t para o Antônio e ele começou a me passar informações dessa outra empresa\
+ , a ANTONIO RIBEIRO DE ARAUJO SERRALHEIRO\, que é a empresa que ele tem mai
+ s interesse em resolver a situação\, ele tenta resolver faz mais de 10 anos
+ \, tem processo na justiça. Marcamos uma reunião presencial em um café.
+LAST-MODIFIED:20210906T180833Z
+LOCATION:Sabor e Cia - Café e Restaurante\, Av. Dr. Armando Pinto\, 256 - C
+ entro\, Caieiras - SP\, 07700-175\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Caieiras - A R & L B MONTAGENS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T143000Z
+DTEND:20210909T153000Z
+DTSTAMP:20211014T133019Z
+UID:1vkirt5j030lmd06jpa3uik9hr@google.com
+CREATED:20210902T141122Z
+DESCRIPTION:Empresa: WAGNER ROGERIO TEJE\nCNPJ: 00.165.830/0001-79 \nE-CAC:
+  237.449\,93\nContato: 11 97289-9078\nResponsável: Wagner \nDescrição: Fale
+ i com Wagner e ele pareceu bem interessado\, marcamos online pois ele não e
+ stará em Mairiporã. LIGAR QUARTA CEDO PARA LEMBRAR ELE DA REUNIÃO.
+LAST-MODIFIED:20210908T140031Z
+LOCATION:online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - WAGNER ROGERIO TEJE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T210000Z
+DTEND:20210909T220000Z
+DTSTAMP:20211014T133019Z
+UID:06ldqs6jios9aalsbmfe95ur1q@google.com
+CREATED:20210820T141528Z
+DESCRIPTION:Empresa EMPREITEIRA CONSTRUFELIX LTDA\nCNPJ : 07.205.881/0001-2
+ 6\nContato:  11 99685-2056\nResponsável: Hercules Felix\nDescrição: Mandei 
+ a proposta e ele passou para a pessoa responsável averiguar. Parece receoso
+ . O local que marcamos fica no fundo de uma farmácia\, segundo ele.\nE-CAC:
+  205.182\,69
+LAST-MODIFIED:20210908T141526Z
+LOCATION:Av. Paulo Brossard\, 899 - Jardim Vassouras\, Francisco Morato - S
+ P\, 07956-000\, Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Francisco Morato - EMPREITEIRA CONSTRUFELIX LT
+ DA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T210000Z
+DTEND:20210831T220000Z
+DTSTAMP:20211014T133019Z
+UID:3mhu6artsko3fomsvk76r115fl@google.com
+CREATED:20210824T141550Z
+DESCRIPTION:Empresa: IMPACTO BLINDAGENS AUTOMOTIVAS LTDA\nCNPJ: 21.948.842/
+ 0001-40\nContato: 11 99795-2525\nE-CAC: 251.572\,32\nNome responsavel : Lui
+ z Pereira\nDescrição: Passei para o Luiz o script e ele pareceu bem interes
+ sado. Marcamos uma reunião presencial na empresa dele.   \n\n\n\nValor do C
+ ontrato : 2000\,00 \nCliente pediu uma semana para dar a resposta.
+LAST-MODIFIED:20210908T141704Z
+LOCATION:R. Silvério Augusto Taváres\, 36 - Vila Granipavi\, Cajamar - SP\,
+  07750-000\, Brasil
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - IMPACTO BLINDAGENS AUTOMOTIVAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T190000Z
+DTEND:20210909T200000Z
+DTSTAMP:20211014T133019Z
+UID:1sc51n787a61gdo7e41mjjve80@google.com
+CREATED:20210903T132408Z
+DESCRIPTION:Empresa: AUDIMAX INDUSTRIA E COMERCIO DE APARELHOS ELETRONICOS 
+ LTDA\nCNPJ: 04.785.310/0001-10\nE-CAC: 2.950.458\,94\nResponsável: Angelo e
+  João \nContato: 11 99439-6689\nDescrição: Falei com Angelo\, um dos sócios
+  da empresa\, e marcamos uma reunião presencial.
+LAST-MODIFIED:20210909T115646Z
+LOCATION:Rua Ismael Antônio da Silva\, R. Ismael Antônio da Silva - Terra P
+ reta\, Mairiporã - SP\, 07600-000\, Brasil
+SEQUENCE:3
+STATUS:CANCELLED
+SUMMARY:Laryssa e Vinicius - Mairiporã - AUDIMAX INDUSTRIA E COMERCIO DE AP
+ ARELHOS ELETRONICOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210916T160000Z
+DTEND:20210916T170000Z
+DTSTAMP:20211014T133019Z
+UID:0smkrsjs7i4b7i9m2o610as9rs@google.com
+CREATED:20210909T144207Z
+DESCRIPTION:Empresa: MERCEARIA MACHADO & CIA.LTDA\nCNPJ: 01.917.660/0001-02
+ \nE-CAC: 213.301\,46\nContato: 11 99615-5556\nResponsável: Rodolfo \nFalei 
+ com Rodolfo e ele pareceu bem interessado. Marcamos a reunião presencial.
+LAST-MODIFIED:20210909T181843Z
+LOCATION:R. Angelina Fava Schiavo\, 408 - Vila dos Pinheiros\, Caieiras - S
+ P\, 07700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras - MERCEARIA MACHADO & CIA.LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T173000Z
+DTEND:20210914T183000Z
+DTSTAMP:20211014T133019Z
+UID:2t3oejnq55bpnndmgulvhv1234@google.com
+CREATED:20210909T183817Z
+DESCRIPTION:Empresa: CESAR RODRIGUES DA SILVA TRANSPORTES\nCNPJ: 01.421.117
+ /0001-01\nE-CAC: 359.770\,71\nContato: 11 99741-5042\nResponsável: Cesar \n
+ Descrição: Passei o script para o Cesar e ele pareceu bem interessado. Marc
+ amos uma reunião presencial.
+LAST-MODIFIED:20210909T183817Z
+LOCATION:Alameda Agostinho Dela Torre\, 308 - Nova Era\, Caieiras - SP\, 07
+ 700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras - CESAR RODRIGUES DA SILVA TRANSPORTES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210910T140000Z
+DTEND:20210910T150000Z
+DTSTAMP:20211014T133019Z
+UID:622u0g2eq3oiu0jmoul417jb0q@google.com
+CREATED:20210830T122159Z
+DESCRIPTION:Empresa: OCTAN TRANSPORTES MOVIMENTACAO E ICAMENTO SA\nCNPJ: 06
+ .026.833/0001-08\nE-CAC: 1.053.921\,89\nResponsável: Jason \nContato: 11 95
+ 951-7189\nDescrição: Falei com Jason por telefone e ele pareceu bem interes
+ sado. Marcamos uma reunião online.\n\n\n\n\nVinicius: Jason já se blindou. 
+ Utiliza outro cnpj e não pareceu muito interessado em fechar contrato. Falo
+ u que vai entrar em contato na próxima semana. 
+LAST-MODIFIED:20210913T100500Z
+LOCATION:online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Cajamar - OCTAN TRANSPORTES MOVIMENTACAO E ICA
+ MENTO SA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210913T200000Z
+DTEND:20210913T210000Z
+DTSTAMP:20211014T133019Z
+UID:5l9nicf933vvebene90an0r531@google.com
+CREATED:20210902T162751Z
+DESCRIPTION:Empresa: INSTITUTO LIBERDADE REABILITACAO E RECREACAO PARA DEFI
+ CIENTES LTDA\nCNPJ: 10.199.191/0001-16\nE-CAC: 254.813\,54\nResponsável: An
+ dré \nContato:  11 95059-6727\nDescrição: Falei com Andre e ele pareceu bem
+  interessado\, marcamos uma reunião online.\n\n\n\nVINICIUS: André não cons
+ eguiu na sexta estava pegando a estrada. pediu retorno hoje no dia 13/09 pa
+ ra realizar a reunião \n\n\n\n\nAgendamento online realizado hoje. 13/09. R
+ emarcamos e a reunião foi boa. Passei o valor de 12 parcelas de 2000\,00  p
+ ara o André gostaram da proposta. \nAndré realizou alguns parcelamentos. E 
+ não está conseguindo arcar com outros . Mais foi recusado em uma portaria. 
+ Falei dos planos especiais de parcelamento. \nMarcamos uma nova reunião com
+  o contadora deve. Amanhã. Encaminhei o parecer via email para ele e para a
+  esposa.
+LAST-MODIFIED:20210913T221014Z
+LOCATION:online
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Laryssa e Vinicius - Mairiporã - INSTITUTO LIBERDADE REABILITACAO E
+  RECREACAO PARA DEFICIENTES LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210916T140000Z
+DTEND:20210916T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=Vinicius - CPQ :mailto:h65se9unpl3fi6sol3tptv11is@group.calend
+ ar.google.com
+UID:54eangj3dtc673r5vnnn6s82dc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=essej.
+ sales77@gmail.com;X-NUM-GUESTS=0:mailto:essej.sales77@gmail.com
+CREATED:20210914T141300Z
+DESCRIPTION:Empresa: EMPREITEIRA E CONSTRUCOES NTJ SS LTDA\nCNPJ: 07.940.16
+ 5/0001-92\nE-CAC: 1.751.437\,84\nContato: 11 98022-4529\nResponsável: Nilso
+ n \nDescrição: Mandei script para o Nilson\, e ele ja havia entrado em cont
+ ato por conta própria com a Villela Brasil\, tem muito interesse. Marcamos 
+ na Avenida Paulista. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n
+ \nEste evento tem uma videochamada.\nParticipar: https://meet.google.com/pj
+ m-cjtq-zgj\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210914T162149Z
+LOCATION:Villela Brasil\, Av. Paulista\, 1776 - Sala 10B - Bela Vista\, São
+  Paulo - SP\, 01310-200\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Vinicius - EMPREITEIRA E CONSTRUCOES NTJ SS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T160000Z
+DTEND:20210914T170000Z
+DTSTAMP:20211014T133019Z
+UID:7gs537fp32ktrsp28puj6ltms5@google.com
+CREATED:20210909T174950Z
+DESCRIPTION:Empresa: G.G INDUSTRIA E COMERCIO PROMOCIONAIS LTDA\nCNPJ: 10.3
+ 81.240/0001-37\nE-CAC: 287.596\,52\nContato:  11 99770-4152\nResponsável: F
+ abio Batista\nDescrição: Passei o script para o Fabio e ele me passou pront
+ amente o endereço e marcamos presencial.\n\n\nFabio recebeu o oficial nessa
+  semana. Referente as CDA's emitidas em 2016.\nAmanha dia 14/09  passará o 
+ retorno valor tratado : 12 x de 1800\,00.
+LAST-MODIFIED:20210914T173108Z
+LOCATION:R. João Rosa da Silva\, 165 - Vera Tereza\, Caieiras - SP\, 07700-
+ 000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras - G.G INDUSTRIA E COMERCIO PROMOCIONAIS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T140000Z
+DTEND:20210914T150000Z
+DTSTAMP:20211014T133019Z
+UID:5rf2t3lhl3tfqh5sl9i4n5283e@google.com
+CREATED:20210909T150117Z
+DESCRIPTION:Empresa:  ENGFLUID COMERCIO E SERVICOS LTDA\nCNPJ: 16.642.769/0
+ 001-43\nContato:  11 98383-2590 ( Jesiel) \nResponsável: Jesiel e Izaura \n
+ E-CAC: 218.675\,08\nDescrição: Falei com Jesiel\, marido da Izaura\, e ele 
+ pareceu muito interessado. Ele falou que recebeu uma notificação e está apa
+ vorado. Marcamos uma reunião online \n\n\n\nJesiel continua com a empresa a
+ tiva. Falei dos planos de parcelamento especial com ele. Onde mostrei os be
+ nefícios da Villela e com o material de apoio consegui trazer algumas decis
+ ões pra ele. \nPassei o valor de 1500\,00. Tendo em vista que ele já se bli
+ ndou. Utilizando laranja em outro CNPJ. Mais citei a celeridade que a Justi
+ ça atual vem processando.
+LAST-MODIFIED:20210914T173551Z
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras -  ENGFLUID COMERCIO E SERVICOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210916T120000Z
+DTEND:20210916T130000Z
+DTSTAMP:20211014T133019Z
+UID:4jofvbrq42buhj3io9rc8u5o0q@google.com
+CREATED:20210914T182233Z
+DESCRIPTION:Empresa: RM METALIZACAO EIRELI\nCNPJ: 05.781.043/0001-75\nE-CAC
+ : 834.304\,77 \nContato: 11 98645-0001\nResponsável: Marcelo 
+LAST-MODIFIED:20210914T182233Z
+LOCATION:Estr. do Ajoa\, 2200 - Morro Grande\, Caieiras - SP\, 07743-040\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras - RM METALIZACAO EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210915T140000Z
+DTEND:20210915T150000Z
+DTSTAMP:20211014T133019Z
+UID:15dmasqkpgpq5l8jcirm6sm87t@google.com
+CREATED:20210914T171539Z
+DESCRIPTION:Empresa: RECOMSERVICE COMPRESSORES E SISTEMAS DE AR CONDICIONAD
+ O E REFRIGERACAO LTDA\nCNPJ: 08.164.992/0001-02\nE-CAC: 1.332.935\,75\nCont
+ ato: 11 95161-6449\nResponsável: Sueli \nDescrição: Falei com Sueli e ela m
+ e passou para falarmos com Felipe\, quem está cuidando da parte financeira 
+ da empresa. Marcamos presencialmente.
+LAST-MODIFIED:20210915T114806Z
+LOCATION:Av. das Macieiras\, 58 - Vila Industrial\, Caieiras - SP\, 07700-0
+ 00\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laryssa - Caieiras - RECOMSERVICE COMPRESSORES E SISTEMAS DE AR CON
+ DICIONADO E REFRIGERACAO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210917T130000Z
+DTEND:20210917T140000Z
+DTSTAMP:20211014T133019Z
+UID:1cim0ncie0ubcro7ljlqag91tr@google.com
+CREATED:20210914T171136Z
+DESCRIPTION:Empresa: FABRICIO COGHETO CONTABILIDADE E ASSESSORIA TRIBUTARIA
+  EIRELI\nCNPJ: 02.381.573/0001-38\nE-CAC: 159.825\,54\nContato: 11 99618-83
+ 19\nResponsável: Fabricio \nDescrição: Fabricio pediu para eu ligar para el
+ e e me passou que tem um escritório de contabilidade\, que se provarmos pra
+  ele que conseguimos fazer uma redução alta ele fecha conosco.
+LAST-MODIFIED:20210917T030010Z
+LOCATION:R. Uruguai\, 101 - Centro\, Caieiras - SP\, 07700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Caieiras - FABRICIO COGHETO CONTABILIDADE E ASSESSORIA T
+ RIBUTARIA EIRELI
+TRANSP:OPAQUE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAES4QEI2TIaEgn
+ H51/cV103wBHHLHsS2F5HwCJVCgZCcmFzaWwSAkJSGgpTw6NvIFBhdWxvIgJTUDIIQ2FpZWlyYX
+ M6CTA3NzAwLTY2NVILUnVhIFVydWd1YWlaAzEwMWIQUnVhIFVydWd1YWksIDEwMSoQUnVhIFVyd
+ Wd1YWksIDEwMTIQUnVhIFVydWd1YWksIDEwMTINQ2FpZWlyYXMgLSBTUDIJMDc3MDAtNjY1MgZC
+ cmFzaWw4OUAAWicKJRISCcfnX9xXXTfAEccsexLYXkfAGNkyINOuvMSUl8nuxgGQAwE=;X-APPL
+ E-RADIUS=70.58714894296274;X-APPLE-REFERENCEFRAME=1;X-TITLE="R. Uruguai, 10
+ 1 - Centro, Caieiras - SP, 07700-000, Brasil":geo:-23.364622,-46.740969
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210920T190000Z
+DTEND:20210920T200000Z
+DTSTAMP:20211014T133019Z
+UID:3jq2cfvhpnd6pvhu1jnmgd96ol@google.com
+CREATED:20210917T174135Z
+DESCRIPTION:Empresa: MORATO EDUCADORA COMERCIO DE MATERIAL DIDATICO LTDA\nC
+ NPJ: 07.988.360/0001-92\nE-CAC: 256.703\,65\nContato: 11 96030-4993\nRespon
+ sável: Dimithrius 
+LAST-MODIFIED:20210917T174135Z
+LOCATION:R. Franco Suffredini\, 44 - Centro\, Francisco Morato - SP\, 07901
+ -180\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Francisco Morato - MORATO EDUCADORA COMERCIO DE MATERIAL
+  DIDATICO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210920T170000Z
+DTEND:20210920T180000Z
+DTSTAMP:20211014T133019Z
+UID:20gp9nkb9p9jr36eb5sfhvma5b@google.com
+CREATED:20210917T123653Z
+DESCRIPTION:Empresa: AGUSTINHO DA SILVA MENEZES\nCNPJ: 12.925.035/0001-10\n
+ E-CAC: 101.611\,75\nContato: 11 96624-9632\nResponsável: Augustinho 
+LAST-MODIFIED:20210920T141825Z
+LOCATION:Rua Peri\, 635 - Jardim Eliza\, Francisco Morato - SP\, 07902-010\
+ , Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Francisco Morato -  AGUSTINHO DA SILVA MENEZES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210920T180000Z
+DTEND:20210920T190000Z
+DTSTAMP:20211014T133019Z
+UID:7prac6705pkda19lh33lk6cl91@google.com
+CREATED:20210917T132026Z
+DESCRIPTION:Empresa:&nbsp\;<b> R.D.TELECOM LTDA</b><br>CNPJ: 10.993.187/000
+ 1-25<br>E-CAC: 229.396\,87<br>Contato:&nbsp\; 11 97437-1478<br>Responsável:
+  Felipe e Valdir&nbsp\;<br>Falei com Felipe mês passado e ele me passou que
+  já estava resolvendo na receita seus débitos\, porem eles aumentaram.&nbsp
+ \;
+LAST-MODIFIED:20210920T141840Z
+LOCATION:R. Francisco José Lopes\, 23 - Parque Agua Vermelha\, Francisco Mo
+ rato - SP\, 07912-120\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Vinicius - Francisco Morato - R.D.TELECOM LTDA
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

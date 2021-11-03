@@ -1,0 +1,1753 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DENISE - SOD
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20210713T170000Z
+DTEND:20210713T180000Z
+DTSTAMP:20211014T133019Z
+UID:4im6rb9ajvslkvv8o6b6sknom3@google.com
+CREATED:20210707T173236Z
+DESCRIPTION:\n\nNome Empresarial:\nDALF PROJETOS SERVICOS E SANEAMENTO LTDA
+ \n\nCNPJ:\n20.532.815/0001-29\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtivi
+ dade Econômica:\nConstrução de edifícios\n\nValor Total da dívida:\nR$ 407.
+ 927\,19\n\nContato : Valdemar 19 997638134
+LAST-MODIFIED:20210707T173236Z
+LOCATION:R. Paul Harris\, 607 - Cidade Nova I\, Indaiatuba - SP\, 13334-070
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise-Dalf Projetos-Indaiatuba
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T120000Z
+DTEND:20210713T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=denisedelourdesmello@gmail.com:mailto:denisedelourdesmello@gma
+ il.com
+UID:5og609vaaffm0prdqgu4usufll@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=denise
+ delourdesmello@gmail.com;X-NUM-GUESTS=0:mailto:denisedelourdesmello@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alexan
+ drehugomorais@gmail.com;X-NUM-GUESTS=0:mailto:alexandrehugomorais@gmail.com
+CREATED:20210706T202117Z
+DESCRIPTION:\n\nNome Empresarial:\nAGHILY EXPRESS TRANSPORTES EIRELI\n\nNom
+ e Fantasia:\nAGHILY TRANSPORTES\n\nCNPJ:\n13.953.595/0001-41\n\nDomicílio d
+ o Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nTransp. rodov. carga\, exce
+ to prod. perig. \, intermun.\, etc.\n\nValor Total da dívida:\nR$ 444.817\,
+ 68\n\nCONTATO LEANDRO 1998231'0182\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da
+  descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.
+ google.com/kdg-pkuc-bsm\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210707T173502Z
+LOCATION:R. Mafalda Barnabé Soliane\, 94 - Comercial Vitoria Martini\, Inda
+ iatuba - SP\, 13347-610\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//Aghily Express
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T143000Z
+DTEND:20210713T153000Z
+DTSTAMP:20211014T133019Z
+UID:4bnnsn8qvl2ndcli51plb55ug2@google.com
+CREATED:20210707T174328Z
+DESCRIPTION:\n\nNome Empresarial:\nJOSE CARLOS MUNIZ LOCADORA DE AUTOMOVEIS
+ \n\nNome Fantasia:\nTRANS ITAMARACA\n\nCNPJ:\n55.304.489/0001-87\n\nDomicíl
+ io do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nLocação de automóveis s
+ em condutor\n\nValor Total da dívida:\nR$ 434.357\,39\n\nJose Carlos 199976
+ 19730
+LAST-MODIFIED:20210707T174328Z
+LOCATION:Centro\, Indaiatuba - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise -Jose locadora de automoveis-Indaiatuba
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T200000Z
+DTEND:20210712T210000Z
+DTSTAMP:20211014T133019Z
+UID:5iobqrpmreseb262l1qg5v0gj5@google.com
+CREATED:20210707T175137Z
+DESCRIPTION:
+LAST-MODIFIED:20210707T175137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210716T140000Z
+DTEND:20210716T150000Z
+DTSTAMP:20211014T133019Z
+UID:028tq61thpme9k5i7bm011hu1a@google.com
+CREATED:20210715T185214Z
+DESCRIPTION:Cafeteria Stalden 
+LAST-MODIFIED:20210715T185214Z
+LOCATION:Rua Ademar de Barros\, R. Ademar de Barros - Centro\, Indaiatuba -
+  SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//A.F FIUZA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210716T130000Z
+DTEND:20210716T140000Z
+DTSTAMP:20211014T133019Z
+UID:6blmcuheb8rsnhg8aa5fjkqrok@google.com
+CREATED:20210714T200752Z
+DESCRIPTION:
+LAST-MODIFIED:20210715T194950Z
+LOCATION:Rua das Orquídeas\, R. das Orquídeas - Jardim Pau Preto\, Indaiatu
+ ba - SP\, Brasil Torre Business Sala 310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise //Aghily 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T190000Z
+DTEND:20210722T200000Z
+DTSTAMP:20211014T133019Z
+UID:02m5fb5d6gjpisgudnmvu9pmc1@google.com
+CREATED:20210722T123512Z
+DESCRIPTION:\n\nNome Empresarial:\nVLADIMIR ANTONIO MORA\n\nCNPJ:\n71.643.6
+ 21/0001-31\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nSe
+ rviços manutenção\, reparação mecânica veículos automotores\n\nValor Total 
+ da dívida:\nR$ 347.031\,64 \nTelefone de contato (19)38344181
+LAST-MODIFIED:20210722T123941Z
+LOCATION:Rua nove de julho\, 857 Indaiatuba
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Denise//Vladimir Antonio mora 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T133000Z
+DTEND:20210728T143000Z
+DTSTAMP:20211014T133019Z
+UID:7g10up05rqe3ff88voeeb1ih3a@google.com
+CREATED:20210722T135328Z
+DESCRIPTION:\n\nNome Empresarial:\nTRANSPORTADORA CREPALDI EIRELI\n\nNome F
+ antasia:\nTRANSPORTADORA CREPALDI\n\nCNPJ:\n10.646.360/0001-19\n\nDomicílio
+  do Devedor:\nITAPEVI\n\nAtividade Econômica:\nTransp. rodov. carga\, excet
+ o prod. perig. e mudanças\, munic.\n\nValor Total da dívida:\nR$ 743.389\,8
+ 8\nTelefone de contato (11) 94784 8153 (11)93467 3173
+LAST-MODIFIED:20210722T135910Z
+LOCATION:Rua Helena Abreu da Silva \,190
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise// Transportadora Crepaldi 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T170000Z
+DTEND:20210727T180000Z
+DTSTAMP:20211014T133019Z
+UID:78944b41mjcol1m3ccji3hseds@google.com
+CREATED:20210723T122023Z
+DESCRIPTION:\n\nNome Empresarial:\nVALCARVAL INDUSTRIA E USINAGEM LTDA\n\nC
+ NPJ:\n56.723.786/0001-20\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtividade 
+ Econômica:\nFabricação de máquinas-ferramenta\, peças e acessórios\n\nValor
+  Total da dívida:\nR$ 362.035\,79\ntelefone de contato (19) 98752 9786
+LAST-MODIFIED:20210723T122956Z
+LOCATION:R. Titi Tomazi\, 77 - Colinas de Indaiatuba\, Indaiatuba - SP\, 13
+ 331-235\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//Valcaral Industria e Usinagem
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T180000Z
+DTEND:20210722T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=denisedelourdesmello@gmail.com:mailto:denisedelourdesmello@gma
+ il.com
+UID:60k71i21oc2cdef7pelmrq1a44@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=denise
+ delourdesmello@gmail.com;X-NUM-GUESTS=0:mailto:denisedelourdesmello@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wa
+ gnerazevedodeoliveira@gmail.com;X-NUM-GUESTS=0:mailto:wagnerazevedodeolivei
+ ra@gmail.com
+CREATED:20210719T181955Z
+DESCRIPTION:\n\nNome Empresarial:\nCICI CENTRO DE INSTRUCAO E CURSOS INDEPE
+ NDENTES SS LTDA\n\nCNPJ:\n02.867.746/0001-22\n\nDomicílio do Devedor:\nINDA
+ IATUBA\n\nAtividade Econômica:\nEducação profissional de nível técnico\n\nV
+ alor Total da dívida:\nR$ 44.160\,53\nTelefone de contato (19) 991702414\n\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma vi
+ deochamada.\nParticipar: https://meet.google.com/qtf-hiod-ist\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210723T145343Z
+LOCATION:R. Ademar de Barros\, 1432 - Centro\, Indaiatuba - SP\, 13330-130\
+ , Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Denise // Escola CiCi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T180000Z
+DTEND:20210727T190000Z
+DTSTAMP:20211014T133019Z
+UID:4af9b5c376k7cp403n5ttc36pp@google.com
+CREATED:20210723T165819Z
+DESCRIPTION:\nNome Empresarial:\nBOUTIQUE DO LAR EIRELI\n\nNome Fantasia:\n
+ BOUTIQUE DO LAR\n\nCNPJ:\n04.536.550/0001-80\n\nDomicílio do Devedor:\nINDA
+ IATUBA\n\nAtividade Econômica:\nComercio varejista de artigos de cama\, mes
+ a e banho\n\nValor Total da dívida:\nR$ 729.015\,31\nTelefone de contato (1
+ 9)38946052 Renata Maria Tamitake
+LAST-MODIFIED:20210723T165819Z
+LOCATION:R. Quinze de Novembro\, 400 - Jardim Dom Bosco\, Indaiatuba - SP\,
+  13330-070\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//Boutique do Lar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T203000Z
+DTEND:20210726T213000Z
+DTSTAMP:20211014T133019Z
+UID:3v1b5gn0sieribpsc726l844l1@google.com
+CREATED:20210722T145110Z
+DESCRIPTION:\n\nNome Empresarial:\nMINEIRO MANUTENCAO E CONSTRUCOES LTDA\n\
+ nCNPJ:\n03.322.584/0001-00\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtividad
+ e Econômica:\nConstrução de edifícios\n\nValor Total da dívida:\nR$ 420.700
+ \,31\nTelefone de contato (19) 98850 1237
+LAST-MODIFIED:20210723T173305Z
+LOCATION:Parque Mall\, R. das Primaveras\, 1050 - Jardim Pompeia\, Indaiatu
+ ba - SP\, 13345-020\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Denise//Mineiro Manutenção e Construçoes 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T160000Z
+DTEND:20210727T170000Z
+DTSTAMP:20211014T133019Z
+UID:2nhi8asn7mnck93gtn5svgpov4@google.com
+CREATED:20210722T135056Z
+DESCRIPTION:\n\nNome Empresarial:\nSUPORTE SOLUCOES CONTABEIS EIRELI\n\nNom
+ e Fantasia:\nSUPORTE SOLUCOES CONTABEIS\n\nCNPJ:\n12.996.860/0001-06\n\nDom
+ icílio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nAtividades de conta
+ bilidade\n\nValor Total da dívida:\nR$ 379.360\,54\nTelefone de contato (19
+ ) 996399915
+LAST-MODIFIED:20210726T143356Z
+LOCATION:R. Ademar de Barros\, 1432 - Centro\, Indaiatuba - SP\, 13330-130\
+ , Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Denise // Suporte Soluçoes Contabeis 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T144500Z
+DTEND:20210728T154500Z
+DTSTAMP:20211014T133019Z
+UID:5aahc8fdob5uqer7d3e78vq9me@google.com
+CREATED:20210726T180532Z
+DESCRIPTION:\n\n\nNome Empresarial:\nPEREIRA & HOLANDA INDUSTRIA QUIMICA LT
+ DA\n\nCNPJ:\n00.321.492/0001-17\n\nDomicílio do Devedor:\nITAPEVI\n\nAtivid
+ ade Econômica:\nFabricação de tintas\, vernizes\, esmaltes e lacas\n\nValor
+  Total da dívida:\nR$ 632.320\,82\ntelefone de contato (11)999640445
+LAST-MODIFIED:20210726T180912Z
+LOCATION:Estr. Aracariguama\, 1001 - Estância São Francisco\, Itapevi - SP\
+ , 06695-560\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//Pereira &Holanda 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210730T130000Z
+DTEND:20210730T140000Z
+DTSTAMP:20211014T133019Z
+UID:6ao07pup9ur7j6oagrirh6umvb@google.com
+CREATED:20210729T185527Z
+DESCRIPTION:\n\nNome Empresarial:\nHDINVEST NEGOCIOS E INVESTIMENTOS LTDA\n
+ \nNome Fantasia: \nHD INVEST CONSORCIOS E IMOVEIS\n\nCNPJ:\n19.437.827/0001
+ -95\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nOutros re
+ pres. comerciais especializados prod. não especif.\n\nValor Total da dívida
+ :\nR$ 328.282\,37\nTelefone de contato (15) 982696810
+LAST-MODIFIED:20210729T185734Z
+LOCATION:Av. Eng. Fábio Roberto Barnabé\, 859 - Chácara Areal\, Indaiatuba 
+ - SP\, 13348-385\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//HD Invest Negocios e Investimentos 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210806T103000Z
+DTEND:20210806T113000Z
+DTSTAMP:20211014T133019Z
+UID:5a7le3kocet8elu76552ccjlfe@google.com
+CREATED:20210802T141612Z
+DESCRIPTION:TELEFONE DE CONTATO (11) 996126674 / INDAIATUBA 
+LAST-MODIFIED:20210802T141612Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ligar para Fernando Cesar /Planejas Serviços 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T183000Z
+DTEND:20210803T193000Z
+DTSTAMP:20211014T133019Z
+UID:5sf05t199k6vo285s89cfhcev0@google.com
+CREATED:20210802T175424Z
+DESCRIPTION:\n\nNome Empresarial:\nABNER QUEIROS DE ABREU SERVICOS DE PINTU
+ RA\n\nNome Fantasia:\nIMPERIO DAS TINTAS\n\nCNPJ:\n10.832.890/0001-51\n\nDo
+ micílio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nServiços de pintur
+ a de edifícios em geral\n\nValor Total da dívida:\nR$ 315.785\,83\nTELEFONE
+  DE CONTATO (19) 995943278 ABNER
+LAST-MODIFIED:20210802T175640Z
+LOCATION:Av. Eng. Fábio Roberto Barnabé\, 1930 - Jardim Esplanada\, Indaiat
+ uba - SP\, 13331-520\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise // Abner Queiros de Abreu Serviços de Pintura 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T103000Z
+DTEND:20210803T113000Z
+DTSTAMP:20211014T133019Z
+UID:4g9lbi51f2tvi6c2ol5tanvbtj@google.com
+CREATED:20210802T190357Z
+DESCRIPTION:ligar pela manha para agendar um horário 
+LAST-MODIFIED:20210802T190357Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise /Rotex Industria de Maquinas Comercio e Serviços Eireli 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T170000Z
+DTEND:20210803T180000Z
+DTSTAMP:20211014T133019Z
+UID:4o3r0dgkdqu84nq4ucnof9dd2n@google.com
+CREATED:20210802T192927Z
+DESCRIPTION:\n\nNome Empresarial:\nSYSCORP ELETRICA LTDA\n\nCNPJ:\n03.645.5
+ 11/0001-59\n\nDomicílio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nIn
+ stalação e manutenção elétrica\n\nValor Total da dívida:\nR$ 309.303\,91\nT
+ ELEFONE DE CONTATO (19) 38947012 PAULO /GERENTE / PEDRO HENRIQUE SALES /ADM
+ INISTRADOR........REUNIÃO MARCADA COM O SENHOR PAULO
+LAST-MODIFIED:20210802T193307Z
+LOCATION:R. Hermínio Steffen\, 345 - Jardim Regina\, Indaiatuba - SP\, 1334
+ 8-883\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise// Syscorp Eletrica LTDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210805T183000Z
+DTEND:20210805T193000Z
+DTSTAMP:20211014T133019Z
+UID:0j1iv01p5j8njrm6deecodsras@google.com
+CREATED:20210805T164346Z
+DESCRIPTION:\n\nNome Empresarial:\nALEX SANDRO JOSE DA SILVA ENTREGAS RAPID
+ AS\n\nNome Fantasia:\nGS TRANSPORTES\n\nCNPJ:\n08.903.166/0001-20\n\nDomicí
+ lio do Devedor:\nINDAIATUBA\n\nAtividade Econômica:\nServiços de entrega rá
+ pida\n\nValor Total da dívida:\nR$ 282.380\,7\nTELEFONE(19)992212428
+LAST-MODIFIED:20210805T164637Z
+LOCATION:Rua Sílvio Talli\, 1289 - Jardim California\, Indaiatuba - SP\, 13
+ 344-648\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise//Alex Sandro Jose da Silva 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210810T170000Z
+DTEND:20210810T180000Z
+DTSTAMP:20211014T133019Z
+UID:7fv2pv790hgr02fvlg355nrne0@google.com
+CREATED:20210809T192543Z
+DESCRIPTION:\n\nNome Empresarial:\nALEXANDRE DE OLIVEIRA ITU \n\nNome Fanta
+ sia:\nPROMEDIC\n\nCNPJ:\n02.888.012/0001-20\n\nDomicílio do Devedor:\nITU\n
+ \nAtividade Econômica:\nComércio atac. instr.\, materiais uso médico\, cirú
+ rgico\, etc.\n\nValor Total da dívida:\nR$ 263.849\,04\ntelefone de contato
+  (11) 27151090
+LAST-MODIFIED:20210809T192543Z
+LOCATION:R. Sueli Aparecida Costa\, 407 - Parque Nossa Sra. da Candelaria\,
+  Itu - SP\, 13310-200\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise// Carlos Alexandre Bernardo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T130000Z
+DTEND:20210812T140000Z
+DTSTAMP:20211014T133019Z
+UID:2ugm8ag8e6vc4qou1fh5mi5s1e@google.com
+CREATED:20210810T170110Z
+DESCRIPTION:<b>Empresa:</b>&nbsp\;RZ SINALIZACAO  EIRELI<br><br><b>CNPJ:</b
+ > 11.219.254/0001-11<br><br><b>E-Cac:</b>&nbsp\; 101.090\,59<br><b>ICMS:</b
+ >&nbsp\; &nbsp\;2.362.700\,51<br><br><b>Responsável:</b> HENRIQUE ZAMBELLI 
+ JUNIOR<br><br><b>Contato:</b> +55 11 94791-2650<br><br><b>Descrição:</b> Pa
+ ssei o script e ele logo quis agendar a visita.<br>&nbsp\;
+LAST-MODIFIED:20210810T170110Z
+LOCATION:R OSVALDO DE SOUZA AGUIRRE\, 679\, FUNDOS\, JARDIM MARIA JOSE\, SA
+ LTO - SP - 13321-060
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - RZ SINALIZACAO  EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T140000Z
+DTEND:20210812T150000Z
+DTSTAMP:20211014T133019Z
+UID:5u2v5946a5q54a1bk5inaig5fp@google.com
+CREATED:20210810T194625Z
+DESCRIPTION:<b>Empresa:</b> BRIPENUSINAGEM E FERRAMENTAS LTDA.<br><b>CNPJ:<
+ /b> 55.843.379/0001-93<br><b>E-Cac:</b> 111.833\,03<br><b>Responsável</b>: 
+ Gabriel<br><b>Telefone:</b> +55 11 99999-1857 (Edemir Bricchesi)<br><br><b>
+ Detalhes: </b>entrei em contato via whatsapp e passei o script. Falei com o
+  Edemir\, mas quem realizará a reunião será o Gabriel\, que é o responsável
+  financeiro.
+LAST-MODIFIED:20210810T194625Z
+LOCATION:R TOSCANA\, 223\, VILA ROMA\, SALTO - SP - 13321-440
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE- SALTO- BRIPENUSINAGEM E FERRAMENTAS LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T180000Z
+DTEND:20210812T190000Z
+DTSTAMP:20211014T133019Z
+UID:29mg82vj6ut3d9lje3vcre2s6e@google.com
+CREATED:20210811T224126Z
+DESCRIPTION:<b>Empresa</b>: NUTRIBEM DE SALTO ALIMENTOS LTDA<br><br><b>CNPJ
+ </b>: 06.288.558/0001-09<br><br><b>E-Cac</b>: R$ 130.116\,43<br><br><b>ICMS
+ :</b> R$ 53.749\,86<br><br><b>Responsável</b>: LIANETE RUFINO DA SILVA OLIV
+ EIRA<br><b><br></b><br><b>Contato:</b> +55 11 94124-8534<br><br><b>Descriçã
+ o: </b>Passei o script e a cliente ficou interessada em fazer a reunião.
+LAST-MODIFIED:20210812T115216Z
+LOCATION:R. Pelé\, 458 - Jardim Maria Jose\, Salto - SP\, 13321-090\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - NUTRIBEM DE SALTO ALIMENTOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210811T170000Z
+DTEND:20210811T180000Z
+DTSTAMP:20211014T133019Z
+UID:7c17b5n9vlmoea7lo4c69g4a1n@google.com
+CREATED:20210809T170826Z
+DESCRIPTION:\n\nNome Empresarial:\nHOLE IN ONE RESTAURANTE LTDA.\n\nCNPJ:\n
+ 13.893.712/0001-29\n\nDomicílio do Devedor:\nITU\n\nAtividade Econômica:\nR
+ estaurantes e similares\n\nValor Total da dívida:\nR$ 289.917\,1\nTELEFONE 
+ PARA CONTATO (11)999385922
+LAST-MODIFIED:20210813T130711Z
+LOCATION:Terras de São José Golfe Clube\, Alameda São Francisco Golfe\, s/n
+  - Terras de São José\, Itu - SP\, 13306-443\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Denise// Hole In One Restaurante Ltda 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T160000Z
+DTEND:20210812T170000Z
+DTSTAMP:20211014T133019Z
+UID:6grdh4m6gvdi89v8ujskvo7bkc@google.com
+CREATED:20210813T130750Z
+DESCRIPTION:Nome Empresarial:\nHOLE IN ONE RESTAURANTE LTDA.\n\nCNPJ:\n13.8
+ 93.712/0001-29\n\nDomicílio do Devedor:\nITU\n\nAtividade Econômica:\nResta
+ urantes e similares\n\nValor Total da dívida:\nR$ 289.917\,1\nTELEFONE PARA
+  CONTATO (11)999385922
+LAST-MODIFIED:20210813T130750Z
+LOCATION:Terras de São José Golfe Clube\, Alameda São Francisco Golfe\, s/n
+  - Terras de São José\, Itu - SP\, 13306-443\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise// Hole In One Restaurante Ltda 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210818T130000Z
+DTEND:20210818T140000Z
+DTSTAMP:20211014T133019Z
+UID:13bcb89dbpugvl9e7atekjrphu@google.com
+CREATED:20210813T192312Z
+DESCRIPTION:<b>Empresa:</b> FORTE VILLE EMPREENDIMENTOS IMOBILIARIOS EIRELI
+ <br><br><b>CNPJ:</b> 50.224.260/0001-19<br><br><b>E-Cac</b>: R$ 14.471.342\
+ ,30<br><br><b>ICMS:</b> R$ 269.844\,56<br><br><b>Responsável</b>: LUIS ERNA
+ NI MORAES TORTOSA FELIX<br><br><b>Contato: </b>+55 11 94382-7061<br><br><b>
+ Descrição: </b>Enviei o script e o cliente quis marcar a reunião logo de pr
+ imeira\, mas me deu um endereço diferente do que estava no sistema e pediu 
+ para lembrar ele na Terça-feira sobre a reunião na quarta.
+LAST-MODIFIED:20210813T192312Z
+LOCATION:R. José Eduardo Teixeira Guimarães\, 225 - São Luiz\, Itu - SP\, 1
+ 3304-230\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - FORTE VILLE EMPREENDIMENTOS IMOBILIARIOS EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210818T170000Z
+DTEND:20210818T180000Z
+DTSTAMP:20211014T133019Z
+UID:7s0tc6q5ai3s5q2hmd7ug3fdcd@google.com
+CREATED:20210813T194536Z
+DESCRIPTION:<b>Empresa:</b> CM PORTARIA E LIMPEZA LTDA.<br><br><b>CNPJ:</b>
+  22.298.002/0001-41<br><br><b>E-Cac: </b>R$ 276.099\,95<br><br><b>Responsáv
+ el:</b> Vanessa<br><b><br></b><br><b>Contato: </b>+55 11 97143-4696<br><br>
+ <b>Descrição: </b>Entrei em contato com a sócia Luci\, que e passou o conta
+ to da Vanessa que seria a pessoa responsável pela empresa. A empresa é de P
+ orto Feliz\, mas por preferencia de Vanessa a reunião será em Itu.
+LAST-MODIFIED:20210813T194536Z
+LOCATION:R. Me. Maria Basília\, 292 - Centro\, Itu - SP\, 13300-003\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - CM PORTARIA E LIMPEZA LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210818T140000Z
+DTEND:20210818T150000Z
+DTSTAMP:20211014T133019Z
+UID:5e08irdf7h1oog6crssl5qpfor@google.com
+CREATED:20210816T142943Z
+DESCRIPTION:<b>Empresa: </b>VASATEX COMERCIO E REPRESENTACAO DE CERAMICA LT
+ DA.<br><br><b>CNPJ:</b> 46.838.991/0001-87<br><br><b>E-Cac: </b>R$ 11.951.4
+ 72\,72<br><br><b>ICMS:</b> R$ 428.407\,95<br><br><b>Responsável: </b>WALTER
+  GIMENES FELIX<br><br><b>Contato: </b>+55 12 99654-1308<br><br><b>Descrição
+ :</b>&nbsp\; Enviei o script para o cliente e ele disse já ter conversado c
+ om alguém de nossa equipe mas aceitou fazer a reunião. Está marcada para ás
+  11hs\, mas se conseguir chegar antes\, após terminar a reunião das 10hs el
+ e prefere.
+LAST-MODIFIED:20210816T142943Z
+LOCATION:R. José Eduardo Teixeira Guimarães\, 225 - São Luiz\, Itu - SP\, 1
+ 3304-230\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - VASATEX COMERCIO E REPRESENTACAO DE CERAMICA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210819T130000Z
+DTEND:20210819T140000Z
+DTSTAMP:20211014T133019Z
+UID:2unh6iq9hqvefpsccgql2tapd4@google.com
+CREATED:20210817T145504Z
+DESCRIPTION:<b>Empresa:</b> M G SEGOBIA TACOGRAFOS<br><br><b>CNPJ: </b>12.4
+ 40.642/0001-90<br><br><b>E-Cac:</b> R$ 150.993\,36<br><br><b>ICMS:</b> R$ 9
+ 9\,23<br><br><b>Responsável:</b> Marcelo Garcia&nbsp\;<br><b><br></b><br><b
+ >Contato: </b>55 11 94723-0936 (filho)<br>55 15 97405-9512 (pai)<br><br><b>
+ Descrição:</b> Entrei em contato com os dois números do cadastro\, onde o p
+ ai confirmou a reunião mas quem estará em seu lugar é sua esposa Rosmeire. 
+ E também com o filho que confirmou também participar da reunião.
+LAST-MODIFIED:20210817T145504Z
+LOCATION:R BATALHA DE ITORORO\, 1050\, DISTRITO INDUSTRIAL DO LAGEADO\, SAL
+ TO - SP - 13329-430
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - M G SEGOBIA TACOGRAFOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210819T140000Z
+DTEND:20210819T150000Z
+DTSTAMP:20211014T133019Z
+UID:7no68f6g3nt4rmfdhsmfff5i6l@google.com
+CREATED:20210817T170704Z
+DESCRIPTION:<b>Empresa:</b> ELIZABETE PORTILHO FERREIRA BRAGA<br><br><b>CNP
+ J: </b>10.221.971/0001-15<br><br><b>E-Cac:</b> 168.955\,99<br><br>Responsáv
+ el: ELIZABETE PORTILHO FERREIRA BRAGA<br><br><b>Contato: </b>55 11 99764-66
+ 17<br><br><b>Descrição:</b> Passei o script\, ela se interessou e quis conv
+ ersar com o marido antes de confirmar. Logo após já me deu o retorno confir
+ mando a reunião.
+LAST-MODIFIED:20210817T170704Z
+LOCATION:AV 9 DE JULHO\, 1895\, JARDIM SANTA LUCIA\, SALTO - SP - 13321-498
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - ELIZABETE PORTILHO FERREIRA BRAGA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210818T160000Z
+DTEND:20210818T170000Z
+DTSTAMP:20211014T133019Z
+UID:2bvodg2hq41kljrnardsvvdbot@google.com
+CREATED:20210817T171209Z
+DESCRIPTION:\n\nNome Empresarial:\nMARCELO L. DE CAMARGO SERVICOS ADMINISTR
+ ATIVOS LTDA\n\nCNPJ:\n01.210.465/0001-30\n\nDomicílio do Devedor:\nITU\n\nA
+ tividade Econômica:\nPreparação docum.\, serv. apoio administrativo não esp
+ ecific.\n\nValor Total da dívida:\nR$ 249.814\,42\nTELEFONE DE CONTATO (11)
+ 998731348
+LAST-MODIFIED:20210817T172117Z
+LOCATION:R. dos Andradas\, 723 - Centro\, Itu - SP\, 13300-170\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise/ Marcelo L de Camargo Serviços  Administrativos LTDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210819T170000Z
+DTEND:20210819T180000Z
+DTSTAMP:20211014T133019Z
+UID:62dl0suemupqtv3hedvi3d5idt@google.com
+CREATED:20210817T190417Z
+DESCRIPTION:<b>Empresa: </b>ARCA NAUTICA EIRELI<br><br><b>CNPJ: </b>09.579.
+ 120/0001-60<br><br><b>E-Cac:</b> R$ 221.961\,73<br><br><b>ICMS:</b> R$ 6.51
+ 5\,82<br><br><b>Responsável:</b> ANA PAULA PENHA<br><br><b>Contato:</b> 55 
+ 11 94234-5287<br><br><b>Descrição:</b> Passei o script e ela logo se intere
+ ssou em marcar a reunião.<br><b><br></b><br><b>Referencia do endereço:</b> 
+ Rodovia da Convenção Republicana km 1 Chácara Conte Fundos Salto vizinho da
+  COPAVE ARTEFATOS DE BORRACHA
+LAST-MODIFIED:20210817T190417Z
+LOCATION:Rod. da Convenção\, 1779 - Salto de São José\, Salto - SP\, 13324-
+ 240\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE -SALTO - ARCA NAUTICA EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T130000Z
+DTEND:20210825T140000Z
+DTSTAMP:20211014T133019Z
+UID:063f2aq85rf1k34fci4nveq7rv@google.com
+CREATED:20210823T162003Z
+DESCRIPTION:<b>Empresa</b>: AMICINTOS INDUSTRIA E COMERCIO LTDA.&nbsp\;<br>
+ <br><b>CNPJ: </b>16.979.531/0001-08<br><br><b>E-Cac: </b>414.158\,52<br><br
+ ><b>Responsável: </b>BRUNO MOBRICE SPINOSO<br><br><b>Contato: </b>55 11 982
+ 58-0025<br><br><b>Descrição: </b>Passei o script e ele logo se interessou\,
+  por já estar ciente dos débitos e da crise atual que muitas empresas então
+  passando por causa da pandemia\, e disse que vai conversar com o outro sóc
+ io para ele comparecer também.&nbsp\;
+LAST-MODIFIED:20210823T162003Z
+LOCATION:AV CAETANO RUGGIERI\, 4000\, PARQUE DAS ROSAS\, ITU - SP - 13310-6
+ 00
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU- AMICINTOS INDUSTRIA E COMERCIO LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T180000Z
+DTEND:20210825T190000Z
+DTSTAMP:20211014T133019Z
+UID:77d6dat89slmr2vhq04i1qa424@google.com
+CREATED:20210823T133723Z
+DESCRIPTION:\n\nNome Empresarial:\nF P PISOS INDUSTRIAIS LTDA\n\nNome Fanta
+ sia:\nF P PISOS INDUSTRIAIS\n\nCNPJ:\n20.228.510/0001-28\n\nDomicílio do De
+ vedor:\nITU\n\nAtividade Econômica:\nAplicação revestim. e de resinas em in
+ teriores e exteriores\n\nValor Total da dívida:\nR$ 218.280\,6\nTelefone de
+  contato(11 )9959 5652
+LAST-MODIFIED:20210825T114628Z
+LOCATION:Rua Doutor Braz Bicudo de Almeida\, R. Dr. Braz Bicudo de Almeida\
+ , Itu - SP\, 13309\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Denise/FP Pisos Industriais 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T170000Z
+DTEND:20210825T180000Z
+DTSTAMP:20211014T133019Z
+UID:3su0b5u5mkafeor6kr04g0i0uu@google.com
+CREATED:20210823T200511Z
+DESCRIPTION:Empresa: FLAVIO BATISTA DOS SANTOS TRANSPORTES. \n\nCNPJ: 11.98
+ 0.956/0001-13\n\nE-Cac: 226.125\,88\n\nResponsável: FLAVIO BATISTA DOS SANT
+ OS \n\nContato: 55 11 99709-2103\n\nDescrição: mandei script e ele se inter
+ essou\, mas acha que tem um parcelamento em andamento.
+LAST-MODIFIED:20210825T144820Z
+LOCATION:R SAO JOSE\, 303\, VILA SAO FRANCISCO\, ITU - SP - 13311-150
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE- ITU - FLAVIO BATISTA DOS SANTOS TRANSPORTES. 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210830T130000Z
+DTEND:20210830T140000Z
+DTSTAMP:20211014T133019Z
+UID:5u9q7ln6d9jfqakejd50clh8io@google.com
+CREATED:20210824T164907Z
+DESCRIPTION:
+LAST-MODIFIED:20210826T130545Z
+LOCATION:R. Mafalda Barnabé Soliane\, 94 - Comercial Vitoria Martini\, Inda
+ iatuba - SP\, 13347-610\, Brasil
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Denise /Aghily Express
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210827T130000Z
+DTEND:20210827T140000Z
+DTSTAMP:20211014T133019Z
+UID:77t1kj1ful1kbbot1jncre178n@google.com
+CREATED:20210825T175856Z
+DESCRIPTION:<b>Empresa:</b> GUILHERME ROCCO TRANSPORTES.<br><br><b>CNPJ:</b
+ > 12.969.597/0001-66<br><br><b>E-Cac: </b>376.690\,78<br><br><b>ICMS:</b> 7
+ 34.708\,43<br><br><b>Responsável:</b> Vanderlei Rocco<br><br><b>Contato:</b
+ > 55 11 94183-9415<br><br><b>Descrição</b>: Entrei em contato com Guilherme
+  Rocco\, que é o dono da empresa no sistema e ele disse que não fica em Sal
+ to e me passou o contato do Vanderlei\, que é quem é responsável em Salto. 
+ Vanderlei pediu que ligasse antes de ir na reunião\, para lembra-lo. CONFIR
+ MADO.
+LAST-MODIFIED:20210827T125455Z
+LOCATION:Guilherme Rocco Transportes\, Av. Walter Nardelli\, 2030 - Jardim 
+ Guarujá\, Salto - SP\, 13323-260\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE- SALTO - GUILHERME ROCCO TRANSPORTES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210827T203000Z
+DTEND:20210827T213000Z
+DTSTAMP:20211014T133019Z
+UID:7a2iaasik05rm0u34ohi4uvnio@google.com
+CREATED:20210827T174136Z
+DESCRIPTION:\n\nNome Empresarial:\nEDIVAN LUCAS CONSTRUCOES LTDA\n\nNome Fa
+ ntasia:\nCONSTRULAR\n\nCNPJ:\n17.887.219/0001-57\n\nDomicílio do Devedor:\n
+ ITU\n\nAtividade Econômica:\nComércio varejista de materiais de construção 
+ em geral\n\nValor Total da dívida:\nR$ 230.942\,29\nREUNIÃO AQUI NO ESCRITÓ
+ RIO\nTELEFONE DE CONTATO \n11 973600129 
+LAST-MODIFIED:20210827T174136Z
+LOCATION:Avenida Rudolf Dafferner\, Av. Rudolf Dafferner\, Sorocaba - SP\, 
+ 18085-005\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise /Edivan 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T123000Z
+DTEND:20210831T133000Z
+DTSTAMP:20211014T133019Z
+UID:4ffsihqse8pbc031vdk5fel41i@google.com
+CREATED:20210830T143625Z
+DESCRIPTION:<b>Empresa: </b>CONFECCOES STAR PORT LTDA.<br><b>CNPJ:</b> 57.7
+ 87.723/0001-08<br><b>E-Cac: </b>649.536\,74<br><b>Responsável: </b>Rogério 
+ Bueno<br><b>Contato: </b>55 11 94806-0000<br><br><b>Descrição:</b> Cliente 
+ disse que a empresa está fechada desde 2002\, mas constam débitos de 2009. 
+ Concordou com a reunião com um pouco de pressa.
+LAST-MODIFIED:20210830T143625Z
+LOCATION:R. Joaquim Nabuco\, 338 - Centro\, Salto - SP\, 13320-370\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - CONFECCOES STAR PORT LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T133000Z
+DTEND:20210831T143000Z
+DTSTAMP:20211014T133019Z
+UID:3e8s5vn8odooj90ncfbhr1asca@google.com
+CREATED:20210830T163941Z
+DESCRIPTION:<b>Empresa: </b>GIOVANI A. TRAMARIN SALTO.<br><b>CNPJ:</b> 02.9
+ 81.550/0001-64<br><b>E-Cac: </b>607.485\,44<br><b>Responsável: </b>GIOVANI 
+ APARECIDO TRAMARIN<br><b>Contato:</b> 55 11 97400-4260<br><br><b>Descrição:
+  </b>Passei script e ele concordou.&nbsp\;
+LAST-MODIFIED:20210830T163941Z
+LOCATION:AV DOM PEDRO II\, 1554\, VILA TEIXEIRA\, SALTO - SP - 13320-241
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - GIOVANI A. TRAMARIN SALTO.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210901T130000Z
+DTEND:20210901T140000Z
+DTSTAMP:20211014T133019Z
+UID:6mmrpkanttk5tge729hb0ft6e8@google.com
+CREATED:20210830T172715Z
+DESCRIPTION:<b>Empresa: </b>BIOSPHERA INDUSTRIA FARMACEUTICA EIRELI.<br><b>
+ CNPJ: </b>01.152.832/0001-96<br><b>E-Cac:</b> 839.759\,69<br><b>ICMS: </b>1
+ .222.621\,56<br><b>Responsável: </b>Caio Rigolim<br><b>Contato:</b> 55 11 9
+ 5357-5181<br><br><b>Descrição:</b> entrei em contato com o cliente e ele se
+  interessou\, mas por já ter perdido muito tempo com empresas do nosso ramo
+  que não cumprem o que dizem\, ele prefere que o primeiro contato seja onli
+ ne.&nbsp\;
+LAST-MODIFIED:20210830T172715Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ONLINE - BIOSPHERA INDUSTRIA FARMACEUTICA EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210910T130000Z
+DTEND:20210910T140000Z
+DTSTAMP:20211014T133019Z
+UID:5kv93fleuat2v8avq1jvm2053j@google.com
+CREATED:20210831T121658Z
+DESCRIPTION:<b>Empresa:</b>&nbsp\;IRMAS SOUZA SERVICOS EM GERAL E TRANSPORT
+ ES LTDA<br><b>CNPJ:</b> 21.498.380/0001-06<br><b>E-Cac:</b> 1.068.471\,21<b
+ r><b>ICMS: </b>1.396.596\,94<br><b>Responsáve</b>l: Joseane<br><b>Contato: 
+ </b>55 11 98641-5691<br><br><b>Descrição: </b>entrei em contato com a sócia
+  Andressa que me passou o contato da Joseane\, que é a pessoa responsável p
+ or estes assuntos na empresa\, e marquei com a Joseane\, que escolheu a dat
+ a e o horário.
+LAST-MODIFIED:20210831T121658Z
+LOCATION:R. JORNAL O TRABALHADOR\, 152 - JULIO USTRITO SALTO - SP\, 1332374
+ 2 SL 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO- IRMAS SOUZA SERVICOS EM GERAL E TRANSPORTES LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210831T163000Z
+DTEND:20210831T173000Z
+DTSTAMP:20211014T133019Z
+UID:67c2hhmgnjsj5dkmocp52olc9o@google.com
+CREATED:20210830T192526Z
+DESCRIPTION:<b>Empresa:</b> NORIVAL SOARES DE MAGALHAES.&nbsp\;<br><b>CNPJ:
+ </b> 10.376.915/0001-50<br><b>E-Cac:</b> 1.746.519\,17<br><b>ICMS: </b>25.7
+ 21\,40<br><b>Responsável:</b> Norival<br><b>Contato: </b>55 11 98515-0834<b
+ r><br><b>Descrição: </b>Passei o script e ele logo se interessou em marcar.
+LAST-MODIFIED:20210831T144813Z
+LOCATION:R. Jornal O Trab.\, 72 - Bairo Julio Ustrito\, Salto - SP\, 13323-
+ 742\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO-  NORIVAL SOARES DE MAGALHAES.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210902T163000Z
+DTEND:20210902T173000Z
+DTSTAMP:20211014T133019Z
+UID:492ht9m9enij17oqugulg2nfd6@google.com
+CREATED:20210831T165105Z
+DESCRIPTION:<b>Empresa</b>: TELESI ARTEFATOS DE COURO LTDA.<br><b>CNPJ:</b>
+  03.404.513/0001-56<br><b>E-Cac:</b> 1.545.514\,90<br><b>ICMS</b>: 471.757\
+ ,01<br><b>Responsável</b>: Adalberto<br><b>Contato</b>: 55 11 99777-8854<br
+ ><br><b>Descrição:</b> Entrei em contato com Walter\, que me passou o conta
+ to do Adalberto\, que seria o responsável por esta parte da empresa. Adalbe
+ rto se interessou em falar conosco mas só poderia na quinta-feira entre os 
+ horários das 13:30 e 14:30.
+LAST-MODIFIED:20210831T165105Z
+LOCATION:R. GETULIO VARGAS\, 25 - JARDIM ELIZABETH SALTO - SP\, 13326025
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - TELESI ARTEFATOS DE COURO LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210902T183000Z
+DTEND:20210902T193000Z
+DTSTAMP:20211014T133019Z
+UID:0ttcutahmog0n9giu1e4ru23aa@google.com
+CREATED:20210826T192345Z
+DESCRIPTION:\nNome Empresarial:\nW.T. ODONTOLOGIA EIRELI\n\nCNPJ:\n12.456.8
+ 31/0001-51\n\nDomicílio do Devedor:\nITU\n\nAtividade Econômica:\nAtividade
+  odontológica com realização procedim. cirúrgicos\n\nValor Total da dívida:
+ \nR$ 200.258\,73\nTelefone de Contato 11 999103378
+LAST-MODIFIED:20210901T145614Z
+LOCATION:R. Salto\, 3 - Cidade Nova I\, Itu - SP\, 13308-081\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Denise /W.T Odontologia 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210903T130000Z
+DTEND:20210903T140000Z
+DTSTAMP:20211014T133019Z
+UID:0l0lgcufopthcli5oghjcl92sd@google.com
+CREATED:20210901T170536Z
+DESCRIPTION:\n\nNome Empresarial:\nGHADIEH CIA LTDA\n\nNome Fantasia:\nGHAD
+ IEH ALIMENTOS\n\nCNPJ:\n50.223.973/0001-68\n\nDomicílio do Devedor:\nITU\n\
+ nAtividade Econômica: \nBeneficiamento de arroz\n\nValor Total da dívida:\n
+ R$ 1.877.798\,68\ntelefone de contato :11 974126999
+LAST-MODIFIED:20210901T170753Z
+LOCATION:Av. Caetano Ruggieri\, 699 - Parque Res. Mayard\, Itu - SP\, 13311
+ -560\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise/Ghadie Cia Ltda 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210902T173000Z
+DTEND:20210902T183000Z
+DTSTAMP:20211014T133019Z
+UID:75ccfbc07aajto51furctt41bb@google.com
+CREATED:20210901T213149Z
+DESCRIPTION:RESIDENCIAL GREEM PARK.\n\nEmpresa: AIRTON RUBENS DA SILVA  EIR
+ ELI. \nCNPJ: 22.428.812/0001-75\nE-Cac: 3.256.657\,51\nResponsável:  AIRTON
+  RUBENS DA SILVA\nContato: 55 11 94319-9654\n\nDescrição: passei o script e
+  ele se interessou.
+LAST-MODIFIED:20210901T213149Z
+LOCATION:Av. Remigio Dalla Vecchia\, 431 - Jardim Nair Maria\, Salto - SP\,
+  13322-270\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - AIRTON RUBENS DA SILVA  EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T130000Z
+DTEND:20210909T140000Z
+DTSTAMP:20211014T133019Z
+UID:76f51t6fuv3muj346s770f9dgt@google.com
+CREATED:20210903T133741Z
+DESCRIPTION:<b>Empresa:</b> LUIZ CARLOS TESOTO PORTO FELIZ<br><b>CNPJ:</b> 
+ 08.261.770/0001-08<br><b>E-Cac:</b> 105.156\,22<br><b>Responsável</b>: Luis
+  Carlos Tesoto<br><b>Contato:</b> 55 15 99799-2820<br><br><b>Descrição:</b>
+  Passei script e ele confirmou interesse.
+LAST-MODIFIED:20210903T133741Z
+LOCATION:AV MONSENHOR SECKLER\, 591\, PORTO FELIZ - SP - 18540-000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - PORTO FELIZ - LUIZ CARLOS TESOTO PORTO FELIZ.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210910T140000Z
+DTEND:20210910T150000Z
+DTSTAMP:20211014T133019Z
+UID:2q2gor68l20mikhnpqbc0updoo@google.com
+CREATED:20210909T153045Z
+DESCRIPTION:<b>Empresa:</b> BELCRIS CONFECCOES LTDA.<br><b>CNPJ:</b> 66.859
+ .174/0001-12<br><b>E-Cac:</b> 149.750\,96<br><b>ICMS</b>: 15.532\,36<br><b>
+ Responsável</b>: SONIA MARIA VILLA CASTILHO<br><b>Contato:</b> 55 11 97136-
+ 1231<br><br><b>Descrição:</b> Enviei o script e ela se interessou\, disse q
+ ue tem de ser neste horário porque tem compromissos á tarde.
+LAST-MODIFIED:20210909T153045Z
+LOCATION:R BARAO DO RIO BRANCO\, 541\, CENTRO\, SALTO - SP - 13320-270
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO -BELCRIS CONFECCOES LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210910T170000Z
+DTEND:20210910T180000Z
+DTSTAMP:20211014T133019Z
+UID:3attvujbd01l731td2icdiap57@google.com
+CREATED:20210909T170901Z
+DESCRIPTION:<b>Empresa:</b> M MEDEIROS CONSTRUTORA E EMPREITEIRA LTDA.<br><
+ b>CNPJ:</b> 14.523.885/0001-18<br><b>E-Cac: </b>170.207\,92<br><b>ICMS:</b>
+  217.174\,72<br><b>Responsável:</b> Marcantonio<br><b>Contato:</b> 55 11 94
+ 566-2714<br><br><b>Descrição:</b> Passei o script e ele se interessou de ca
+ ra.
+LAST-MODIFIED:20210909T170901Z
+LOCATION:R. Etna\, 514 - Jardim Europa\, Salto - SP\, 13321-480\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - M MEDEIROS CONSTRUTORA E EMPREITEIRA LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210909T140000Z
+DTEND:20210909T150000Z
+DTSTAMP:20211014T133019Z
+UID:12u4i6e54a9882t0e3pdbpdh9r@google.com
+CREATED:20210903T150530Z
+DESCRIPTION:<b>Empresa:</b> CAMARGO E SILVA COMERCIO E REPRESENTACAO LTDA.<
+ br><b>CNPJ:</b> 13.265.554/0001-62<br><b>E-Cac:</b> 118.741\,42<br><b>Respo
+ nsável</b>: Adilson<br><b>Contato:</b> 55 15 99741-4081<br><br><b>Descrição
+ :</b> Passei o script e ele logo se interessou\, e marcou o endereço no Caf
+ é Taara. Mas preciso entrar em contato pela manhã para confirmar se será ne
+ ste café mesmo ou em algum outro próximo.
+LAST-MODIFIED:20210913T132730Z
+LOCATION:R. Otacílio Martins Sampaio\, 235\, Porto Feliz - SP\, 18540-000\,
+  Brasil
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:DENISE - PORTO FELIZ - CAMARGO E SILVA COMERCIO E REPRESENTACAO LTD
+ A.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T120000Z
+DTEND:20210914T130000Z
+DTSTAMP:20211014T133019Z
+UID:222c544g9t7qvsmqdvp45f1p5f@google.com
+CREATED:20210913T152257Z
+DESCRIPTION:<b>Empresa:</b> CASA DOS BICHOS COMERCIO DE PRODUTOS P ANIMAIS 
+ LTDA.&nbsp\;<br><b>CNPJ:</b> 07.086.458/0001-54<br><b>E-Cac</b>: 221.260\,6
+ 1<br><b>ICMS:</b> 27.019\,62<br><b>Responsável:</b> LEANDRO RAMATIS MARTONI
+ <br><b>Contato:</b> 55 11 99831-1526<br><br><b>Descrição:</b> Passei o scri
+ pt e ele se interessou.
+LAST-MODIFIED:20210913T152257Z
+LOCATION:R JOSE DE ALMEIDA TEIXEIRA\, 285\, VILA TEIXEIRA\, SALTO - SP - 13
+ 320-333
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO- CASA DOS BICHOS COMERCIO DE PRODUTOS P ANIMAIS LTDA
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T133000Z
+DTEND:20210914T143000Z
+DTSTAMP:20211014T133019Z
+UID:6hb9re584tj2cc5icicfc7ob73@google.com
+CREATED:20210913T170918Z
+DESCRIPTION:<b>Empresa:</b> ISABELA C. FAINA RODRIGUES.<br><b>CNPJ:</b> 13.
+ 118.543/0001-50<br><b>E-Cac</b>: 314.769\,23<br><b>ICMS:</b> 76.620\,87<br>
+ <b>Responsável:</b> Isabela<br><b>Contato:</b> 55 11 99990-5907<br><br><b>D
+ escrição:</b> Entrei em contato no dia 25/08 e não obtive sucesso. No dia 1
+ 3/09 novamente entrei em contato e ele me explicou que a empresa está fecha
+ da mas tem interesse em resolver as pendencias\, só que não tem uma renda a
+ lta para se comprometer com um financiamento.
+LAST-MODIFIED:20210913T170918Z
+LOCATION:R GERALDO SERGIO FABRI\, 2\, RESIDENCIAL FABRI\, SALTO - SP - 1332
+ 7-082
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO -  ISABELA C. FAINA RODRIGUES.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T170000Z
+DTEND:20210914T180000Z
+DTSTAMP:20211014T133019Z
+UID:0k7efjib1kg553u6si76b07e3c@google.com
+CREATED:20210913T183121Z
+DESCRIPTION:Empresa: MIPO  SERVICOS TECNICOS E PROJETOS EIRELI. \nCNPJ: 22.
+ 339.689/0001-16\nE-Cac: 230.163\,45\nResponsável: ANSELMO DA CONCEICAO SAIT
+ O\nContato: 55 11 94449-0952\n\nDescrição: Entrei em contato via whatsapp e
+  ele se interessou mas não poderá comparecer\, então quem o representará na
+  reunião sera o gerente adminstrativo.
+LAST-MODIFIED:20210913T183121Z
+LOCATION:R ROQUE LAZZAZERA\, 274\, NOSSA SENHORA DO MONTE SERRAT\, SALTO - 
+ SP - 13323-300
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - MIPO  SERVICOS TECNICOS E PROJETOS EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T183000Z
+DTEND:20210914T193000Z
+DTSTAMP:20211014T133019Z
+UID:46r800gq307ve3m1l1hf6dvuop@google.com
+CREATED:20210913T190554Z
+DESCRIPTION:<b>Empresa:</b>&nbsp\; JOY YOUNG COMERCIO DE PAPELARIA BRINQUED
+ OS INFORMATICA E MATERIAIS ESPORTIVOS EIRELI.&nbsp\;<br><b>CNPJ: </b>15.286
+ .686/0001-04<br><b>E-Cac</b>: 452.839\,01<br><b>ICMS</b>: 4.412\,75<br><b>R
+ esponsável:</b> MARCIO CAIO PEREIRA BORGES<br><b>Contato:</b> 55 11 94748-2
+ 267<br><br><b>Descrição</b>: Passei script e ele se interessou de cara.
+LAST-MODIFIED:20210913T190554Z
+LOCATION:AV JOSE MARIA MARQUES DE OLIVEIRA\, 354\, VILA NORMA\, SALTO - SP 
+ - 13327-300
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - JOY YOUNG COMERCIO DE PAPELARIA BRINQUEDOS INFORMA
+ TICA E MATERIAIS ESPORTIVOS EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210915T173000Z
+DTEND:20210915T183000Z
+DTSTAMP:20211014T133019Z
+UID:5qt3eqv2ik2jqnhog32u45fls9@google.com
+CREATED:20210914T150049Z
+DESCRIPTION:Empresa: CAMARGO & SILVA MEDICINA E SEGURANCA DO TRABALHO LTDA.
+ \nCNPJ: 13809440000136\nE-Cac: 275.837\,82\nResponsável: ALEX BUENO DE CAMA
+ RGO\nContato: 55 11 97696-9823\n\nDescrição: Ele se interessou em marcar a 
+ reunião\, mas está atualmente na empresa que fica em Itu\, e eu estava agen
+ dando para Salto no dia em questão.
+LAST-MODIFIED:20210914T150049Z
+LOCATION:R DOUTOR JOSE LEITE PINHEIRO\, 83\, CENTRO\, ITU - SP - 13300-085
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - CAMARGO & SILVA MEDICINA E SEGURANCA DO TRABALHO LTD
+ A.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210917T170000Z
+DTEND:20210917T180000Z
+DTSTAMP:20211014T133019Z
+UID:0frq6irstebfuha7vilnemktoo@google.com
+CREATED:20210915T185148Z
+DESCRIPTION:Empresa: AMANDA DOS SANTOS NUNES\nCNPJ: 19.666.844/0001-02\nE-C
+ ac: 771.188\,46\nResponsável: Luciana\nContato: 55 11 95492-3223\n\nDescriç
+ ão: Já havia entrado em contato com ela antes\, mas ela não quis marcar\, d
+ esta vez ela me procurou\, com muitas duvidas\, disse algo sobre ser urgent
+ e. O PARECER DEVE SER BEM DETALHADO\, POIS HÁ MUITAS DUVIDAS.
+LAST-MODIFIED:20210916T115836Z
+LOCATION:R. Jundiaí\, 741 - Jardim Marilia\, Salto - SP\, 13323-090\, Brasi
+ l
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DENISE - SALTO - AMANDA DOS SANTOS NUNES.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210921T170000Z
+DTEND:20210921T180000Z
+DTSTAMP:20211014T133019Z
+UID:12le4kkc7t36fg0it2lrimae2v@google.com
+CREATED:20210915T145453Z
+DESCRIPTION:\n\nNome Empresarial:\nCAMARGO E SILVA COMERCIO E REPRESENTACAO
+  LTDA\n\nCNPJ:\n13.265.554/0001-62\n\nDomicílio do Devedor:\nPORTO FELIZ\n\
+ nAtividade Econômica:\nRepresentantes comerciais prod. alimentícios\, bebid
+ as e fumo\n\nValor Total da dívida:\nR$ 117.477\,92\nCONTATO 15 997414081
+LAST-MODIFIED:20210916T130607Z
+LOCATION:
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:DENISE/CAMARGO E SILVA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210917T140000Z
+DTEND:20210917T150000Z
+DTSTAMP:20211014T133019Z
+UID:23kq8uqfp1q0q3n1bsnch63r3h@google.com
+CREATED:20210916T164307Z
+DESCRIPTION:\n\nNome Empresarial:\nKIRIAZI EMPREENDIMENTOS E PARTICIPACOES 
+ EIRELI\n\nCNPJ:\n50.223.791/0001-97\n\nDomicílio do Devedor:\nITU\n\nAtivid
+ ade Econômica:\nAluguel de imóveis próprios\n\nValor Total da dívida:\nR$ 1
+ .618.477\,27\nCONTATO NABIL 11 932348705
+LAST-MODIFIED:20210916T164451Z
+LOCATION:R KIRIACO KIRIAZZI\, 344 VILA BANDEIRANTES ITU SP 13313-230
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE/KIRIAZI EMPRENDIMENTOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210921T160000Z
+DTEND:20210921T170000Z
+DTSTAMP:20211014T133019Z
+UID:580t9u52dhh2u9a7blevm8f7q2@google.com
+CREATED:20210920T202116Z
+DESCRIPTION:\n\nNome Empresarial:\nELLETROMAIS MATERIAIS ELETRICOS EIRELI\n
+ \nNome Fantasia:\nELLETROMAIS\n\nCNPJ:\n13.382.994/0001-08\n\nDomicílio do 
+ Devedor:\nPORTO FELIZ\n\nAtividade Econômica:\nComércio varejista de materi
+ al elétrico\n\nValor Total da dívida:\nR$ 745.558\,54\nTELEFONE DE CONTATO 
+ 15 997289800
+LAST-MODIFIED:20210921T113400Z
+LOCATION:Rua Luiz Carlos Lisboa\, R. Luiz Carlos Lisboa\, Porto Feliz - SP\
+ , 18540-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE/ELETROMAIS MATERIAIS ELETRICOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210923T133000Z
+DTEND:20210923T143000Z
+DTSTAMP:20211014T133019Z
+UID:35i4fjokvimmdcn3io5rqp3vfm@google.com
+CREATED:20210921T180759Z
+DESCRIPTION:Empresa: CYRO VIEGAS ALVES  EIRELI\nCNPJ: 19.376.421/0001-40\nE
+ -Cac: 161.757\,16\nICMS: 2.101\,43\nResponsável: Cyro Viegas\nContato: 55 1
+ 1 98920-7070\n\nDescrição: Passei o script e ele se interessou.
+LAST-MODIFIED:20210921T180759Z
+LOCATION:R. Padre Bassano Faine\, 185 - Chácaras Primavera\, Itu - SP\, 133
+ 01-200\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - CYRO VIEGAS ALVES  EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210923T120000Z
+DTEND:20210923T130000Z
+DTSTAMP:20211014T133019Z
+UID:7g9uj64vketrtf5fgt5rs048jv@google.com
+CREATED:20210921T183616Z
+DESCRIPTION:Empresa:  BRUNO O. DA SILVA ITU.\nCNPJ: 10.508.039/0001-78\nE-C
+ ac: 167.514\,03\nICMS: 4.604\,95\nResponsável: Bruno Oliveira\nContato: 55 
+ 11 99811-8529\n\nDescrição: Passei o scrip e ele se interessou.
+LAST-MODIFIED:20210921T183616Z
+LOCATION:R. Acácio Honório\, 23 - Vila Santa Terezinha\, Itu - SP\, 13310\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE- ITU -  BRUNO O. DA SILVA ITU.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210923T170000Z
+DTEND:20210923T180000Z
+DTSTAMP:20211014T133019Z
+UID:2h37h8ms6vvrm836fl3decukq6@google.com
+CREATED:20210921T193022Z
+DESCRIPTION:Empresa:  H.DE O.GARCIA.\nCNPJ: 12.280.594/0001-10\nE-Cac: 172.
+ 428\,32\nResponsável: Heverton Garcia\nContato: 55 11 99891-2010\n\nDescriç
+ ão: Entrei em contato e ele se interessou e escolheu o local\, PADARIA REBE
+ CA.
+LAST-MODIFIED:20210921T193022Z
+LOCATION:Padaria Rebeca\, Av. Dr. Otaviano Pereira Mendes\, 1060 - Liberdad
+ e\, Itu - SP\, 13301-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU -  H.DE O.GARCIA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210921T183000Z
+DTEND:20210921T193000Z
+DTSTAMP:20211014T133019Z
+UID:r1a6kg2s1d8pf5gvk0i4v6dpf8@google.com
+CREATED:20210921T151146Z
+DESCRIPTION:Roberto Antônio fustani \nCnpj 17.230.117/0001-64\nTelefone de 
+ contato 997854868
+LAST-MODIFIED:20210922T112859Z
+LOCATION:Porto feliz 
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Denise/Roberto Fustaini
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210927T193000Z
+DTEND:20210927T203000Z
+DTSTAMP:20211014T133019Z
+UID:0nphejl4k2c3rjevf04g48d310@google.com
+CREATED:20210922T142919Z
+DESCRIPTION:Empresa: CEDIN & MATAVELLI COMERCIO DE GASES INDUSTRIAIS E MEDI
+ CINAIS LTDA.\nCNPJ: 08.225.060/0001-14\nE-Cac: 193.910\,90\nResponsável: Hu
+ mberto Luiz Matavelli\nContato: 55 15 99728-6511\n\nDescrição: passei o scr
+ ipt e ele se interessou\, mas não fica em Itu\, apenas em Sorocaba\, então 
+ agendei como a ultima do dia e com intervalo maior de tempo entre esta e a 
+ das 14:30.
+LAST-MODIFIED:20210922T142919Z
+LOCATION:Av. São Paulo\, 2981 - Além Ponte\, Sorocaba - SP\, 18013-004\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - CEDIN & MATAVELLI COMERCIO DE GASES INDUSTRIAIS E ME
+ DICINAIS LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210924T160000Z
+DTEND:20210924T170000Z
+DTSTAMP:20211014T133019Z
+UID:6ptlicoael5ehogp48481f5ql9@google.com
+CREATED:20210922T145054Z
+DESCRIPTION:Empresa: FERNANDO REMOCOES E TRANSPORTES EIRELI.\nCNPJ: 09.286.
+ 450/0001-67\nE-Cac: 185.813\,38\nResponsável: Fernando\nContato: 55 11 9332
+ 7-7731\n\nDescrição: passei o script e ele se interessou\, mas como está se
+ m endereço comercial\, marcou em seu residencial.
+LAST-MODIFIED:20210922T145054Z
+LOCATION:R. Monsenhor Ezequias Galvão\, 204 - Vila Padre Bento\, Itu - SP\,
+  13313-113\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - FERNANDO REMOCOES E TRANSPORTES EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T120000Z
+DTEND:20210929T130000Z
+DTSTAMP:20211014T133019Z
+UID:6qrg4h9vag931no7vvr7h6c2i8@google.com
+CREATED:20210923T145144Z
+DESCRIPTION:Empresa:  INDUSTRIA GRAFICA F M LTDA\nCNPJ: 55.430.383/0001-20\
+ nE-Cac:  897.188\,30\nResponsável: Antonio (dono) \nContato: 11 98586-2866\
+ n\nDescrição: Passei script para o Antonio\, ele ficou bem interessado\, já
+  possui contrato com a Fradema\, mas eles não ajudaram ele com nada. Possib
+ ilidade de fechamento!!!!
+LAST-MODIFIED:20210923T145144Z
+LOCATION:AV DOUTOR HERCULANO DE GODOY PASSOS\, 1309\, SAO LUIZ\, ITU - SP -
+  13304-150
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE- ITU- INDUSTRIA GRAFICA F M LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T140000Z
+DTEND:20210929T150000Z
+DTSTAMP:20211014T133019Z
+UID:7tgiblao4m4541epr03a13arac@google.com
+CREATED:20210923T174504Z
+DESCRIPTION:Empresa: BB INDUSTRIA E COMERCIO DE BRINQUEDOS EIRELI.\nCNPJ: 6
+ 0.054.996/0001-40\nE-Cac: 1.027.213\,51\nICMS: 1.013\,84\nResponsável: Feli
+ pe\nContato: 55 11 94589-1818\n\nDescrição: Entrei em contato com Sergio (p
+ roprietario)\, que me passou o contato de seu filho Felipe\, que é o respon
+ sável por esta parte da empresa.
+LAST-MODIFIED:20210923T174829Z
+LOCATION:ROD WALDOMIRO CORREA DE CAMARGO\, KM 53\, VILA MARTINS\, ITU - SP 
+ - 13308-200
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - BB INDUSTRIA E COMERCIO DE BRINQUEDOS EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T130000Z
+DTEND:20210929T140000Z
+DTSTAMP:20211014T133019Z
+UID:26434jij77np78sondhti91vek@google.com
+CREATED:20210923T175655Z
+DESCRIPTION:Empresa: LINEU AUGUSTO MARTINS\nCNPJ: 07.660.402/0001-61\nE-Cac
+ : 862.585\,43\nResponsável: Lineu (dono)\nContato: 11 99655-2476\n\nDescriç
+ ão: O script foi passado e ele ficou bem interessado. Palavras dele " sim p
+ odemos marcar pois realmente estou precisando de orientação sobre o assunto
+ ." 
+LAST-MODIFIED:20210923T175655Z
+LOCATION:AV EUGEN WISSMANN\, 2300\, SAO LUIZ\, ITU - SP - 13304-270
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - LINEU AUGUSTO MARTINS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T120000Z
+DTEND:20210928T130000Z
+DTSTAMP:20211014T133019Z
+UID:3dk91j952lldvpb4mu224t35fc@google.com
+CREATED:20210922T162723Z
+DESCRIPTION:Empresa: F P  PISOS INDUSTRIAIS LTDA.\nCNPJ: 20.228.510/0001-28
+ \nE-Cac: 218.991\,93\nICMS: 3.873\,22\nResponsável: Fabio Zepoxi\nContato: 
+ 55 11 99599-5652\n\nDescrição: Passei o script e ele se interessou.\n\nPOSS
+ UI MAIS DE UMA EMPRESA COM DIVIDA\nEMPRESA 2: ZEPOXI  PISOS INDUSTRIAIS LTD
+ A\nCNPJ: 17.320.943/0001-02\nE-Cac: 409.994\,28
+LAST-MODIFIED:20210924T115451Z
+LOCATION:R DOUTOR BRAZ BICUDO DE ALMEIDA\, 77\, SL 2\, VILA GARDIMAN\, ITU 
+ - SP - 13309-392
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - F P  PISOS INDUSTRIAIS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210830T170000Z
+DTEND:20210830T180000Z
+DTSTAMP:20211014T133019Z
+UID:2rucf2kci4inbc4o5nvfq83sdh@google.com
+CREATED:20210924T133323Z
+DESCRIPTION:Empresa: TRANSPORTADORA CREPALDI EIRELI\nCNPJ: 10.646.360/0001-
+ 19\nE-CAC: R$ 732.205\,34\nResponsável: Debora Crepaldi (dona)\nTelefone de
+  contato: (11)947848153\nOBS: Fazer nova reunião para apresentar PRF.
+LAST-MODIFIED:20210924T133953Z
+LOCATION:R. Helena Abreu da Silva\, 190 - Jardim Nova Itapevi\, Itapevi - S
+ P\, 06694\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - TRANSPORTADORA CREPALDI EIRELI 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210830T170000Z
+DTEND:20210830T180000Z
+DTSTAMP:20211014T133019Z
+UID:0c2r23qo91jnd3jckkg49daadc@google.com
+CREATED:20210826T125407Z
+DESCRIPTION:\nNome Empresarial:\nTRANSPORTADORA CREPALDI EIRELI\n\nNome Fan
+ tasia:\nTRANSPORTADORA CREPALDI\n\nCNPJ:\n10.646.360/0001-19\n\nDomicílio d
+ o Devedor:\nITAPEVI\n\nAtividade Econômica:\nTransp. rodov. carga\, exceto 
+ prod. perig. e mudanças\, munic.\n\nValor Total da dívida:\nR$ 732.205\,34\
+ nTELEFONE DE CONTATO (11)947848153.
+LAST-MODIFIED:20210924T134015Z
+LOCATION:Rua Helena Abreu da Silva\, 190 Itapevi
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Denise/Transportadora Crepaldi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T200000Z
+DTEND:20210928T210000Z
+DTSTAMP:20211014T133019Z
+UID:2uc9oc6sls806c8ktoj74v8prl@google.com
+CREATED:20210923T125745Z
+DESCRIPTION:Empresa: BRUNO DA SILVA VELOSO.\nCNPJ: 11.372.327/0001-00\nE-Ca
+ c: 209.142\,15\nResponsável: Bruno\nContato: 55 11 99003-2712\n\nDescrição:
+  passei o script e ele se interessou.
+LAST-MODIFIED:20210924T140132Z
+LOCATION:AV 9 DE JULHO\, 620\, LJ 1\, JARDIM PADRE BENTO\, ITU - SP - 13313
+ -100
+SEQUENCE:3
+STATUS:CANCELLED
+SUMMARY:DENISE - ITU - BRUNO DA SILVA VELOSO.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210927T140000Z
+DTEND:20210927T150000Z
+DTSTAMP:20211014T133019Z
+UID:6j9d18vj0uf25rkidjcs8hf8gf@google.com
+CREATED:20210921T184146Z
+DESCRIPTION:Empresa: ESCOLA DE EDUCACAO INFANTIL ALEM DO ARCO IRIS LTDA.&nb
+ sp\;<br>CNPJ: 66.841.909/0001-80<br>E-Cac: 157.179\,67<br>Responsável: Ana 
+ Selma<br>Contato: 55 11 97120-5505<br><br>Descrição: Passei o script e ela 
+ se interessou\, mas nao consegue falar conosco mais cedo.<br><b><br></b><br
+ ><b>LOCAL: PADARIA PÃO QUENTE</b>
+LAST-MODIFIED:20210926T140422Z
+LOCATION:Praça Reg. Feijó\, 71 - Centro\, Itu - SP\, 13300-023\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - ESCOLA DE EDUCACAO INFANTIL ALEM DO ARCO IRIS LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T133000Z
+DTEND:20210928T143000Z
+DTSTAMP:20211014T133019Z
+UID:1e72bp0k8764562719s3flk3qp@google.com
+CREATED:20210922T171329Z
+DESCRIPTION:Empresa: AUTO POSTO CIDADE DE ITU LTDA.\nCNPJ: 06.332.890/0001-
+ 15\nE-Cac: 209.244\,19\nResponsável: Jorge\nContato: 55 11 99624-2557\n\nDe
+ scrição: passei o script e ele se interessou.
+LAST-MODIFIED:20210927T121338Z
+LOCATION:Av. Caetano Ruggieri\, 4013 - Parque das Rosas\, Itu - SP\, 13309-
+ 710\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE- ITU - AUTO POSTO CIDADE DE ITU LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T173000Z
+DTEND:20210928T183000Z
+DTSTAMP:20211014T133019Z
+UID:6kictuu35rkpeno8dm4eiepbgo@google.com
+CREATED:20210923T130206Z
+DESCRIPTION:Empresa: FONODONTO CLIN  ODONTOLOGIA LTDA. \nCNPJ: 05.963.056/0
+ 001-65\nE-Cac: 283.451\,66\nResponsável: Fabio Brentzel\nContato: 55 11 974
+ 33-4974\n\nDescrição: passei script e ele se interessou.
+LAST-MODIFIED:20210927T121606Z
+LOCATION:R RIO DE JANEIRO\, 90\, BRASIL\, ITU - SP - 13301-500
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:DENISE - ITU - FONODONTO CLIN  ODONTOLOGIA LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T173000Z
+DTEND:20210929T183000Z
+DTSTAMP:20211014T133019Z
+UID:69dj4evogi208r3bk7bsupif91@google.com
+CREATED:20210923T190448Z
+DESCRIPTION:Empresa:  DISTRIBUIDORA OPEN STUDIO LTDA\nCNPJ: 16.436.805/0001
+ -12\nE-Cac: 237.472\,40\nICMS: 16.379\,34\nResponsável: Suzane\nContato: 55
+  11 99365-4664\n\nDescrição: passei o script e ela se interessou.
+LAST-MODIFIED:20210927T121800Z
+LOCATION:R PROFESSOR ANTONIO DIRCEU MARMO\, 626\, SAO LUIZ\, ITU - SP - 133
+ 04-220
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:DENISE - ITU- DISTRIBUIDORA OPEN STUDIO LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T190000Z
+DTEND:20210929T200000Z
+DTSTAMP:20211014T133019Z
+UID:35v63sipvkm8olhi2mg8adgoj5@google.com
+CREATED:20210923T153926Z
+DESCRIPTION:Empresa: MELT PARTICIPACOES E INVESTIMENTOS LTDA.\nCNPJ: 06.879
+ .492/0001-13\nE-Cac: 204.123\,57\nResponsável: Alex (advogado) \nContato: 5
+ 5 11 97509-0993\n\nDescrição: entrei em contato com o sócio e ele disse que
+  não fica em Itu\, e que o responsável presente seria seu advogado Alex\, e
+ ntrei em contato e confirmei a reunião com ele
+LAST-MODIFIED:20210927T121823Z
+LOCATION:R SAO JOSE\, 303\, SL 1\, VILA SAO FRANCISCO\, ITU - SP - 13311-15
+ 0
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:DENISE- ITU - MELT PARTICIPACOES E INVESTIMENTOS LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210930T160000Z
+DTEND:20210930T170000Z
+DTSTAMP:20211014T133019Z
+UID:0fah8ugv2349h3c2mlrepp6df1@google.com
+CREATED:20210922T161058Z
+DESCRIPTION:Empresa: WILL CONFECCAO LTDA.\nCNPJ: 19.731.105/0001-49\nE-Cac:
+  209.840\,42\nResponsável: William\nContato: 5511950472059\n\nDescrição: En
+ trei em contato e ele se interessou\, mas não pode antes desta data\, pois 
+ esta em viajem.
+LAST-MODIFIED:20210927T122423Z
+LOCATION:R. Geraldo Benedetti\, 205 - Jardim Santa Tereza\, Itu - SP\, 1331
+ 1-040\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU -WILL CONFECCAO LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T143000Z
+DTEND:20210928T153000Z
+DTSTAMP:20211014T133019Z
+UID:7ibiain4hj9omjpa4a68lsklvq@google.com
+CREATED:20210922T141830Z
+DESCRIPTION:Empresa: OSCAR HIROHITO MITSUSE VIDRACARIA\nCNPJ: 08.752.299/00
+ 01-42\nE-Cac: 197.121\,55\nICMS: 2.366\,78\nResponsável: Oscar\nContato: 55
+  11 97639-2108\n\nDescrição: passei o contato e ele logo se interessou.
+LAST-MODIFIED:20210927T194641Z
+LOCATION:R. Paulo Eduardo Xavier de Tolêdo\, 274 - São Luiz\, Itu - SP\, 13
+ 304-240\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - OSCAR HIROHITO MITSUSE VIDRACARIA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T170000Z
+DTEND:20210928T180000Z
+DTSTAMP:20211014T133019Z
+UID:5j5fdh1kahlhktfrt9hf60buof@google.com
+CREATED:20210927T124647Z
+DESCRIPTION:Empresa: JETWORLD DE ITUINDUSTRIACOMERCIO E EXPORTACAO DE MOTO 
+ AQUATICAS E SEUS COMPONENTES LTDA.\nCNPJ: 01.480.497/0001-55\nE-Cac: 163.43
+ 7\,07\nResponsável: Sergio\nContato: 55 11 99469-7965\n\nDescrição: entrei 
+ em contato com ele no dia 21/09\, e ele disse não ter interesse e estar na 
+ Bahia. Hoje 27/09 ele me procurou novamente dizendo que precisava da reuniã
+ o online pois tem até o dia 30/09 para talvez aderir a algum parcelamento.
+LAST-MODIFIED:20210928T130904Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DENISE - ONLINE - JETWORLD DE ITUINDUSTRIACOMERCIO E EXPORTACAO DE 
+ MOTO AQUATICAS E SEUS COMPONENTES LTDA.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210928T190000Z
+DTEND:20210928T200000Z
+DTSTAMP:20211014T133019Z
+UID:2que4e9f6omeopvthou0uomjda@google.com
+CREATED:20210924T140013Z
+DESCRIPTION:Empresa: REGIANE COELHO INOCENCIO\nCNPJ: 10.775.363/0001-52\nE-
+ Cac: 688.852\,01\nResponsável: Edivaldo Dr. Extrabor\nContato: 55 15 98100-
+ 4941\n\nDescrição: entrei em contato com a própria Regiane\, que consta com
+ o proprietária no sistema\, mas quem administra é o senhor Edivaldo\, que e
+ ntrou em contato comigo por conta própria após falar com ela.\nEle possui o
+ utra empresa que também possui dividas e ele gostaria de resolver\, então s
+ ão 2 pareceres.\n\nEMPRESA 2: EXTRABOR ARTEFATOS DE BORRACHA LTDA\nCNPJ: 38
+ 116782000100
+LAST-MODIFIED:20210928T184641Z
+LOCATION:R. Pereira da Fonseca\, 449 - Éden\, Sorocaba - SP\, 18103-043\, B
+ rasil
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - REGIANE COELHO INOCENCIO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210930T173000Z
+DTEND:20210930T183000Z
+DTSTAMP:20211014T133019Z
+UID:7t1vifu9isj80uqv8oqb5aodno@google.com
+CREATED:20210922T141341Z
+DESCRIPTION:Empresa: FACE  CABOS E CHICOTES IMPORTACAO E EXPORTACAO EIRELI.
+ \nCNPJ: 26.167.050/0001-51\nE-Cac: 201.406\,25\nICMS: 147.406\,49\nResponsá
+ vel: Maria Aparecida\nContato: 55 11 99347-1326\n\nDescrição: Passei o scri
+ pt e ela se interessou.
+LAST-MODIFIED:20210929T192204Z
+LOCATION:R PERNAMBUCO\, 386\, BRASIL\, ITU - SP - 13301-510
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:DENISE - ITU - FACE  CABOS E CHICOTES IMPORTACAO E EXPORTACAO EIREL
+ I.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210930T180000Z
+DTEND:20210930T190000Z
+DTSTAMP:20211014T133019Z
+UID:5r041i5a91vb7i6585ah8nr578@google.com
+CREATED:20210923T183432Z
+DESCRIPTION:Empresa: SEMPRE DIESEL COMERCIO DE PECAS LTDA\nCNPJ: 58.339.086
+ /0001-61\nE-Cac:670.282\,44\nICMS: 3.211\,41\nResponsável: Cleusa Bellon\nC
+ ontato: 55 11 95647-4809\n\nDescrição: Entrei em contato e houve interesse.
+ \n DESCRIÇÃO DO ENDEREÇO FEITO PELA CLIENTE "rod. waldomiro correia de cama
+ rgo\, km53 entrada do numero 3000 - estrada de terra\, segundo portao a esq
+ uerda"
+LAST-MODIFIED:20210930T112154Z
+LOCATION:Rod. Waldomiro Corrêa de Camargo\, km 53\, 7 - Cruz das Almas\, It
+ u - SP\, 13308-200\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - SEMPRE DIESEL COMERCIO DE PECAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211004T170000Z
+DTEND:20211004T180000Z
+DTSTAMP:20211014T133019Z
+UID:4snhuafbfan0t9epaq1uv3dees@google.com
+CREATED:20210930T125852Z
+DESCRIPTION:\n\nNome Empresarial:\nCEDIN & MATAVELLI COMERCIO DE GASES INDU
+ STRIAIS E MEDICINAIS LTDA\n\nCNPJ:\n08.225.060/0001-14\n\nDomicílio do Deve
+ dor:\nITU\n\nAtividade Econômica:\nComércio varejista outros prod. não espe
+ cific. anteriormente\n\nValor Total da dívida:\nR$ 193.910\,9\nTELEFONE DE 
+ CONTATO 15 997286511
+LAST-MODIFIED:20210930T130032Z
+LOCATION:AV SÃO PAULO 2981
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE /CEDIN & MATAVELLI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211007T170000Z
+DTEND:20211007T180000Z
+DTSTAMP:20211014T133019Z
+UID:5dgne23j5mb75ef4vcch0r8dd5@google.com
+CREATED:20211005T164155Z
+DESCRIPTION:
+LAST-MODIFIED:20211005T164640Z
+LOCATION:R. Sorocaba\, 1515 - Pirapitingui\, Itu - SP\, 13310-335\, Brasil
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Denise/J.M FARMA  INDUSTRIA DE COSMÉTICOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211007T120000Z
+DTEND:20211007T130000Z
+DTSTAMP:20211014T133019Z
+UID:69af9fvidfnhuv6hmh4vifrtp0@google.com
+CREATED:20211006T122617Z
+DESCRIPTION:Empresa: ARDL REPRESENTACAO COMERCIAL DE PRODUTOS QUIMICOS INDU
+ STRIAIS EIRELI.\nCNPJ: 20.764.290/0001-57\nE-Cac: R$ 126.880\,93\nResponsáv
+ el: Alberto\nContato: 55 11 99425-8044\n\nDescrição: Enviei o script e ele 
+ se interessou\, mas disse que não pode haverem atrasos.
+LAST-MODIFIED:20211007T131755Z
+LOCATION:R ROQUE LAZZAZERA\, 64\, NOSSA SENHORA DO MONTE SERRAT\, SALTO - S
+ P - 13323-300
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:DENISE - SALTO - ARDL REPRESENTACAO COMERCIAL DE PRODUTOS QUIMICOS 
+ INDUSTRIAIS EIRELI.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210921T170000Z
+DTEND:20210921T180000Z
+DTSTAMP:20211014T133019Z
+UID:7tfnnq2qteo37cqv993c1rle3a@google.com
+CREATED:20210920T194343Z
+DESCRIPTION:\n\nNome Empresarial:\nCLARICE BELINE GIULI\n\nNome Fantasia:\n
+ GIBEL\n\nCNPJ:\n01.579.045/0001-25\n\nDomicílio do Devedor:\nPORTO FELIZ\n\
+ nAtividade Econômica:\nComércio varejista de materiais de construção em ger
+ al\n\nValor Total da dívida:\nR$ 748.252\,88\nTELEFONE DE CONTATO 15 996155
+ 107
+LAST-MODIFIED:20211007T171632Z
+LOCATION:Rua João Thomaz de Almeida\, 180\, Porto Feliz - SP\, 18540-000\, 
+ Brasil
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:DENISE/CLARICE BELINE GIULI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211013T120000Z
+DTEND:20211013T130000Z
+DTSTAMP:20211014T133019Z
+UID:5cleg4fj5l0fbruqak121jlaui@google.com
+CREATED:20211007T184157Z
+DESCRIPTION:Empresa: VANACY COMERCIO E CONFECCOES LTDA\nCNPJ: 09.721.955/00
+ 01-02\nE-Cac: R$ 134.190\,06\nICMS: 28.164\,07\nResponsável: Francisco de A
+ ssis Zizuin\nContato: 55 11 94220-1331\n\nDescrição: enviei o script e ele 
+ se interessou.
+LAST-MODIFIED:20211007T184624Z
+LOCATION:R. Arsênio Benedetti\, 88 - Jardim Convencao\, Itu - SP\, 13311-17
+ 1\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE - ITU - VANACY COMERCIO E CONFECCOES LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211013T133000Z
+DTEND:20211013T143000Z
+DTSTAMP:20211014T133019Z
+UID:1i2t9l1erguhi3f2k0uqj4bgb2@google.com
+CREATED:20211007T185937Z
+DESCRIPTION:\n\nNome Empresarial:\nCAMARGO E SILVA COMERCIO E REPRESENTACAO
+  LTDA\n\nCNPJ: \n13.265.554/0001-62\n\nDomicílio do Devedor:\nPORTO FELIZ\n
+ \nAtividade Econômica:\nRepresentantes comerciais prod. alimentícios\, bebi
+ das e fumo\n\nValor Total da dívida:\nR$ 117.762\,69\ntelefone de contato A
+ dilson 15997414081
+LAST-MODIFIED:20211007T185937Z
+LOCATION:R. Santa Cruz\, 1053\, Porto Feliz - SP\, 18540-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Denise /Camargo & silva e reapresentação 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211008T140000Z
+DTEND:20211008T150000Z
+DTSTAMP:20211014T133019Z
+UID:7c1buvmjvb9h5tm9kbevlvgnj2@google.com
+CREATED:20211007T200920Z
+DESCRIPTION:\n\nNome Empresarial:\nH.DE O.GARCIA\n\nNome Fantasia:\nH3 CONF
+ ECCOES\n\nCNPJ:\n12.280.594/0001-10\n\nDomicílio do Devedor:\nITU\n\nAtivid
+ ade Econômica:\nRepresentantes comerciais têxteis\, vestuário\, calçados et
+ c.\n\nValor Total da dívida:\nR$ 172.745\,69\nTELEFONE DE CONTATO 11 998912
+ 010
+LAST-MODIFIED:20211007T201457Z
+LOCATION:Parque Campolim\, Sorocaba - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENISE /H.DE O.GARCIA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211018T140000Z
+DTEND:20211018T150000Z
+DTSTAMP:20211014T133019Z
+UID:409b0snev8h3un37c7mbhpuct3@google.com
+CREATED:20211013T195047Z
+DESCRIPTION:\n\nNome Empresarial:\nPPSCOMUNICACAO VISUAL E BRINDES LTDA\n\n
+ CNPJ:\n03.837.817/0001-07\n\nDomicílio do Devedor:\nITU\n\nAtividade Econôm
+ ica:\nPreparação docum.\, serv. apoio administrativo não especific.\n\nValo
+ r Total da dívida:\nR$ 754.922\,88\nTELEFONE DE CONTATO 11996411325 AIRTON
+LAST-MODIFIED:20211013T195444Z
+LOCATION:Padaria Rebeca\, Av. Dr. Otaviano Pereira Mendes\, 1060 - Liberdad
+ e\, Itu - SP\, 13301-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE/PPS COMUNICAÇÃO VISUAL 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211019T130000Z
+DTEND:20211019T140000Z
+DTSTAMP:20211014T133019Z
+UID:0dq7er6esmi23ols38vd18jaq2@google.com
+CREATED:20211014T130321Z
+DESCRIPTION:\n\nNome Empresarial:\nTNT SERVICOS E LOCACAO DE EQUIPAMENTOS P
+ ARA DEMOLICAO EIRELI\n\nNome Fantasia:\nTNT SERVICOS E LOCACAO\n\nCNPJ:\n17
+ .301.889/0001-40\n\nDomicílio do Devedor:\nITU\n\nAtividade Econômica:\nObr
+ as de terraplenagem\n\nValor Total da dívida:\nR$ 610.956\,39\nTELEFONE DE 
+ CONTATO FABIO 11933009420
+LAST-MODIFIED:20211014T130321Z
+LOCATION:Plaza Shopping Itu\, Av. Dr. Ermelindo Maffei\, 1199 - Jardim Para
+ iso\, Itu - SP\, 13302-231\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENISE/TNT SERVIÇOS E LOCAÇAO DE EQUIPAMENTOS 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

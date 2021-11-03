@@ -1,0 +1,869 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JADE CPQ
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20201007T120000Z
+DTEND:20201007T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:1v1ciba0upeqbtm9tjlmiae3is@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201005T143013Z
+DESCRIPTION:Empresa:&nbsp\;J.D. MAZZIERO &amp\; MAZZIERO LTDA<br><br>CNPJ: 
+ 62861430000155<br><br>Responsável: Jair (dono)<br><br>Telefone de contato: 
+ 19 99424-3722<br><br><b>E-CAC: R$ 446.364\,10</b><br><br><i>Falei com Jair\
+ , fiz script de PRF e ele ficou bem interessado\, marcamos a reunião presen
+ cial.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste event
+ o tem uma videochamada.\nParticipar: https://meet.google.com/dyk-cynv-jmj\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-
+LAST-MODIFIED:20201005T143416Z
+LOCATION:R. Barão de Monte Santo\, 1040 - Centro\, Mococa - SP\, 13730-230\
+ , Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - MOCOCA - J.D. MAZZIERO & MAZZIERO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201007T170000Z
+DTEND:20201007T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:0gdvcc2a23ae7g53n6dlgqm58m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201005T163937Z
+DESCRIPTION:Empresa:&nbsp\;JRX CONSTROI EIRELI<br><br>CNPJ: 26107769000105<
+ br><br>Responsável: Jose Luis (dono)<br><br>Telefone de contato: 19 99152-6
+ 820<br><br><b>E-CAC: R$ 105.663\,03</b><br><br><i>Falei com Jose Luis\, fiz
+  script de PRF e ele ficou bem interessado\, marcamos a reunião presencial.
+ </i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem
+  uma videochamada.\nParticipar: https://meet.google.com/zun-btyu-tyb\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-
+LAST-MODIFIED:20201005T163938Z
+LOCATION:PC JOSE QUINTINO PEREIRA\, 238\, SL 1\, CENTRO\, MOCOCA - SP - 137
+ 30-370
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - MOCOCA - JRX CONSTROI EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201007T130000Z
+DTEND:20201007T140000Z
+DTSTAMP:20211014T133019Z
+UID:53m53altvkpvffnk2kokdlug77@google.com
+CREATED:20201001T175557Z
+DESCRIPTION:Empresa:&nbsp\;SAO PACIFICO INDUSTRIA E COMERCIO LTDA<br><br>CN
+ PJ: 66808676000114<br><br>Responsável: João Roberto (dono)<br><br>Telefone 
+ de contato: 19 99727-0260<br><br><b>ECAC: R$ 3.066.438\,96</b><br><br><i>Fa
+ lei com João Roberto\, fiz script de PRF e ele ficou bem interessado\, marc
+ amos a reunião presencial.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da des
+ crição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.goog
+ le.com/czh-gyzj-dxg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201006T143145Z
+LOCATION:FAZ PESSEGUEIRO\, ZONA RURAL\, MOCOCA - SP - 13730-330
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JADE - MOCOCA - SAO PACIFICO INDUSTRIA E COMERCIO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201021T160000Z
+DTEND:20201021T200000Z
+DTSTAMP:20211014T133019Z
+UID:7e7bvsrtk1pnvnj4tvbviiiiur@google.com
+CREATED:20201014T140249Z
+DESCRIPTION:
+LAST-MODIFIED:20201014T140326Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM RENAN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201019T170000Z
+DTEND:20201019T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:1m0e4hms72l4rc3b6e8tvt2q68@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201016T173456Z
+DESCRIPTION:Empresa:&nbsp\;CARE SYSTEMS COMERCIO E REPRESENTACAO DE PRODUTO
+ S AGROPECUARIOS EIRELI<br><br>CNPJ: 11482743000161<br><br>Responsável: Marc
+ io (dono)<br><br>Telefone de contato: 19 99785-2085<br><br><b>E-CAC: R$ 559
+ .418\,86</b><br><br><i>Falei com Marcio\, fiz script de PRF e ele ficou bem
+  interessado\, porém estará em viagem no dia 20/10 e não poderá nos atender
+  presencial. Sugeri a reunião por Zoom e ele aceitou\, seu contador também 
+ irá participar. Quer resolução principalmente do seu débito de INSS.&nbsp\;
+ </i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem
+  uma videochamada.\nParticipar: https://meet.google.com/jer-gghh-ksy\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-
+LAST-MODIFIED:20201016T173743Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - CARE SYSTEMS COMERCIO E REPRESENTACAO DE PRODUTOS A
+ GROPECUARIOS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201020T140000Z
+DTEND:20201020T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:4imu820ot43qhujul6ubqmbu8m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201016T155125Z
+DESCRIPTION:Empresa:&nbsp\;ROMERA SIMON IRRIGACAO E MAQUINAS AGRICOLAS LTDA
+ <br><br>CNPJ: 47064092000137<br><br>Responsável: João Romera (dono)<br><br>
+ Telefone de contato: 19 98131-0122<br><br><b>E-CAC: R$ 3.202.060\,73</b><br
+ ><br><i>Falei com João Romera\, fiz script de PRF e de primeiro momento ele
+  disse que já teve visita nossa e não tinha interesse\, e então apresentei 
+ o pdf de MOBILE PRF com as condições que existem hoje na pandemia e ele se 
+ interessou\, marcamos a reunião presencial.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite 
+ esta seção da descrição.\n\nEste evento tem uma videochamada.\nParticipar: 
+ https://meet.google.com/jbe-jwtc-ssz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201016T173753Z
+LOCATION:Av. Marginal Luiza Bodani Farnetani\, 825 - Distrito Industrial\, 
+ São João da Boa Vista - SP\, 13877-780\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - S. J. DA BOA VISTA - ROMERA SIMON IRRIGACAO E MAQUINAS AGRIC
+ OLAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201020T170000Z
+DTEND:20201020T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:3tun8d3rtcd04nijp42f24psgv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201016T133953Z
+DESCRIPTION:Empresa:&nbsp\;PANE GILL INDUSTRIA E COMERCIO DE PRODUTOS ALIME
+ NTICIOS LTDA<br><br>CNPJ: 49416902000100<br><br>Responsável: Lucas (dono)<b
+ r><br>Telefone de contato: 19 99219-9633<br><br><b>E-CAC: R$ 941.517\,89</b
+ ><br><br><i>Falei com Lucas\, fiz script de PRF e ele ficou bem interessado
+ \, marcamos a reunião presencial.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção
+  da descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://me
+ et.google.com/ejt-aonm-jnx\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201016T173804Z
+LOCATION:Av. dos Trabalhadores\, 738 - Distrito Industrial\, São João da Bo
+ a Vista - SP\, 13877-752\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - S. J. DA BOA VISTA - PANE GILL INDUSTRIA E COMERCIO DE PRODU
+ TOS ALIMENTICIOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201020T190000Z
+DTEND:20201020T200000Z
+DTSTAMP:20211014T133019Z
+UID:3a6j2cd897s798ni8jbmiqahl9@google.com
+CREATED:20201019T195228Z
+DESCRIPTION:
+LAST-MODIFIED:20201019T195344Z
+LOCATION:R. Pereira Machado\, 326 - Centro\, São João da Boa Vista - SP\, 1
+ 3870-241\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Care Systens-Márcio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T170000Z
+DTEND:20201027T180000Z
+DTSTAMP:20211014T133019Z
+UID:3n4do1d99mvqer3ukpknp1e8io@google.com
+CREATED:20201022T171048Z
+DESCRIPTION:Empresa:&nbsp\;KAKA AUTO ESCOLA<br><br>CNPJ: 48.626.030/0001-34
+ <br><br>Responsável: Jéssica (sócia e responsável pelo financeiro)<br><br>T
+ elefone de contato: 19 99241-1339<br><br><b>E-CAC: R$ 101.006\,16</b><br><b
+ r><i>Falei com Jéssica\, fiz script de PRF e ela disse que não estão mais t
+ rabalhando com esse CNPJ mas tem interesse em resolver. Marcamos a reunião 
+ presencial.</i>
+LAST-MODIFIED:20201022T171048Z
+LOCATION:R MARIO RODRIGUES\, 140\, SAO JOSE DO RIO PARDO - SP - 13720-000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - RIO PARDO - KAKA AUTO ESCOLA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T140000Z
+DTEND:20201027T150000Z
+DTSTAMP:20211014T133019Z
+UID:0lp0m1t0u96d9dqhhp5to7q2uh@google.com
+CREATED:20201023T153342Z
+DESCRIPTION:Empresa:&nbsp\;LIDIANI CRISTINA DE CASTILHO<br><br>CNPJ: 103634
+ 83000142<br><br>Responsável: Sandro (marido da dona e responsável financeir
+ o)<br><br>Telefone de contato: 19 99463-3593<br><br><b>E-CAC: R$ 370.178\,0
+ 0</b><br><br><i>Falei com Lidiani\, fiz script de PRF\, ela disse que quem 
+ cuida da empresa é seu marido Sandro\, falei com Sandro e marcamos a reuniã
+ o presencial.</i>
+LAST-MODIFIED:20201023T153342Z
+LOCATION:Av. Waldemar Poggio\, 650 - Vale do Redentor I\, São José do Rio P
+ ardo - SP\, 13720-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - RIO PARDO - LIDIANI CRISTINA DE CASTILHO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T180000Z
+DTEND:20201027T190000Z
+DTSTAMP:20211014T133019Z
+UID:45e62qcg70h65spca498s52ldn@google.com
+CREATED:20201026T151637Z
+DESCRIPTION:CNPJ- 17531741000100\nProprietario SR Antonio Carlos Martins
+LAST-MODIFIED:20201026T202419Z
+LOCATION:R. Campos Salles\, 1680 - Centro\, São José do Rio Pardo - SP\, 13
+ 720-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Bello Pan Alimentos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201028T200000Z
+DTEND:20201028T210000Z
+DTSTAMP:20211014T133019Z
+UID:492l87mkbm56pct4c0n6gmun3b@google.com
+CREATED:20201028T163535Z
+DESCRIPTION:Empresa:&nbsp\;E. C. AVILLA<br><br>CNPJ: 07848106000199<br><br>
+ Responsável: Eliane (dona)<br><br>Telefone de contato: 19 98134-2089<br><br
+ ><b>E-CAC: R$ 103.590\,70</b><br><br><i>Apresentar PRF. Reunião será online
+ \, via Zoom.</i>
+LAST-MODIFIED:20201028T163535Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ZOOM - E. C. AVILLA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T170000Z
+DTEND:20201105T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:7uahtnjggmdvgb3smr4m940i2h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201104T170939Z
+DESCRIPTION:Empresa:&nbsp\;PELECRIS INJETADOS PLASTICOS<br><br>CNPJ: 542688
+ 42000158<br><br>Responsável: Percival (dono)<br><br>Telefone de contato: 19
+  99126-3726<br><br><b>E-CAC: R$ 6.737.227\,02</b><br><b><br></b><br><b>ICMS
+ :&nbsp\;</b>&nbsp\;<b>R$ 1.280.379\,88&nbsp\;&nbsp\;<br></b><i><br></i><i>F
+ alei com Percival\, fiz script de PRF e ele ficou bem interessado\, marcamo
+ s a reunião online. Seu advogado Gustavo (telefone 19 99784-5462) também ir
+ á participar.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEs
+ te evento tem uma videochamada.\nParticipar: https://meet.google.com/cqc-wb
+ wm-sqa\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T171428Z
+LOCATION:Santa Cruz das Palmeiras\, SP\, 13650-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - PELECRIS INJETADOS PLASTICOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201109T170000Z
+DTEND:20201109T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:36tspc8kjtq03t6526c7nq0i4f@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201104T185218Z
+DESCRIPTION:Empresa:&nbsp\;LARINE IVAN CANALI<br><br>CNPJ: 14520583000196<b
+ r><br>Responsável: Larine (dona)<br><br>Telefone de contato: 19 99119-1640<
+ br><br><b>E-CAC: R$ 756.172\,85</b><br><br><i>Falei com Larine\, fiz script
+  de PRF e ela ficou bem interessada\, marcamos a reunião online.</i>\n\n-::
+ ~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videoc
+ hamada.\nParticipar: https://meet.google.com/eyc-qanm-nay\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T185218Z
+LOCATION:Santa Cruz das Palmeiras\, SP\, 13650-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - LARINE IVAN CANALI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201110T130000Z
+DTEND:20201110T140000Z
+DTSTAMP:20211014T133019Z
+UID:5ats04c9bcgh92ek4f9hhdtnnr@google.com
+CREATED:20201106T140315Z
+DESCRIPTION:Empresa:&nbsp\;POSTO KERS<br><br>CNPJ: 27555096000100<br><br>Re
+ sponsável: Pedro (verdadeiro dono)<br><br>Telefone de contato: 19 99393-661
+ 7<br><br><b>E-CAC: R$ 147.582\,73</b><br><br><i>Falei com Pedro\, a empresa
+  está em nome de João Vicente\, porém ele é "laranja". Fiz script de PRF pa
+ ra o Pedro e ele ficou bem interessado. Marcamos a reunião online.</i>
+LAST-MODIFIED:20201106T140421Z
+LOCATION:Santa Cruz das Palmeiras\, SP\, 13650-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - POSTO KERS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201113T200000Z
+DTEND:20201113T210000Z
+DTSTAMP:20211014T133019Z
+UID:3n41qkqpmgr1hapent64ts7iak@google.com
+CREATED:20201109T180612Z
+DESCRIPTION:Marcelo Lima Acabamentos\nCNPJ 19553946000103
+LAST-MODIFIED:20201109T180612Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Online-Marcelo Lima Acabamentos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201111T180000Z
+DTEND:20201111T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=JADE CPQ:mailto:iro00qceb3v549mb3nao298ui4@group.calendar.goog
+ le.com
+UID:2999n1u94n3f2col9ibj7o0uq9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20201110T145357Z
+DESCRIPTION:Empresa:&nbsp\;MASTER SISTEMAS DE SEGURANCA E MONITORAMENTO<br>
+ <br>CNPJ: 10479899000120<br><br>Responsável: Gilson (responsável financeiro
+ )<br><br>Telefone de contato: 19 99245-4245<br><br>E-mail: g.j.lima@hotmail
+ .com<br><br><b>E-CAC: R$ 397.621\,30</b><br><br><i>Falei com Tais (dona)\, 
+ fiz script de PRF e ela pediu para falar com Gilson que é quem cuida do fin
+ anceiro da empresa. Falei com Gilson\, passei o script do PRF e ele disse q
+ ue estão aguardando o REFIS de dezembro para pagarem\, falei que conosco el
+ e conseguiria mais descontos e um parcelamento até melhor\, o mesmo gostou 
+ e marcamos a reunião online.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da d
+ escrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.go
+ ogle.com/thk-fjqf-pwp\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201110T145357Z
+LOCATION:Tambaú\, SP\, 13710-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - MASTER SISTEMAS DE SEGURANCA E MONITORAMENTO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201118T180000Z
+DTEND:20201118T190000Z
+DTSTAMP:20211014T133019Z
+UID:4bccjud1k0c7s60j9iiqc5uiqg@google.com
+CREATED:20201112T140656Z
+DESCRIPTION:Empresa:&nbsp\;&nbsp\;COLPANI INDUSTRIA E COMERCIO DE PESCADOS 
+ LTDA<br><br>CNPJ: 05424630000107<br><br>Responsável: Thiago (sócio)<br><br>
+ Telefone de contato: 19 99139-6281<br><br><b>E-CAC:&nbsp\; R$ 201.945\,56</
+ b><br><br><i>Falei com Thiago\, passei o script de PRF e ele ficou bem inte
+ rassado. Devido as eleições só poderá na quarta do dia 18/11 fazer a reuniã
+ o online.&nbsp\;</i>
+LAST-MODIFIED:20201112T140656Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - COLPANI PESCADOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201116T180000Z
+DTEND:20201116T190000Z
+DTSTAMP:20211014T133019Z
+UID:7rs6gmrb1cspp6tkln0dsdqate@google.com
+CREATED:20201112T144024Z
+DESCRIPTION:Empresa:&nbsp\;MEGAFER - SEGURANCA ELETRONICA LTDA<br><br>CNPJ:
+  05813368000192<br><br>Responsável: Rogério (dono)<br><br>Telefone de conta
+ to: 19 99949-8844<br><br><b>E-CAC: R$ 215.389\,15</b><br><br><i>Falei com R
+ ogério\, fiz script de PRF\, o mesmo disse que não teria como pagar esse dé
+ bito e que estava até pensando em suícidio para acabar logo com essa divida
+ . Fui extremamente gentil e disse que poderíamos ajudá-lo e que já ajudamos
+  diversas empresas nas mesmas condições das dele. Prints da conversa enviad
+ as para o Alex. Marcamos a reunião online.</i>
+LAST-MODIFIED:20201112T144024Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - MEGAFER - SEGURANCA ELETRONICA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201116T130000Z
+DTEND:20201116T140000Z
+DTSTAMP:20211014T133019Z
+UID:0htbvmggfl2jfk1h9ffqqqad7n@google.com
+CREATED:20201112T185938Z
+DESCRIPTION:Empresa:&nbsp\;MINIMERCADO PROVIDENCIA LTDA<br><br>CNPJ: 299490
+ 68000101<br><br>Responsável: Sidnei (dono)<br><br>Telefone de contato: 19 9
+ 9678-3868<br><br><b>E-CAC: R$ 113.027\,94</b><br><br><i>Falei com Sidnei\, 
+ fiz script de PRF e ele ficou bem interessado. Marcamos a reunião online.</
+ i>
+LAST-MODIFIED:20201112T185938Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - MINIMERCADO PROVIDENCIA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201116T170000Z
+DTEND:20201116T180000Z
+DTSTAMP:20211014T133019Z
+UID:2jksiuf1sdkafvntoc7m8ba3hq@google.com
+CREATED:20201112T194847Z
+DESCRIPTION:Empresa:&nbsp\;MULT TOP INDUSTRIA E COMERCIO DE ESTRUTURAS META
+ LICAS E ISOLAMENTO ACUSTICO LTDA<br><br>CNPJ: 05151462000123<br><br>Respons
+ ável: Eduardo (dono)<br><br>Telefone de contato: 19 99291-8141<br><br><b>E-
+ CAC: R$ 236.239\,39</b><br><br><i>Falei com Eduardo\, fiz script de PRF\, e
+ le ficou bem interassado\, já queria saber valor de honorários\, o que pode
+ ríamos fazer\, etc... expliquei que tudo seria passado na reunião e lhe env
+ iei nosso site e portfólio de apresentação da empresa. Marcamos a reunião o
+ nline. SÓCIA LUCIANA TAMBÉM PARTICIPARÁ.</i>
+LAST-MODIFIED:20201116T124918Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - MULT TOP INDUSTRIA E COMERCIO DE ESTRUTURAS METALIC
+ AS E ISOLAMENTO ACUSTICO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201118T170000Z
+DTEND:20201118T180000Z
+DTSTAMP:20211014T133019Z
+UID:5ngj30sbtsd0qf0eig6f2lmeim@google.com
+CREATED:20201116T145001Z
+DESCRIPTION:Empresa:&nbsp\;TREVO FERRO VELHO AUTO SOCORRO LTDA<br><br>CNPJ:
+  06130243000120<br><br>Responsável: Elifas (dono)<br><br>Telefone de contat
+ o: 19 99796-1300<br><br><b>E-CAC: R$ 613.525\,81</b><br><br><i>Falei com El
+ ifas\, fiz script de PRF e ele ficou bem interessado. Marcamos a reunião on
+ line.</i>
+LAST-MODIFIED:20201116T145001Z
+LOCATION:Casa Branca\, SP\, 13700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - TREVO FERRO VELHO AUTO SOCORRO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201117T130000Z
+DTEND:20201117T140000Z
+DTSTAMP:20211014T133019Z
+UID:0f88pi7844t96s69ncdiobiko9@google.com
+CREATED:20201116T165719Z
+DESCRIPTION:Empresa:&nbsp\;BARUC AUTO SOCORRO E OFICINA<br><br>CNPJ: 089305
+ 18000136<br><br>Responsável: Reginaldo (dono)<br><br>Telefone de contato: 1
+ 9 99885-7518<br><br><b>E-CAC: R$ 135.868\,08</b><br><br><i>Falei com Regina
+ ldo\, fiz script de PRF e ele ficou bem interessado\, marcamos a reunião on
+ line.</i>
+LAST-MODIFIED:20201116T165719Z
+LOCATION:Casa Branca\, SP\, 13700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - BARUC AUTO SOCORRO E OFICINA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201118T140000Z
+DTEND:20201118T150000Z
+DTSTAMP:20211014T133019Z
+UID:5khamv5s1vv3titebs5vh9s578@google.com
+CREATED:20201117T191743Z
+DESCRIPTION:Empresa:&nbsp\;&nbsp\;POSTO HUDSON<br><br>CNPJ: 02727537000183<
+ br><br>Responsável: Vivaldo (dono)<br><br>Telefone: 19 99744-0489<br><br><b
+ >E-CAC: R$ 251.415\,35</b><br><br><i>Falei com Vivaldo\, fiz script de PRF 
+ e ele ficou bem interessado\, marcamos a reunião online.</i>
+LAST-MODIFIED:20201117T191828Z
+LOCATION:Casa Branca\, SP\, 13700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - POSTO HUDSON
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201120T190000Z
+DTEND:20201120T200000Z
+DTSTAMP:20211014T133019Z
+UID:7nq22jfii2nlpi7jqtr4a7ubhe@google.com
+CREATED:20201119T115819Z
+DESCRIPTION:Empresa:&nbsp\;FIGNOTTI PRESTACOES DE SERVICOS<br><br>CNPJ: 115
+ 59972000137<br><br>Responsável: Jose Geraldo (dono)<br><br>Telefone de cont
+ ato: 19 99319-0796<br><br><b>E-CAC: R$ 340.249\,63</b><br><br><i>Falei com 
+ Jose Geraldo\, fiz script de PRF e ele ficou bem interessado. Marcamos a re
+ união online.</i>
+LAST-MODIFIED:20201119T115819Z
+LOCATION:Casa Branca\, SP\, 13700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - FIGNOTTI PRESTACOES DE SERVICOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201124T180000Z
+DTEND:20201124T190000Z
+DTSTAMP:20211014T133019Z
+UID:1g9p0ahnhpam8p0ic44s8t48mk@google.com
+CREATED:20201119T155739Z
+DESCRIPTION:Empresa:&nbsp\;SUPREMA PIZZARIA E CANTINA EIRELI<br><br>CNPJ: 1
+ 4756957000177<br><br>Responsável: Gilberto (dono)<br><br>Telefone de contat
+ o: 19 98211-2102<br><br><b>E-CAC: R$ 338.498\,44</b><br><br><i>Falei com Gi
+ lberto\, fiz script de PRF\, ele ficou interessado\, marcamos a reunião onl
+ ine.</i>
+LAST-MODIFIED:20201119T155739Z
+LOCATION:Vargem Grande do Sul\, SP\, 13880-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - SUPREMA PIZZARIA E CANTINA EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T120000Z
+DTEND:20201123T130000Z
+DTSTAMP:20211014T133019Z
+UID:6e2he9gf0fmibm4rlol4bqp875@google.com
+CREATED:20201119T170056Z
+DESCRIPTION: Razão Social:Marcelo Tobias dos Santos Calçados\nTobisan Comer
+ cio de Calçados.\n\nCNPJ:01909189000100\n\nECA-C:765.705\,71\n\nTel:(19)999
+ 50 2468\n\nReunião via Zomm\, enviar o link as 8:30
+LAST-MODIFIED:20201119T170720Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Online-Tobisan Calçados
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201120T130000Z
+DTEND:20201120T133000Z
+DTSTAMP:20211014T133019Z
+UID:3ho9lc27hlsnh6gfrhkvifb7f2@google.com
+CREATED:20201118T183854Z
+DESCRIPTION:MACHADO & TUJEIRA LTDA\n\nCNPJ-08.915.348/0001-10 \n\nGonçalo-(
+ 19)-992744342\n\n99530 2525 \n\nE-CAC-553.441\,99\n\n\n\nFalei com o SR Gon
+ çalo\, segue script padrão.Ele não tinha ciencia dos valores mas ficou inte
+ ressado.
+LAST-MODIFIED:20201119T192554Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião online-Machado e Tujeira
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T183000Z
+DTEND:20201125T193000Z
+DTSTAMP:20211014T133019Z
+UID:739a307903osrc44g244stuogl@google.com
+CREATED:20201119T152905Z
+DESCRIPTION:Empresa:&nbsp\;WW AVIACAO AGRICOLA LTDA<br><br>CNPJ: 0539628300
+ 0156<br><br>Responsável: Valter Antonio (dono)<br><br>Telefone de contato: 
+ 19 98400-6151<br><b><br></b><br><b>E-CAC: R$ 915.261\,18</b><br><br><i>Fale
+ i com Valter Antonio\, fiz script de PRF e ele ficou interessado. Marcamos 
+ a reunião online.</i>
+LAST-MODIFIED:20201124T141205Z
+LOCATION:Vargem Grande do Sul\, SP\, 13880-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - WW AVIACAO AGRICOLA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201126T130000Z
+DTEND:20201126T140000Z
+DTSTAMP:20211014T133019Z
+UID:042mtbl8redff1mp08v36j4lqc@google.com
+CREATED:20201125T125409Z
+DESCRIPTION:Frigorifico Vale do Prata\n\nECA-C:  R$ 2.198.090\,27  \n\nCNPJ
+ : 49.414.816/0001-50  \n\nFalei com Sr José Antonio\, um dos sócios\, ficou
+  interessado e marcamos reunião para amanha.
+LAST-MODIFIED:20201125T131134Z
+LOCATION:São João da Boa Vista\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jade-Reunião online - FRIGORIFICO VALE DO PRATA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T170000Z
+DTEND:20201123T180000Z
+DTSTAMP:20211014T133019Z
+UID:377jh1e17o682f2bcoce4i9kn4@google.com
+CREATED:20201119T153346Z
+DESCRIPTION:Empresa:&nbsp\;PIT STOP -&nbsp\;OLIVEIRA PECAS AUTOMOTIVAS LTDA
+ &nbsp\;&nbsp\;<br><br>CNPJ: 08209986000116<br><br>Responsável: João Batista
+  (dono)<br><br>Telefone de contato: 19 99305-1018<br><br><b>E-CAC: R$ 131.1
+ 05\,93</b><br><br><i>Falei com João Batista\, ele já recebeu nossa visita\,
+  tem interesse em nosso trabalho\, mas quer uma reunião bem objetiva\, quan
+ to está devendo\, o que podemos reduzir mais ou menos e quanto cobramos de 
+ honorários. Marcamos a reunião online.</i>
+LAST-MODIFIED:20201126T162159Z
+LOCATION:Vargem Grande do Sul\, SP\, 13880-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - ONLINE - PIT STOP
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201201T183000Z
+DTEND:20201201T193000Z
+DTSTAMP:20211014T133019Z
+UID:0i34d3ein47hsnc6ru0n9t9mm6@google.com
+CREATED:20201130T182215Z
+DESCRIPTION:Transpinhal Transportes\n\nCNPJ:54225859000128 \n\n19-3651-2626
+  \n\nSr Reginaldo-19-98188-8320\n\nSite PGFN fora \n\nConversei com Sr Regi
+ naldo\, e ele disse que tem uma empresa de SP cuidando disso pra ele\, mas 
+ ficou interessado em conhecer nosso projeto.
+LAST-MODIFIED:20201130T182806Z
+LOCATION:Espírito Santo do Pinhal\, SP\, 13990-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jade-Reunião Online
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201204T200000Z
+DTEND:20201204T210000Z
+DTSTAMP:20211014T133019Z
+UID:6n051h1iko01dajrqfl1ha1rm6@google.com
+CREATED:20201203T175434Z
+DESCRIPTION:BPP Representações Comerciais LTDA - 02255734000147\n\nSR UBIRA
+ JARA-(19)-99776-6560\n\nECA-C: 5.515.933\,85\n\nSr Ubiraja disse que tem mu
+ ito interersse em tratar desse assunto\, porém ele faz o comercial da empre
+ sa e esta sempre na estrada ou com algum cliente.Mandei Whats.\nReunião mar
+ cada
+LAST-MODIFIED:20201204T124918Z
+LOCATION:Espírito Santo do Pinhal\, SP\, 13990-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Jade -Reunião Online
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201209T120000Z
+DTEND:20201209T130000Z
+DTSTAMP:20211014T133019Z
+UID:23jb5e64vm6kne40gm3qb1l9o0@google.com
+CREATED:20201207T180702Z
+DESCRIPTION:WERNER & PEREIRA REPRESENTACOES COMERCIAIS LTDA \n\nCNPJ:109924
+ 59000172\n\nContato:SR Pedro-(19)99225-5372\n\nEca-C:101.039\,59
+LAST-MODIFIED:20201208T134156Z
+LOCATION:Espírito Santo do Pinhal\, SP\, 13990-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Jade Online-Werner e Pereira Representações Comerciais
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T170000Z
+DTEND:20210121T180000Z
+DTSTAMP:20211014T133019Z
+UID:4hl3abl6tgn3h3ts0t27lp02cc@google.com
+CREATED:20210120T152552Z
+DESCRIPTION:Antonio Gomes Junior Transportes \n(TJ e M Transportes\n\nRua J
+ osé Justi -119\nSanta Maria\nMococa-SP\n\nJunior(19)992005619\n\nCNPJ:02.96
+ 3.657/0001-80\n\nEca-C-R$:441.534\,84\n\nSr Junior não trabalha mais com es
+ sa empresa\, possui outro negócio no momento.\nMas demonstrou interesse em 
+ resolver.
+LAST-MODIFIED:20210120T152948Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jade-Reunião Antonio Gomes Junior Transportes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210122T190000Z
+DTEND:20210122T200000Z
+DTSTAMP:20211014T133019Z
+UID:5r3grpjbaofmlg42dvjlvookt3@google.com
+CREATED:20210120T162659Z
+DESCRIPTION:João Donizete Bruno Auto Peças\n\nSr João Donizete (19)99304 75
+ 85\n \nRua Gilda Pasti-165\nParque Canoas\nMococa-SP\n\nCNPJ:06265934/0001-
+ 31\n\nECA-C:420.015\, 150
+LAST-MODIFIED:20210120T163136Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jade-Reunião João Donizete Bruno Auto Peças
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210117T053000Z
+DTEND:20210117T063000Z
+DTSTAMP:20211014T133019Z
+UID:59jbe2trdhe2esge4ot5hao5eu@google.com
+CREATED:20210120T203902Z
+DESCRIPTION:Mult Top Industria e Comércio de Estruturas Metálicas e Isolame
+ nto Acústico LTDA\n \nRodovia SP 340-268\n(Galpão na estrada para Cajuru)\n
+ \nEduardo 99291 81 41\n\nCNPJ:0515146/0001-23\n\nEca-C:236.670\,22\n\nJá fi
+ zemos reunião Via Zoom.\nCliente demonstrou interesse em fechar dessa vez
+LAST-MODIFIED:20210125T121125Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Jade Reunião Mult Top
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210129T130000Z
+DTEND:20210129T140000Z
+DTSTAMP:20211014T133019Z
+UID:1pe1v0pg0qk790kic48kfp7jd8@google.com
+CREATED:20210125T184541Z
+DESCRIPTION:Larine Ivan Canali\n\nRua Dr Amaral-65\nVila Bortoni\nSanta Cru
+ z das Palmeiras-SP\n\nCNPJ:145205830/0001-96\n\nECA-C:756.172\,85\n\nPropri
+ etaria Larine-19-99119 1640\n\nReunião será com a Advogada Lizânia-971459 7
+ 710\n\nAdv tem interesse em resolver essa pendência com urgência.
+LAST-MODIFIED:20210125T185104Z
+LOCATION:Santa Cruz das Palmeiras\, SP\, 13650-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Jade-Larine Ivan Canali
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T130000Z
+DTEND:20210127T140000Z
+DTSTAMP:20211014T133019Z
+UID:3smhi3bs5bs2aglhnq3v3klrqd@google.com
+CREATED:20210126T162530Z
+DESCRIPTION:SGS Montagens  Industriais Eletro Mecanica \n\nCNPJ:22803136/00
+ 01-72\n\nRua José Correia de Oliveira-75\n\nSandro Aurélio :98813 47 30\n\n
+ ECa-c 720.883\,49
+LAST-MODIFIED:20210126T163124Z
+LOCATION:São José do Rio Pardo\, SP\, 13720-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Jade-SGS Montagens Industriais Eletro Mecânica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T180000Z
+DTEND:20210127T190000Z
+DTSTAMP:20211014T133019Z
+UID:6nj99qc0eenejdronbdaa5bli0@google.com
+CREATED:20210126T165512Z
+DESCRIPTION:UNE Terraplanagem LTDA  \n\nCNPJ:09176267/000109\n\nPraça Nossa
+  Aparecida 792\nBairro Bom Sucesso\n\nSão José do Rio Pardo-SP\n\nECA-C:212
+ 7925\,02
+LAST-MODIFIED:20210126T170459Z
+LOCATION:São José do Rio Pardo\, SP\, 13720-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Jade-UNE Terraplanagem LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T120000Z
+DTEND:20210208T130000Z
+DTSTAMP:20211014T133019Z
+UID:05qc9ukhfkcq91hdpvatb1shns@google.com
+CREATED:20210203T132056Z
+DESCRIPTION:CNPJ:22803136/0001-72\n Rua José Correia de Oliveira-75\n Sandr
+ o Aurélio :98813 47 30\n ECa-c 720.883\,49  
+LAST-MODIFIED:20210203T132056Z
+LOCATION:São José do Rio Pardo\, SP\, 13720-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião -Jade SGS Montagens industriais
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T190000Z
+DTEND:20210208T200000Z
+DTSTAMP:20211014T133019Z
+UID:352tqci31vhc982774v1a79hop@google.com
+CREATED:20210204T183121Z
+DESCRIPTION:Industria e Comercio de Café 2p LTDA\n\nCNPJ:01768629000149\n\n
+ Rua Edgar de Freitas 293\nChico Piscina\nMococa -SP\n\nJosé Pereira:19 9176
+ 4860\n\nEca-C:173.385\,45
+LAST-MODIFIED:20210204T183611Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião-Jade Industria e Comércio de Café 2P
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T140000Z
+DTEND:20210208T150000Z
+DTSTAMP:20211014T133019Z
+UID:4imrnifd3gcq2kg4d787tutj8c@google.com
+CREATED:20210204T142244Z
+DESCRIPTION:OPD Informática\nComputec\n\nRua Carmo Talibert-694\nCentro\nMo
+ coca-SP\n\nCNPJ:60830890000190\n\nPaulo Sergio-19 9.8194-7192\n\nEca-C:183.
+ 027\,38
+LAST-MODIFIED:20210329T185738Z
+LOCATION:Mococa\, SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião-Jade -OPD Informática
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210114T170000Z
+DTEND:20210114T180000Z
+DTSTAMP:20211014T133019Z
+UID:79jkhild97gppa1odrk7i2udnc@google.com
+CREATED:20210518T121809Z
+DESCRIPTION:Empresa: ELECTROMONT SOLUCAO EM MONTAGEM ELETRICA LTDA&nbsp\;<b
+ r><br>CNPJ: 17.810.818/0001-72<br><br><b>E-CAC: R$ 1550.211\,55</b><br><br>
+ Responsável: José Ricardo (dono)<br><br>Telefone de contato: 19 98999-7465 
+ ou 19 3665-1599<br><br><i>Falei com José Ricardo\, passei script de PRF\, e
+ le informou que já conhece  a Villela através de uma reunião passada que ha
+ via feito com o Marcelo. Falei sobre o agravamento da divda e ele se intere
+ ssou. Marcamos a reunião presencial.</i>
+LAST-MODIFIED:20210518T122007Z
+LOCATION:R. José Pedro Carvalho de Lima\, 176 - Jardim Sao Domingos\, Mococ
+ a - SP\, 13733-230\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JADE - MOCOCA - ELECTROMONT SOLUCAO EM MONTAGEM ELETRICA LTDA 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

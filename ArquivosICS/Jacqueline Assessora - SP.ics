@@ -1,0 +1,4387 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jacqueline Assessora - SP
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20190710T140000Z
+DTEND:20190710T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:0nijh7p4ep599ouo0jbc0aetrp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marian
+ evillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+CREATED:20190705T190418Z
+DESCRIPTION:Conforme contato telefônico realizado dia 05/07\, ficou agendad
+ o com Sr Guilherme Siqueira Marcolino para a entrega do Parecer da empresa.
+  Secretária Tamires.\n\nTelefone: (11)98957-3129 Sr Guilherme\n\nCNPJ 12.43
+ 7.735/0001-66\n\nDívida: 1.099.400\,24
+LAST-MODIFIED:20190708T114013Z
+LOCATION:R Jose Tibúrcio Da Cunha\, 281\, Térreo - Jardim Suina\, Taboão Da
+  Serra  SP\, CEP 06773-360
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP ESTOFADOS WG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T140000Z
+DTEND:20190711T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:3teof4engo12muu69c8f9lmg5r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190708T181848Z
+DESCRIPTION:Conforme contato telefônico realizado dia 08/07\, ficou agendad
+ o com SR MÁRIO para a entrega do parecer da empresa.\n\nTelefone: (11) 5631
+ -3411\n\nCNPJ 01.495.013/0001-41\n\nDívida: R$ 12.773.145\,87 
+LAST-MODIFIED:20190708T185430Z
+LOCATION:R. Pacaritambo\, 41 - Vila Isa\, São Paulo - SP\, 04689-005\, Bras
+ il
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP HORTIPLAST EMBALAGENS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T160000Z
+DTEND:20190711T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:7vla6t86h2nl0fb7h1pb8ghe7e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190710T131337Z
+DESCRIPTION:Conforme contato telefônico realizado dia 10/07\, ficou agendad
+ o com Sr Altemir para a entrega do parecer da empresa.\n\nTelefone:  (11) 3
+ 926-3975\n\nCNPJ: 56.996.200/0001-09\n\nDÍVIDA: R$ 10.342.820
+LAST-MODIFIED:20190710T133735Z
+LOCATION:R. Arnoldo Felmanas\, 67 - Veleiros\, São Paulo - SP\, 04774-010\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP H C INDUSTRIA E COMERCIO DE MOLAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T160000Z
+DTEND:20190717T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=leandravillelabrasil@gmail.com:mailto:leandravillelabrasil@gma
+ il.com
+UID:cco68e35cdgm2b9g6oo3cb9k6hijgbb271ijab9i75i32d1o6kr38p1g64@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;X-NUM-GUE
+ STS=0:mailto:renata.thomaz@villelabrasil.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=leandr
+ avillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:leandravillelabrasil@gmail.c
+ om
+CREATED:20190711T144336Z
+DESCRIPTION:Retorno com o Felipe e a Luciana.
+LAST-MODIFIED:20190711T174454Z
+LOCATION:Av. Armando Bei\, 912 - Vila Nova Bonsucesso\, Guarulhos - SP\, 07
+ 175-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Leandra -Transportadora Herdeiros
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T170000Z
+DTEND:20190717T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7l8pd5b9t3b2mcte63oj5ob1sq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+CREATED:20190715T184447Z
+DESCRIPTION:Empresa: HEZOLINEM EQUIP TOP E COM DE SERV E DESENVOLVIMENTO LT
+ D\nCnpj: 50.279.942/0001-29\nTel: 113868-0820\nResponsável: Maria Luiza \nC
+ onsultor: Marcelo 
+LAST-MODIFIED:20190716T122333Z
+LOCATION:Av. Paulo VI\, 184 - Sumaré\, São Paulo - SP\, 01262-010\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCELO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T190000Z
+DTEND:20190610T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:01pf5ktofii9be10ujd1c8tn1s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: Astral instaladora elétrica eireli\nCnpj: 48.558.563/0
+ 001-26\nTel: 5084-7660\n\nFalar com Marcos Matias
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Rua General Sousa Neto\, 284 - Vila Aricanduva\, São Paulo - SP\, 
+ 03502-020\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Astral 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T140000Z
+DTEND:20190717T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:03vlvugk1v2598trt1njhqri92@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=leandr
+ avillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:leandravillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: PH CLINICA INTEGRADA DE TRATAMENTO ODONTOLOGICO LTDA\n
+ Cnpj: 02.788.525/0001-69\nTel: 4307-6080 Cel: 962614147\n\nFalar com Leonil
+ do !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Quinze de Novembro\, 85 - Jardim Santa Edwirges\, Guarulhos - S
+ P\, 07011-030\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LEANDRA- PH CLINICA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T150000Z
+DTEND:20190710T160000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:05pslmjt0vgbb5n77208sc482g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: LENTICULAR DO BRASIL COMUNICACAO VISUAL LTDA\nCnpj: 01
+ .146.890/0001-07\nTel: 4474-1737\n\nFalar com Adilson !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Silveira Neto\, 53 - Vila Homero Thon\, Santo André - SP\, 0911
+ 1-150\, Brasil
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:RICARDO- LENTICULAR SANTO ANDRÉ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T120000Z
+DTEND:20190619T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:08radrh7mni58dbsa6jocq8apk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: AVEC VERRE DESIGN PRODUTOS ESPECIAIS LTDA\nCnpj: 00.31
+ 8.320/0001-94\nTel: 4422-4722\nFalar com Giuliana !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Ituverava\, 250 - Jardim Ocara\, Santo André - SP\, 09051-200\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Avec Santo André
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190429T110000Z
+DTEND:20190429T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0gsnn0ur6p2sfh3pk0cq1nfch7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=us
+ ia@uol.com.br;X-NUM-GUESTS=0:mailto:usia@uol.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme combinado\, reunião agendada com o Sr Everaldo\, segun
+ da-feira dia 29/04\,  para apresentar nosso Plano de recuperação fiscal !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Álvares Cabral\, 1151 - Serraria\, Diadema - SP\, 09980-160\, B
+ rasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T180000Z
+DTEND:20190607T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0hqor8s7mceans21nr19bvrlfj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: APLIKE PRODUTOS ADESIVOS LTDA\nCnpj: 54.492.285/0001-5
+ 4\nDívida: 18.284.412\,14\nTel: 4056-3977\n\nFalar com Luiz !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Alda\, 1893\, Jardim Tiradentes\, Diadema - SP\, 04476-240\, B
+ rasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Aplike
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T180000Z
+DTEND:20190527T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:11qnkodipdhi7js1a0n45p24se@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade: Nobile Soluções Contábeis e Empresariais\nFalar 
+ com Sr José !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Dr. Miguel Vieira Ferreira\, 325 - Tatuapé\, São Paulo - SP\, 0
+ 3071-080\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade Nobilile tatuapé
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T180000Z
+DTEND:20190610T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:14eiftie0i38ssfbvfnhfr64d1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: METALPART INDÚSTRIA E COMÉRCIO LTDA\nDívida: 29.738.78
+ 6\,15\nCNPJ: 00.233.546/0001-92\n\nTel:4044-4088\nFalar com Alex (responsáv
+ el do fiscal) !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Nossa Sra. das Graças\, 378 - Serraria\, Diadema - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo METALPART 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190517T140000Z
+DTEND:20190517T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1evv3383qjh9rlhc6b2qnpg8jr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade: Delta Contabil\nTel:4043-8440\nFalar com Tânia
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Topázio\, 14 - Centro\, Diadema - SP\, 09920-600\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Contabilidade Delta
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190514T120000Z
+DTEND:20190514T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1ghbte3tjpbiu0kkd8c1h947ep@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme combinado\, reunião agendada com o Sr Albenicio para q
+ uinta-feira ás 14hrs para apresentar nosso Plano de recuperação fiscal\, da
+  empresa GLOBAL EQUIPAMENTOS CONTRA INCÊNDIO EIRELI !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:rua almeida júnior\, n°50 diadema 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo GLOBAL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T170000Z
+DTEND:20190610T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1hd6chf27d3p3m37dpavk5epk7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: AMINO QUIMICA LTDA\nCNPJ: 54.733.019/0001-76\nDívida: 
+ 26.799.929\,28\nTel: 4070-5753\n\nFalar com Sandro !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Dr. Ulysses Guimarães\, 3389 - Vila Nogueira\, Diadema - SP\, 
+ 09990-080\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Amino 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T130000Z
+DTEND:20190717T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1j50inh49e7h3po6ah8r1oavbf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lydiav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: CHURRASCARIA VENTO NORTE LTDA\nCnpj: 68.877.687/0001-8
+ 1\nTel: 3083-4265\n\nFalar com Giovane !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Rebouças\, 1001 - Cerqueira César\, São Paulo - SP\, 05402-600
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LYDIA- VENTO HARAGANO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T140000Z
+DTEND:20190619T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1men5a70p64gdgjbcgrv48ke39@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: METALFREZ USINAGEM LTDA\nCnpj: 03.832.845/0001-31\nTel
+ : 4479-0584\n\nFalar com João !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Jorge Beretta\, 615 - Parque Erasmo Assunção\, Santo André - SP
+ \, 09271-400\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Metalfrez Santo André 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T140000Z
+DTEND:20190611T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1tq6dasirbgqmuiuravi67u63l@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:\nEmpresa: J L INSTALAÇÕES ELÉTRICAS E HIDRÁULICAS LTDA \nCNPJ:
+  17.220.648/0001-76  \nDívida: R$ 1.049.050\,92 . \nTel: 4319-1398\n\nFalar
+  com Aline (contabilidade)!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R Coronel Oliveira Lima\, 252\, Sala 57\, Centro\, Santo Andre
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo JL 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190702T140000Z
+DTEND:20190702T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1v2vjd36v82oskqitm2d3u93dh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: FARMEX FARMACIA DE MANIPULACAO LTDA\nCnpj: 55.777.106/
+ 0001-98\nTel: 4994-2700\n\nFalar com Regina !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Campos Sales\, 491 - Centro\, Santo André - SP\, 09015-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Farmex Santo André
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T140000Z
+DTEND:20190603T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:28a9mrsk27g7ekj4jf5krtsseu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa:IMPACTO INDUSTRIA E COMERCIO EIRELI\nDívida:5.069.675\,
+ 23\nCnpj:07.662.250/0001-36\n\nFalar com Luciene !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Vênus\, 121 - Serraria\, Diadema - SP\, 09990-010\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo IMPACTO Diadema
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T140000Z
+DTEND:20190610T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:28q68tcgb1a2it9k8vgnvrdl36@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:\nEmpresa: PRECIVALE INDUSTRIA METALÚRGICA LTDA \nCnpj: 00.988.
+ 657/0001-09 \nDívida: 966.969\,55 \n \nFalar com José da contabilidade !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. James Stolz\, 237 - Vila Ema\, São Paulo - SP\, 03277-010\, Bra
+ sil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Empresa Precivale
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190517T190000Z
+DTEND:20190517T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2cb317up9gie579r74pg2vuhut@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ronald
+ o@saopaulocont.com.br;X-NUM-GUESTS=0:mailto:ronaldo@saopaulocont.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada com Ronaldo para apresentar nossa parceria com
+  a contabilidade São Paulo !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:av nossa sra das vitorias \,68 1°andar \, Centro Diadema 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Contabilidade São Paulo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T130000Z
+DTEND:20190613T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2e7vj6qiqj7heoivms81hsrf5l@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião marcada na Contas Contabilidade e Assessoria Jurídica c
+ om o Sr Eduardo!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Antônio de Barros\, 569 - Tatuapé
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contas contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T130000Z
+DTEND:20190619T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2hql4eb4mugdglg5rh0p412v52@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:NQ contabil\nFalar com Claudia !\nTel: 2367-4784
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Cantagalo\, 1388 - Tatuapé\, São Paulo - SP\, 03319-001\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica contabilidade NQ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T190000Z
+DTEND:20190503T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2lkbuoitglbpj3v72mj437i5q8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gl
+ aucia.financeiro@mssamazonia.com.br;X-NUM-GUESTS=0:mailto:glaucia.financeir
+ o@mssamazonia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada para dia 03/05 às 16:00 hrs\, com o Sr Valdeir
+  Cordeiro Vasco da empresa METALÚRGICA SETE DE SETEMBRO LTDA\, para lhe apr
+ esentar nosso Plano de recuperação fiscal ! 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Manoel da Nobrega\, 1037 - Capuava\, Mauá - SP\, 09380-120\, B
+ rasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T170000Z
+DTEND:20190618T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2oo10r297jrvhfshpkdtinhlfr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Renuião agendada com Arnaldo da empresa Mobiplan indústria e co
+ mércio de móveis e divisórias ltda \, cnpj 00.903.794/0001-01 !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. da Ruyce Ferraz Alvim\, 1706 - Vila Nogueira\, Diadema - SP\, 
+ 09990-060\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Diadema Mobiplan 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T173000Z
+DTEND:20190710T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:33gakev4p13r6efiv1ig1j83jb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: SEPA SEGURANCA ELETRONICA EIRELI\nCnpj: 03.453.108/000
+ 1-28\nTel: 4475-6923\n\nFalar Loreval !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Travessa Agenor da Silva Santos\,04 Tv. Agenor da Silva Santos - V
+ ila Curuca\, Santo André - SP\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:RICARDO- SEPA SANTO ANDRÉ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T130000Z
+DTEND:20190612T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3alajvctf3u1di894kp8vgb56f@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade Cgv. \nTel: 2090-2929\nFalar com Fábio!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Bernardo Magalhães\, 126 - Tatuapé\, São Paulo - SP\, 03067-060
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade Cgv
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T120000Z
+DTEND:20190613T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3avlotpr6h2v1r57uf38srjqfi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: MODELAÇÃO ART MOLDES EIRELI\nCnpj: 02.496.707/0001-66\
+ nTel: 4426-4811\n\nFalar com Moacir !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Mal. Floriano\, 300 - Vila Gilda\, Santo André - SP\, 09190-470
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Modelação Art Santo André
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190628T170000Z
+DTEND:20190628T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3doqbd48r240gg2ohkqrhk2uji@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: CAKKY BALACO BUFFET LTDA\nCnpj: 03.991.921/0001-51\nTe
+ l: 4427-9033\n\nFalar com Silvia !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. das Figueiras\, 580 - Jardim\, Santo André - SP\, 09080-371\, B
+ rasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Cakky Balaco Santo André 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T150000Z
+DTEND:20190508T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3gb2au92ii2djmrkfoii84p4ig@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=adm2@c
+ rqquimica.com.br;X-NUM-GUESTS=0:mailto:adm2@crqquimica.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme combinado\, reunião agendada com o Sr Rogério para qua
+ rta-feira após 12:00 hrs para apresentar nosso Plano de recuperação fiscal\
+ , da empresa CRQ PRODUTOS QUÍMICOS EIRELI !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Eldorado\, 182 - Casa Grande\, Diadema - SP\, 09980-120\, Bras
+ il
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo CRQ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T140000Z
+DTEND:20190527T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3hdn274l14484jr6038ge2njkr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade Shallon\, falar com Edson !\nTel: 2296-4658
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Jacirendi\, 391 - Tatuapé\, São Paulo - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade Shallon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T050000Z
+DTEND:20190411T060000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3jdrf4tsc0jl316miqqr1aiooh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ysson.garcia@grupovillela.com;X-NUM-GUESTS=0:mailto:alysson.garcia@grupovil
+ lela.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: CERVEJARIA DER BRAUMEISTER PAULISTA LTDA<br>Cnpj: 01.4
+ 74.004/0001-74<br>Valor da divida: 5.808.331\,43<br>Endereço: rua TREZE DE 
+ MAIO\,1947\,LOJA 422\, Bela vista<br>Tel: 55093666<br>Responsável financeir
+ o: Ronaldo <br>Data: <b>11/04 quinta-feira 14hrs </b>
+LAST-MODIFIED:20190724T124426Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T190000Z
+DTEND:20190617T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3jed2pcoil27uvtv5dchnlssa1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcoaurelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.ville
+ labrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: SSBC Grand Blindagem \nCnpj: 11.575.163/0001-19\nTel: 
+ 4705-1243\n\nFalar com Arnaldo !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Estr. do Capuava\, 1300 - Rio Cotia\, Cotia - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO- SSBC GUARD BLINDAGEM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T130000Z
+DTEND:20190508T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3kcsc0sg3uijj0q0lpvvcth9af@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, reunião agendada com o Sr Andre\, quarta-fe
+ ira ás 10hrs para apresentar nosso Plano de recuperação fiscal na empresa Y
+ AH SHENG CHONG COMERCIO E INDUSTRIA LTDA!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Guarani\, 1020 - Conceição\, Diadema - SP\, 09991-060\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo YAH SHENG CHONG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190521T130000Z
+DTEND:20190521T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3ups3q3i76gnrfebcla8rui8i9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: ESTEVES S/A.\nCnpj: 60.837.457/0001-87\nDívida: 22.395
+ .971\,89
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Adriano Bertozzi\, 1163\, São Paulo - SP\, 08260-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190517T110000Z
+DTEND:20190517T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3va1o0k31h7oip0ba2r3bei6hs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: DAKHIA INDUSTRIA E COMERCIO DE TERMOPLÁSTICOS LTDA\nCn
+ pj: 02.650.047/0001-26\nDivida: 134.039.004\,20\nFalar com Kely 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Fábio Eduardo Ramos Esquivel\, 2424 - Centro\, Diadema - SP\, 
+ 09941-202\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo DAKHIA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T130000Z
+DTEND:20190712T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4636u9qhm1f6hivjcrsmuof7em@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=leandr
+ avillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:leandravillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: MONTE COR GUARU TINTAS LTDA\nCnpj: 04.388.494/0001-84\
+ nTel: 2303-0015\n\nFalar com Mauricio !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Gonçalves\, 240 - Cidade Industrial Satélite de São Paulo\, Gua
+ rulhos - SP\, 07222-060\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LEANDRA- MONTE COR 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T130000Z
+DTEND:20190527T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4ciu9vae7s5sq1t4jrbf5l3e8h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade: Cecon Contabilidade LTDA.\nFalar com Silene! 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Fernandes Pinheiro\, 308 - Tatuapé
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade Cecon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190522T120000Z
+DTEND:20190522T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4ft95k5dbamo3h4qsafnsv18u7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada com Rosimeire da contabilidade R&J.\nTel: 2225
+ -2760
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Vista Alegre\, 12 - Tatuapé\, São Paulo
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade Rj 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T170000Z
+DTEND:20190626T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4g2mhldtiq6eo9ks805qps7dgo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190716T140000Z
+DTEND:20190716T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4k1ltsbi2198lbkvko9bkcqg7t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: METALURGICA GUAPORE LTDA\nCnpj: 57.573.206/0001-28\nTe
+ l: 4452-7450\n\nFalar com Aparecida !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Caiapós\, 364 - Vila Pires\, Santo André - SP\, 09195-510\, Bra
+ sil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO- METALÚRGICA GUAPORÉ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T130000Z
+DTEND:20190503T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:53t8f8bjd9ej80g13hpke7li8d@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ tonio.filho@juntaib.com.br;X-NUM-GUESTS=0:mailto:antonio.filho@juntaib.com.
+ br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, dia 03/05 (sexta-feira) às 10:00 hrs (para 
+ confirmar)\, teremos uma reunião com o Sr Antonio da empresa JUNTA I.B INDÚ
+ STRIA E COMÉRCIO DE PEÇAS LTDA para apresentar nosso plano de recuperação f
+ iscal !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Alberto Jafet\, 229 - Vila Nogueira\, Diadema - SP\, 09951-110
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Visita Ricardo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T170000Z
+DTEND:20190619T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:54mqn7cmnn8h7h0a0e6806nrb8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: M K REPRESENTAÇÕES DE PLANOS DE SAÚDE LTDA\nCnpj: 06.0
+ 79.840/0001-78\nTel: 3705-0594\n\nFalar com a Sr Rosana !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Catequese\, 53 - Jardim\, Santo André - SP\, 09090-400\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo M K Santo André
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190422T173000Z
+DTEND:20190422T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:56b6u1d3jukeddf70ul49mp3q5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fi
+ nanceiro@plangecon.com.br;X-NUM-GUESTS=0:mailto:financeiro@plangecon.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme combinado\, reunião agendada com a Sr Marina para segu
+ nda-feira ás 14h30 para apresentar nosso Plano de recuperação fiscal !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Mte. João\, 244 - Jardim Vila Formosa\, São Paulo - SP\, 03461-
+ 050\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T170000Z
+DTEND:20190617T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5bibqf6842v8gm2thd7p3secj6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Falar com Jorge da contabilidade ICR !\nTel: 4990-9111
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av João Ramalho\, 631 - Centro - Santo André
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Contabilidade ICR
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190610T130000Z
+DTEND:20190610T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5e54kf7jhf62g51j64r10mo38d@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: EVACON EQUIPAMENTOS INDUSTRIAIS EIRELI\nCNPJ: 50.893.7
+ 00/0001-20\nDívida: 31.759.412\,91\nTel: 4059-0059\n\nFalar com Clauber !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Joacks\, 164 - Eldorado\, Diadema - SP\, 09970-370\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Evacon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T173000Z
+DTEND:20190603T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5gh9tdo8bfbkned4921sal2b8u@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Falar com Washington \nWN contábil \nTel:2609-9462 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Santa Lúcia\, 322 - Tatuapé
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Contabilidade WN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T110000Z
+DTEND:20190618T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5lae9uio5cqv058nrgac3ft0ga@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com.br;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com.
+ br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=va
+ ldemir@aigcampestre.com.br;X-NUM-GUESTS=0:mailto:valdemir@aigcampestre.com.
+ br
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, reunião marcada com o Sr Valdemir para quar
+ ta-feira ás 9:30 hrs \,para apresentar nosso Plano de recuperação fiscal\, 
+ da empresa A I G COMERCIAL LTDA !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av Sete De Setembro\, 1240 Andar 3\, Centro Diadema
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo A I G
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190628T140000Z
+DTEND:20190628T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5mehpbdd0bhk1f03799qggtvia@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: TEC TOR INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA\nCnp
+ j: 56.524.051/0001-77\nTel: 44282880\n\nFalar com Wagner !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Novo Horizonte\, 406 - Vila Sacadura Cabral\, Santo André - SP
+ \, 09060-820\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Tec Tor 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190426T180000Z
+DTEND:20190426T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5oq3ou8vh3585v4pp2et5cspnf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=financ
+ eiro2@ultramasterplug.com.br;X-NUM-GUESTS=0:mailto:financeiro2@ultramasterp
+ lug.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, dia 26 (sexta-feira) às 15:00 hrs\, teremos
+  uma reunião com o Sr Ronaldo para apresentar nosso plano de recuperação fi
+ scal !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:nossa senhora das graças \, jd Ruyce\,1315 Diadema 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T120000Z
+DTEND:20190712T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5phgbpol12l7q1gg0ht10qb9mb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: VISUAL RECURSOS HUMANOS EIRELI\nCnpj: 10.837.087/0001-
+ 00\nTel: 4438-3333\n\nFalar com Silvana\, manter descrição na chegada a emp
+ resa!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Campos Sales\, 666 - Centro\, Santo André - SP\, 09015-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RICARDO- VISUAL RH SANTO ANDRÉ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190517T130000Z
+DTEND:20190517T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5ppvqf6mfcas1stn8dhsnbjugh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+CREATED:20190724T115937Z
+DESCRIPTION:Contabilidade Fox\, falar com Rogério!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Nossa Sra. das Vitórias\, 440 - Centro\, Diadema - SP\, 09910-
+ 140\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Contabilidade Fox Diadema
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190528T170000Z
+DTEND:20190528T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5vs6u2bvfmpld8nkrp1o734nga@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardo@esteves.com.br;X-NUM-GUESTS=0:mailto:ricardo@esteves.com.br
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada com Sr Mauricio da empresa ESTEVES S/A\, às 14
+ :30 dia 28 (terça-feira) !
+LAST-MODIFIED:20190724T124426Z
+LOCATION: Av. Paulista 1776\, 10b - Bela Vista\, São Paulo - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Esteves 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190722T123000Z
+DTEND:20190722T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6351rnlugdse4uls56b3nsv48j@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: Marcio romani dias \nCnpj: 04.852.684/0001-00\nTel: 47
+ 87-6712\n\nFalar com a Sra Telma !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Elizabetta Lips\, 11 LJ1 - Jardim Bom Tempo\, Taboão da Serra -
+  SP\, 06763-190\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO- MARCIO ROMANI TABOÃO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190417T130000Z
+DTEND:20190417T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:63qektlrgdh99kh79m6g871tpv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=li
+ dercar@hotmail.com;X-NUM-GUESTS=0:mailto:lidercar@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ gelicavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ysson.garcia@grupovillela.com;X-NUM-GUESTS=0:mailto:alysson.garcia@grupovil
+ lela.com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, estaremos no supermercado Líder no próximo 
+ dia 17 (quarta-feira ) ás 10hrs com nosso plano de recuperação fiscal .
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Praça Quinze de Outubro n.15 - Vila Carrao\, São Paulo - SP\, Bras
+ il
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Villela Brasil 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190514T120000Z
+DTEND:20190514T173000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:66v4v0e3ugt2978n8hrjmufb03@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: H. METAL ELETRODEPOSIÇÃO DE METAIS LTDA\nCnpj: 66.557.
+ 695/0001-15\nTel: 4066-2442\nDívida: 2.382.444\,92
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Casa Grande\, 49 - Casa Grande\, Diadema - SP\, 09961-350\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo diadema H.metal
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T170000Z
+DTEND:20190612T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:683seftal4ae9tc96k5se7mr5s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Robson
+  Leal;X-NUM-GUESTS=0:mailto:robson@grupoecar.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada com Robson para esclarecer nossa parceria !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Padre Adelino\, 2074 - 3 andar - Tatuapé
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Ecar contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T190000Z
+DTEND:20190607T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6aeehrfmu4tdl7u3moinh8ldln@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: TFL FERRAMENTARIA LTDA\nCnpj: 61.173.472/0001-30\nTel:
+  3799-2048\nDívida: 50.434.734\,95\n\nFalar com José Carlos (contador da em
+ presa) !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Álvares Cabral\, 263 - Conceição\, Diadema - SP\, 09981-030\, B
+ rasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo TFL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190702T170000Z
+DTEND:20190702T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6drqvl24jj5f2226887cfl6229@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: ELETRO ASES SANTO ANDRE LTDA\nCnpj: 05.245.990/0001-41
+ \nTel: 4426-8324\n\nFalar com Daniela !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Bom Pastor\, 877 - Jardim Bom Pastor\, Santo André - SP\, 0905
+ 1-300\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Eletro Ases Santo André 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190718T170000Z
+DTEND:20190718T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6joj9cf3p75et75h4dfnip1iju@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: Hydraulic systems componentes hidraulicos ltda\nCnpj: 
+ 00.233.228/0001-21\nTel: 97404-1729\n\nFalar com Rogério !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. dos Meninos\, 181 - Nova Gerti\, São Caetano do Sul - SP\, 0958
+ 0-300\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO- HYDRAULIC  SYSTEMS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190417T190000Z
+DTEND:20190417T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6lr075jcmvkqpqagv11q47mtm6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ysson.garcia@grupovillela.com;X-NUM-GUESTS=0:mailto:alysson.garcia@grupovil
+ lela.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Mauric
+ io Neves;X-NUM-GUESTS=0:mailto:mauricio@nascimentoneves.adv.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Bom dia\, conforme agendado dia 17 às 16hrs estaremos na Cemil 
+ para lhe entregar o paracer da sua empresa ! 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:r pe adelino 2074- 12°  quarta parada 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T130000Z
+DTEND:20190603T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6mtj1j3dqmidaafkuva4dalha1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: PRECIVALE INDUSTRIA METALÚRGICA LTDA\nCnpj: 00.988.657
+ /0001-09\nDívida: 966.969\,55\n\nFalar com José da contabilidade !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. James Stolz\, 237 - Vila Ema\, São Paulo - SP\, 03277-010\, Bra
+ sil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Empresa Precivale
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T130000Z
+DTEND:20190712T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6oent87untm149c59rh3dvqmhr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nf
+ e@siqueiramateconstrucoes.com.br;X-NUM-GUESTS=0:mailto:nfe@siqueiramatecons
+ trucoes.com.br
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: Elétrica Siqueira Ltda \nCnpj: 74.415.050/0001-76\nTel
+ : 4656-1933\nResponsável: Rodrigo \nConsultora: Angélica 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Pres. Getúlio Vargas\, 128 - Recanto Feliz\, Santa Isabel - SP
+ \, 07500-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ANGÉLICA- ELÉTRICA SIQUEIRA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190722T130000Z
+DTEND:20190722T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6qaf8d8470m8ev17an52so6vmn@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: Casa das pontas pisos e azulejos Ltda\nCnpj: 65.410.45
+ 8/0001-64\nTel: 4441-6161\n\nFalar com Alexandre !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Paulicéia\, 2926 - Jardim Adelfiori\, Caieiras - SP\, 07700-00
+ 0\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO- CASA DAS PONTAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T130000Z
+DTEND:20190617T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6qnc6kb6rtgkiitdfh42o1h5qs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada na contabilidade Hélio Contabilidade & Imóveis
+ \, falar com Hélio!
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Rua Ganges\, 297 SLJ - Vila Carrao
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica Hélio Contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T180000Z
+DTEND:20190607T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6v0tcf6baohasvmiisu0qg1vos@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: ELIU INDÚSTRIA DE FERRAMENTARIA LTDA\nCnpj: 05.888.119
+ /0001-66\nDívida: 20.946.815\,65 \nTel: 3799-2015\n\nFalar com José !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Álvares Cabral\, 263 fundos - Conceição\, Diadema - SP\, 09981-
+ 030\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Eliu 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190507T170000Z
+DTEND:20190507T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:76qch3vrfv1g80451c31t656bo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme agendado\, dia 07/05 (terça-feira) às 14:00 hrs (não d
+ eixei um horário certo)\, teremos uma reunião com a Sra Andreia da empresa 
+ MOVELARTE INDUSTRIA DE MOVEIS EIRELI\, para apresentar nosso plano de recup
+ eração fiscal !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:R. Solimões\, 428 - Campanário\, Diadema - SP\, 09930-570\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo MOVELARTE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190718T190000Z
+DTEND:20190718T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:7b9s2lnnmub8tq11f6f4sjspn4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=leandr
+ avillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:leandravillelabrasil@gmail.c
+ om
+CREATED:20190724T115937Z
+DESCRIPTION:Cliente Luis virá no escritório para fechamento ! 
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:LEANDRA- LAFER MOLAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190704T110000Z
+DTEND:20190704T140000Z
+DTSTAMP:20211014T133019Z
+UID:7drmga3aa8lj4i0m1nq0gom5lt@google.com
+CREATED:20190724T115937Z
+DESCRIPTION:
+LAST-MODIFIED:20190724T124426Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Angélica 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190508T130000Z
+DTEND:20190508T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:7jkormdhl49hgh6vjllcbthhhk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=gerenc
+ ia.hidrovilla@hidrovilla.com.br;X-NUM-GUESTS=0:mailto:gerencia.hidrovilla@h
+ idrovilla.com.br
+CREATED:20190724T115937Z
+DESCRIPTION:Conforme combinado\, reunião agendada com o Sr Celso para quart
+ a-feira ás 10hrs para apresentar nosso Plano de recuperação fiscal\, da emp
+ resa HIDROVILLA TRANSPORTADORA DE ÁGUA POTÁVEL EIRELI !
+LAST-MODIFIED:20190724T124426Z
+LOCATION:Rua Siqueira Bueno\, 929 - Belenzinho\, São Paulo - SP\, 03173-010
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Angélica
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190729T170000Z
+DTEND:20190729T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=villelabrasilsp@gmail.com:mailto:villelabrasilsp@gmail.com
+UID:6noijg3lgscs51e5f64njqhm7m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ti
+ ago.alves@grupoinbra.com.br;X-NUM-GUESTS=0:mailto:tiago.alves@grupoinbra.co
+ m.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190725T192639Z
+DESCRIPTION:\nTratar com Dr. Thiago. \n2148-8600 
+LAST-MODIFIED:20190726T115518Z
+LOCATION:Av. Papa João XXIII\, 4947 - Vila Noemia\, Mauá - SP\, 09370-800\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO - INBRA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190823T170000Z
+DTEND:20190823T180000Z
+DTSTAMP:20211014T133019Z
+UID:0n7052ltrreqer47vup7mvshpl@google.com
+CREATED:20190822T142544Z
+DESCRIPTION:Empresa: BUENO WINES DISTRIBUIDORA DE BEBIDAS LTDA / VIRTUAL PR
+ OMOCOES E PARTICIPACOES EIRELI\n\nCnpj: 21728314000185 / 04.107.436/0001-35
+ \nTel: (11) 3722-1407 / (11) 99224-5880\n\nFalar com Reinoldo !
+LAST-MODIFIED:20190822T142544Z
+LOCATION:Av. Pres. Juscelino Kubitschek 1726\, CJ 242 - Vila Nova Conceição
+ \, São Paulo - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO- BUENO WINES - NOVA CONCEIÇÃO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T160000Z
+DTEND:20190607T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=Ricardo Consultor - SP:mailto:3rrp1judq8jobq9gu8bp64r3ts@group
+ .calendar.google.com
+UID:1sf75s8lf4dp2hhqhiseukp13s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Retorno com Dr Alysson !
+LAST-MODIFIED:20190822T184906Z
+LOCATION:Avenida Manoel da Nobrega\, Av. Manoel da Nobrega\, 1037 - Capuava
+ \, Mauá - SP\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Ricardo Reunião Metal 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190723T120000Z
+DTEND:20190723T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3ehao64ndsuq8bllg6usl1t4e8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+CREATED:20190724T115937Z
+DESCRIPTION:Reunião agendada com o Humberto\, advogado da empresa SANTA ROS
+ A DE SUZANO COMÉRCIO DE MADEIRAS EM GERAL LTDA (01.835.967/0001-56) !
+LAST-MODIFIED:20190829T144811Z
+LOCATION: Estr. dos Fernandes\, 1997 - Parque Santa Rosa\, Suzano
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ANGÉLICA- SANTA ROSA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191029T133000Z
+DTEND:20191029T143000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0fq3ra9rgpgac4j2knmg9vpvmv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20191024T182410Z
+DESCRIPTION:Empresa: C M REPRESENTACOES COMERCIAIS LTDA\nCnpj: 03.977.765/0
+ 001-74\nCel: 11996261551\n\nFalar com o Sr Claudio Makino (dono)!\n\nObs. e
+ mpresa de Mogi/Angélica
+LAST-MODIFIED:20191024T182600Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALYSSON- ESCRITÓRIO- C M REPRESENTAÇÕES 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191101T130000Z
+DTEND:20191101T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:u29n4m1r4n2e1hkabq0ona5e8c@group.calendar.google.com
+UID:6jd0c6v33km5lis8jbo0lced8n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+CREATED:20191029T130107Z
+DESCRIPTION:Empresa: ELOS DO BRASIL LTDA\nCnpj: 04.868.082/0001-41\n\nReuni
+ ão agendada com o Sr Eduardo Diez (dono)!
+LAST-MODIFIED:20191030T205239Z
+LOCATION:Avenida Paulista\, 1776. and 10b - Bela Vista\, São Paulo - SP\, B
+ rasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ANGÉLICA- ESCRITÓRIO- ELOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190628T120000Z
+DTEND:20190628T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3q0s5h5vg21m3pfqcdv7i623up@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: SHOPFOTO 1 HORA MAGAZINE LTDA / ALICE APARECIDA VILLAN
+ I FERREIRA\nCnpj: 96.412.176/0001-20/ 07.059.677/0001-44\nTel: 4997-2811\n\
+ nFalar com Laercio !
+LAST-MODIFIED:20200428T142233Z
+LOCATION:Alameda Vieira de Carvalho\, 424 - Santa Teresinha\, Santo André -
+  SP\, 09210-630\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Shopfoto Santo André 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T130000Z
+DTEND:20190625T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4hjo72g4tkjkkd020sor0gs527@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: HIDRODRILL POÇOS ARTESIANOS LTDA\nCnpj: 05.629.097/000
+ 1-10\nTel: 4426-9006\n\n\nFalar com Cibele !
+LAST-MODIFIED:20200428T144847Z
+LOCATION:R. Albert Einstein\, 165 - Vila Floresta\, Santo André - SP\, 0905
+ 0-050\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Hidrodrill Santo André
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190703T130000Z
+DTEND:20190703T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4ub73ql6899ksd2fupntj2pp1h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: NWP SERVICOS & CONSTRUCOES LTDA\nCnpj: 05.969.141/0001
+ -30\nTel: 2379-9342\n\nFalar com Valdete!
+LAST-MODIFIED:20200428T185312Z
+LOCATION:R. Macaúba\, 452 - Paraíso\, Santo André - SP\, 09190-650\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo NWP Santo André 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190716T120000Z
+DTEND:20190716T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:570fmrf0reqnhsmsu06gpkbtpe@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: LUZIMAQ INDUSTRIA MECANICA LIMITADA\nCnpj: 09.321.073/
+ 0001-50\nTel: 4451-8644\n\nFalar com Elizeu !
+LAST-MODIFIED:20200429T183042Z
+LOCATION:R. das Flôres\, 81 - Vila Luzita\, Santo André - SP\, 09170-680\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO- LUZIMAQ SANTO ANDRÉ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190723T120000Z
+DTEND:20190723T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2v1ecan8kort8sro864k3hc3lo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=luzine
+ te.controladoria@liderbrinquedos.com.br;X-NUM-GUESTS=0:mailto:luzinete.cont
+ roladoria@liderbrinquedos.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: LIDER INDUSTRIA E COMERCIO DE BRINQUEDOS LTDA\nCnpj: 5
+ 9.400.853/0001-63\nTel: 4543-5000\n\nFalar com Luzinete !
+LAST-MODIFIED:20200429T191237Z
+LOCATION:Estr. de Guaraciaba\, 595 - Vila Carlina\, Mauá - SP\, 09370-840\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO- LIDER BRINQUEDOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20200108T101500Z
+DTEND:20200108T191500Z
+DTSTAMP:20211014T133019Z
+UID:3p02n3jjk8mrdck6iq6skijalc@google.com
+CREATED:20191218T134637Z
+DESCRIPTION:Todos de São Paulo (av. Paulista) estão convidados para nossa r
+ eunião de inicio de ano que ocorrerá em Campinas no Swiss Park. \nTeremos u
+ ma van para nos locomovermos!\n\nObs. passaremos mais informações no grupo 
+ do wpp da Villela!
+LAST-MODIFIED:20191219T184540Z
+LOCATION:Swiss Park\, Campinas - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO EM CAMPINAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200113T120000Z
+DTEND:20200113T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2sanhdd3v9ddf56j739gqq819i@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ egovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:diegovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jaimev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200110T132151Z
+DESCRIPTION:
+LAST-MODIFIED:20200110T172656Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM OS FRANQUIADOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200120T130000Z
+DTEND:20200120T140000Z
+DTSTAMP:20211014T133019Z
+UID:6csj6c1nclh64b9n6kpj6b9k6osj4b9o64ojeb9p70pm2chj64qj2c1l6s@google.com
+CREATED:20200120T100729Z
+DESCRIPTION:
+LAST-MODIFIED:20200120T100730Z
+LOCATION:
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:Angelica Alimogi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200203T110000Z
+DTEND:20200203T203000Z
+DTSTAMP:20211014T133019Z
+UID:43kir8fmcrk37p679119l6d4vd@google.com
+CREATED:20200122T120731Z
+DESCRIPTION:Caros franqueados e assessoras:\nDando continuidade em nosso pr
+ ocesso de padronização das franquias\, estamos com uma agenda preparada par
+ a melhoria de nossos indicadores no que refere a controle de ligações e ind
+ icadores comercial. Teremos treinamento para as assessoras com novo sistema
+  de telefonia (PABX na Nuvem) e para as Franquias nosso projeto 100% Bitrix
+  com o responsável do TI – Márcio.
+LAST-MODIFIED:20200122T120731Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TREINAMENTO BITRIX
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200124T130000Z
+DTEND:20200124T143000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:65euv91u4unu44mdabjupca6tk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianaalves.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianaalves.ville
+ labrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20200107T171359Z
+DESCRIPTION:\n\nMeu cliente "Antonio Ramos Via Contabilidade" virá para ass
+ inar o distrato\, e a cliente que ele indicou (Karla/empresa Millonas) virá
+  para conversar sobre o seu contrato. \n\nOBS: vou participar
+LAST-MODIFIED:20200122T182831Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:PAULA/LYDIA (ESCRITÓRIO)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200205T113000Z
+DTEND:20200205T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0hl5770pb60crop5m4um5gaeb9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=valter
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:valtervillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ imevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ureen.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:laureen.villelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ yce.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:joyce.villelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelopisavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelopisavillelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20200128T193710Z
+DESCRIPTION:Teremos uma reunião com nosso presidente Renan Villela aqui no 
+ escritório\, fico no aguardo de todos vocês. 
+LAST-MODIFIED:20200129T113425Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM O RENAN VILLELA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200203T113000Z
+DTEND:20200203T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:7tu9ub2scnpimm90bche8ngdep@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ imevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=diegov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:diegovillelabrasil@gmail.com
+CREATED:20200129T205139Z
+DESCRIPTION:Reunião de alinhamento com nosso diretor Ricardo Souza e as fra
+ nquias lideres locais. 
+LAST-MODIFIED:20200129T205351Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM AS FLL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200207T133000Z
+DTEND:20200207T143000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:2ufk4m98lan2gobvvn1trdpkec@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianaalves.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianaalves.ville
+ labrasil@gmail.com
+CREATED:20200131T141059Z
+DESCRIPTION:Karla (proprietária) virá para falar sobre a Millonas e outro C
+ NPJ.
+LAST-MODIFIED:20200131T192414Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PAULA/LYDIA - ESCRITÓRIO - MILLONAS DE TECIDOS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200310T130000Z
+DTEND:20200310T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:434a0r1s2ktcr7vnleh7f2kmgg@group.calendar.google.com
+UID:238u399fh10l1kt5h8lbp6lb83@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+CREATED:20200304T172153Z
+DESCRIPTION:Empresa: RESIDENCIAL MARESIAS CANTO DO MAR\n\nCNPJ: 07.106.246/
+ 0001-91\n\nResponsável: Dr. Valdir (advogado do condominio)\n\nTelefone de 
+ contato: 11 99532-8882\n\nValor da divida: R$ 460.317\,92\n\nFalei com a si
+ ndica Denise que solicitou que a reunião seja com o advogado do condomínio.
+  Falei com o Dr. Valdir pelo whats\, o mesmo disse que seu escritório fica 
+ em Barueri e não vai muito para o litoral\, marcamos a reunião no escritóri
+ o de Avenida Paulista.
+LAST-MODIFIED:20200304T172839Z
+LOCATION:Av Paulista 1776\, andar 10b Bela Vista
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KARINA - RESIDENCIAL MARESIAS CANTO DO MAR
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200306T140000Z
+DTEND:20200306T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:r6afk1gst0e3bd2qouasmiu0dg@group.calendar.google.com
+UID:67heebb8imf28153hvol77n820@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+CREATED:20200304T184152Z
+DESCRIPTION:Cliente virá conhecer nossa estrutura e falar com Dr.Alysson ou
+  Dra Lydia sobre o Plano de Recuperação Fiscal
+LAST-MODIFIED:20200304T184152Z
+LOCATION:VILLELA - AV PAULISTA 1776 10º ANDAR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO - BALANÇAS CAIEIRAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200305T160000Z
+DTEND:20200305T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=pedro.venturini50@gmail.com:mailto:pedro.venturini50@gmail.com
+UID:c5j3adr26ss3gb9gc8pm6b9k60o38bb274p66bb6ccrjeo9k60rjee1p6c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;X-NUM-GUE
+ STS=0:mailto:gabriellevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedro.
+ venturini50@gmail.com;X-NUM-GUESTS=0:mailto:pedro.venturini50@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ ine Ferreira;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+CREATED:20200305T030500Z
+DESCRIPTION:
+LAST-MODIFIED:20200305T120532Z
+LOCATION:Mauser Security and Sales Solutions\, R. José Félix de Oliveira\, 
+ 359 - Vila Santo Antônio\, Cotia - SP\, 06708-415\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cotia Pedro allsafe comercio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200306T120000Z
+DTEND:20200306T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4fa341sbhapq1or52rc68gi3r6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=va
+ ltervillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:valtervillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=melina
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:melinavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ imevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcoaurelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.ville
+ labrasil@gmail.com
+CREATED:20200303T142120Z
+DESCRIPTION:Prezados\,\n\n\nPeço presença de todos para o treinamento onde 
+ será ensinado como cadastrar contratos no bitrix!
+LAST-MODIFIED:20200305T121004Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TREINAMNETO BITRIX 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200312T160000Z
+DTEND:20200312T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=pedro.venturini50@gmail.com:mailto:pedro.venturini50@gmail.com
+UID:6so64cb46kp3cb9j6kp6cb9k6phjcbb261ij4b9p60sj0dpgcor30opicc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ briellevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:gabriellevillelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedro.
+ venturini50@gmail.com;X-NUM-GUESTS=0:mailto:pedro.venturini50@gmail.com
+CREATED:20200312T113903Z
+DESCRIPTION:
+LAST-MODIFIED:20200312T113904Z
+LOCATION:Avenida senador Casemiro da Rocha\, 609. Cj 54
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Retorno Dias e Galego Contabilidade
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200316T163000Z
+DTEND:20200316T173000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4n5jk1hqj6qkl9mm7tpgnsvpqk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=valter
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:valtervillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelopisavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelopisavillelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ imevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pe
+ drovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=melina
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:melinavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=is
+ abellavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:isabellavillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ briellevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:gabriellevillelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianaalves.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianaalves.ville
+ labrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=thalit
+ avillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:thalitavillelabrasil@gmail.c
+ om
+CREATED:20200211T192157Z
+DESCRIPTION:Franqueados\, teremos uma reunião de alinhamento com nosso dire
+ tor Ricardo Souza aqui no escritório.\nPeço a presença de todos!
+LAST-MODIFIED:20200313T214847Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO DE ALINHAMENTO COM RICARDO SOUZA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200707T130000Z
+DTEND:20200707T140000Z
+DTSTAMP:20211014T133019Z
+UID:64e619o4bp0cnn62ck5skevsrd@google.com
+CREATED:20200702T155703Z
+DESCRIPTION:Srs. Jose Roberto e Isaias\, cel  9 9904 0629 / 9 9904 0041
+LAST-MODIFIED:20200702T155703Z
+LOCATION:Av. Antártico\, 384 - Jardim do Mar\, São Bernardo do Campo - SP\,
+  09726-150\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SBC. SELPA. JOSE ROBERTO. ISAIAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200715T143000Z
+DTEND:20200715T153000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0r01fgkmdl8rha7jgu0l5npiau@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200715T114423Z
+DESCRIPTION:Reunião de alinhamento com os arquitetos do escritório.\n\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videoch
+ amada.\nParticipar: https://meet.google.com/fzi-gkgp-eek\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200715T114423Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM OS ARQUITETOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200715T180000Z
+DTEND:20200715T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3kn0i46rqgpmebv2k8aua6hbdo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20200715T115411Z
+DESCRIPTION:Reunião de alinhamento na indústria Trama com o Sr Jailson\, cl
+ iente desde Outubro de 2019.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descr
+ ição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.google
+ .com/pgc-gnmk-boi\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200715T115411Z
+LOCATION:AV PACAEMBU 383\, GALPAO 07 SITIO BORBA DA MATA FRANCO DA ROCHA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRAMA INDUSTRIA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200720T193000Z
+DTEND:20200720T203000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:04eeu7eosn7onpr1cp25bnp61t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200716T184228Z
+DESCRIPTION:Reunião de alinhamento com o Sr Silva da empresa TRO TRANSPORTE
+ S.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem u
+ ma videochamada.\nParticipar: https://meet.google.com/req-hmzq-jve\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20200716T184228Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRO TRANSPORTES 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200721T140000Z
+DTEND:20200721T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3p6jrtr4mk2292vntetlp52fmv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200716T184437Z
+DESCRIPTION:APRESENTAÇÃO DO PARECER DO DÉBITO DO GE MACHINE\, ALBATROZ E AU
+ DIMAX. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento 
+ tem uma videochamada.\nParticipar: https://meet.google.com/pmu-qdpj-wku\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20200716T184437Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MACHINE 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200721T170000Z
+DTEND:20200721T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3fdp6p5v3danm22qseues83fui@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20200716T115158Z
+DESCRIPTION:Reunião pelo zoom com o Sr Plinio da empresa PL engenharia para
+  apresentação da auditoria.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descri
+ ção.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.google.
+ com/bbp-frnf-jkc\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200717T132255Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:GRUPO PL ENGENHARIA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200721T190000Z
+DTEND:20200721T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5de7j53826ap9ti1dea9m6h6sv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=va
+ ltervillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:valtervillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200720T180959Z
+DESCRIPTION:Cliente Humberto Braguin do franqueado Valter Bezerra quer faze
+ r parceria. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste ev
+ ento tem uma videochamada.\nParticipar: https://meet.google.com/aad-rqof-tc
+ w\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~::~:~::-
+LAST-MODIFIED:20200720T181000Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HUMBERTO BRAGUIN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200727T170000Z
+DTEND:20200727T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2jgnaleermbo51qe7dqf0qlbg9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200724T182817Z
+DESCRIPTION:Agendada duas entrevistas para novas franquias. \n\n-::~:~::~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::
+ -\nNão edite esta seção da descrição.\n\nEste evento tem uma videochamada.\
+ nParticipar: https://meet.google.com/zbg-odbi-wnr\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200724T182817Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Entrevista FLHM 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200729T140000Z
+DTEND:20200729T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3lbdkkod5nmd9bobiec7co3if8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200720T164054Z
+DESCRIPTION:Reunião será realizada com a Sra Sandra para alinhamento do pro
+ cessos com a Dra Lydia e nosso diretor Ricardo Souza.\n\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão 
+ edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPartic
+ ipar: https://meet.google.com/sjf-tmab-ipn\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200728T184837Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:SWISSTOOL ALINHAMENTO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200811T130000Z
+DTEND:20200811T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5e4o5cjm2pjd3fucncglhl90mk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20200807T184352Z
+DESCRIPTION:Reunião via zoom para realinhamento. Cliente que já fez um ano 
+ de contrato. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste e
+ vento tem uma videochamada.\nParticipar: https://meet.google.com/iqs-sbjg-q
+ ne\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~::~:~::-
+LAST-MODIFIED:20200807T184352Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AVEC VERRE 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200818T130000Z
+DTEND:20200818T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6d7c7th6ee10sjopmllicvnemt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardo.souza@villelabrasil.com.br;X-NUM-GUESTS=0:mailto:ricardo.souza@villel
+ abrasil.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ysson.garcia@grupovillela.com;X-NUM-GUESTS=0:mailto:alysson.garcia@grupovil
+ lela.com
+CREATED:20200811T141608Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/tpu-kame-fro\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20200811T141608Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AVEC - REUNIÃO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200819T170000Z
+DTEND:20200819T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6niv6m62t14ph24k6k16daaa9o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wm
+ vcontabil@hotmail.com;X-NUM-GUESTS=0:mailto:wmvcontabil@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ silio.cabanelas@hotmail.com;X-NUM-GUESTS=0:mailto:basilio.cabanelas@hotmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20200812T191655Z
+DESCRIPTION:Reunião de alinhamento com o contador Sr Wilson e o sócio Sr Jo
+ sé Basílio.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste eve
+ nto tem uma videochamada.\nParticipar: https://meet.google.com/gfv-ftem-odr
+ \n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~::~:~::-
+LAST-MODIFIED:20200812T191655Z
+LOCATION:Av paulista 1776 andar 10b Bela Vista 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LM CABAN CONSTRUÇÕES
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200825T130000Z
+DTEND:20200825T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6g7id2b2b0lslou7kvl3jjj42v@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20200821T163406Z
+DESCRIPTION:Reunião será realizada por zoom com a Sra Ana Paula da empresa 
+ ASSOCIAÇÃO DE DESENVOLVIMENTO EDUCACIONAL CSM.\n\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite e
+ sta seção da descrição.\n\nEste evento tem uma videochamada.\nParticipar: h
+ ttps://meet.google.com/fva-bwkq-wmh\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200821T163406Z
+LOCATION:Avenida Paulista\, Av. Paulista 1776 - Bela Vista\, São Paulo - SP
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EDUCACIONAL CSM 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200831T120000Z
+DTEND:20200831T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:67un27fmuvsn0n9j8qij70qvjc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200827T140956Z
+DESCRIPTION:Lembrete: Ligar para o Sr Vagner da empresa Tec imports e Orimp
+ ex. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem
+  uma videochamada.\nParticipar: https://meet.google.com/ehs-cnsa-ktm\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-
+LAST-MODIFIED:20200827T140956Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FALAR COM O SR VAGNER 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200904T140000Z
+DTEND:20200904T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:618qj1fob0jeaimksh420p6lmr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200903T141532Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/omz-ueom-wgh\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20200903T141532Z
+LOCATION:ZOOM 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM A LAUREN 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200908T170000Z
+DTEND:20200908T180000Z
+DTSTAMP:20211014T133019Z
+UID:2hqmbn7v9u7j0gdgem5cmlnlh2@google.com
+CREATED:20200908T115126Z
+DESCRIPTION:Reunião com o Sr Fabio da empresa YAMSA. 
+LAST-MODIFIED:20200908T115126Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:YAMSA- LYDIA- ESCRITÓRIO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201008T120000Z
+DTEND:20201008T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0feajs6jcm6a39c7nff3dollf1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201007T144338Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/mry-smjc-ffn\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20201026T181312Z
+LOCATION:Avenida Paulista\, Av. Paulista - Bela Vista\, São Paulo - SP\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENTREVISTA VITÓRIA - RICARDO SOUZA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200922T120000Z
+DTEND:20200922T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5hic0qqic0k7cvoiao1pnh7lbp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20200922T161928Z
+DESCRIPTION:Reunião de alinhamento com o Sr Vagner. \n\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão e
+ dite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPartici
+ par: https://meet.google.com/qya-beyh-ybm\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T170822Z
+LOCATION:Alameda Santos\, 1418 - Jardim Paulista\, São Paulo - SP\, 01418-1
+ 00\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TEC IMPORTS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T130000Z
+DTEND:20201027T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:2sgk5i6ndd144b5bscqv2fiii9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20201026T182923Z
+DESCRIPTION:Reunião de alinhamento com diretor da unidade Sp Ricardo Souza 
+ e a advogada Lydia Castelo Branco. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção d
+ a descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet
+ .google.com/ggb-jphz-ueg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T170824Z
+LOCATION:Rua Mitsuharu Matsushita\, R. Mitsuharu Matsushita 373- Chácaras N
+ ova Suzano\, Suzano - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STEEL PLASTIK 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T170000Z
+DTEND:20201027T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:79qfsveuog0j1mn5seulaccgm6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201026T183104Z
+DESCRIPTION:Reunião de com o parceiro Paulo pelo zoom. \n\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNã
+ o edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPart
+ icipar: https://meet.google.com/dia-jqun-uaf\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T170827Z
+LOCATION:ZOOM 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paulo parceiro 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201028T113000Z
+DTEND:20201028T123000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:41hg35dft1rpmceae1utej8es3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201027T130226Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/ich-jxdv-fyq\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20201104T170827Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VISITA AO GRANDE AVENIDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201029T133000Z
+DTEND:20201029T143000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:64i7bka00k1mneq2ogv63efabd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=rsampa
+ io.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201028T132619Z
+DESCRIPTION:Reunião com Paulo parceiro.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seç
+ ão da descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://
+ meet.google.com/res-bggs-ptj\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201104T170830Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PAULO PARCEIRO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200427T093000
+DTEND;TZID=America/Sao_Paulo:20200427T103000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+EXDATE;TZID=America/Sao_Paulo:20200511T093000
+EXDATE;TZID=America/Sao_Paulo:20200817T093000
+DTSTAMP:20211014T133019Z
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200511T090000
+DTEND;TZID=America/Sao_Paulo:20200511T100000
+DTSTAMP:20211014T133019Z
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+RECURRENCE-ID;TZID=America/Sao_Paulo:20200511T093000
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200601T140000
+DTEND;TZID=America/Sao_Paulo:20200601T150000
+DTSTAMP:20211014T133019Z
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+RECURRENCE-ID;TZID=America/Sao_Paulo:20200601T093000
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200817T090000
+DTEND;TZID=America/Sao_Paulo:20200817T100000
+DTSTAMP:20211014T133019Z
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+RECURRENCE-ID;TZID=America/Sao_Paulo:20200810T093000
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200818T103000
+DTEND;TZID=America/Sao_Paulo:20200818T113000
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ lareservadavillela@gmail.com;X-NUM-GUESTS=0:mailto:salareservadavillela@gma
+ il.com
+RECURRENCE-ID;TZID=America/Sao_Paulo:20200817T093000
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!\n\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNã
+ o edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPart
+ icipar: https://meet.google.com/qop-cqbz-udv\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:2
+STATUS:CANCELLED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20200831T140000
+DTEND;TZID=America/Sao_Paulo:20200831T150000
+DTSTAMP:20211014T133019Z
+UID:05tfsk3dg61bg4rkrpn9uk1a06@google.com
+RECURRENCE-ID;TZID=America/Sao_Paulo:20200831T093000
+CREATED:20200424T194758Z
+DESCRIPTION:Peço que todos os franqueados estejam presentes a nossa reunião
+  de alinhamento com nosso diretor Ricardo S. pelo zoom!
+LAST-MODIFIED:20201116T144256Z
+LOCATION:Zoom 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião de alinhamento 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201117T120000Z
+DTEND:20201117T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4ol1b8a9c39uolr9jkogr1qq3p@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201116T144332Z
+DESCRIPTION:Reunião de alinhamento com novos franqueados de Santos\, via zo
+ om. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem
+  uma videochamada.\nParticipar: https://meet.google.com/pyu-xqph-qer\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-
+LAST-MODIFIED:20201116T144332Z
+LOCATION:AV PAULISTA 1776 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO NOVAS FRANQUIAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201118T170000Z
+DTEND:20201118T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:7b1ak0b5gd3g1hpd4g0ph65p5l@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20201116T144713Z
+DESCRIPTION:Reunião com novas franquias da região do Abc\, presencial. \n\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma vid
+ eochamada.\nParticipar: https://meet.google.com/uiw-qvrn-gkv\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201116T144713Z
+LOCATION:Avenida Paulista\, Av. Paulista - Bela Vista\, São Paulo - SP\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM NOVAS FRANQUIAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T120000Z
+DTEND:20201125T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3rkj18f8d944r4dagu6368i0om@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201117T131950Z
+DESCRIPTION:Reunião agendada com a Sr Ailton\, no escritório com a empresa 
+ ACE INOXIDAVEL INDUSTRIA E COMERCIO E SERVICOS EIRELI. \n\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNã
+ o edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPart
+ icipar: https://meet.google.com/agi-tgnq-bpd\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201117T131950Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ACE INOXIDAVEL INDUSTRIA E COMERCIO E SERVICOS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201124T130000Z
+DTEND:20201124T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:79ifeg0499mc9pp89vp802lqu8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201117T135554Z
+DESCRIPTION:Reunião agendada com o Sr Luis (11 97665-8838)\, na empresa LAF
+ ER MOLAS INDUSTRIA COMERCIO LTDA.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da 
+ descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.g
+ oogle.com/pki-yzco-zrq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201117T135554Z
+LOCATION:ESTRADA DO ACACIO ANTONIO BATISTA 1230 VILA BONSUCESSO SÃO PAULO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LAFER MOLAS INDUSTRIA COMERCIO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T170000Z
+DTEND:20201123T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4csnav4b7jbshb6gp6b26emkpd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201117T141115Z
+DESCRIPTION:Reunião agendada com o Sr Sebastião (11 94715-3550) na empresa 
+ AGIL SERVICOS DE EMPILHADEIRAS LTDA. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção
+  da descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://me
+ et.google.com/anj-vtqm-rug\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201117T142744Z
+LOCATION:Rua Pedro Virgílio correia 258_ jardim São Carlos Itapevi_ CEP 066
+ 94-420
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:AGIL SERVICOS DE EMPILHADEIRAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T140000Z
+DTEND:20201125T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4numr1ig6o105ieghsbpav838q@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T132035Z
+DESCRIPTION:Reunião agendada com o Sr César (11 2611-8178) da empresa JHI I
+ NDUSTRIA COMERCIO E SERVICOS LTDA\, no nosso escritório. \n\n-::~:~::~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\n
+ Não edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPa
+ rticipar: https://meet.google.com/bof-xqai-pan\n-::~:~::~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201119T132035Z
+LOCATION:Av Paulista 1776 andar 10b Bela Vista 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JHI INDUSTRIA COMERCIO E SERVICOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T170000Z
+DTEND:20201125T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4o3u3j804s6q529lakkgdcfu6q@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelo@mrvarejo.com;X-NUM-GUESTS=0:mailto:marcelo@mrvarejo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T133913Z
+DESCRIPTION:Ficou agendado com o Sr Marcelo Luis (12 99782-2207)\, da empre
+ sa MR VAREJO COMUNICACAO E MARKETING LTDA\, uma reunião de alinhamento para
+  apresentar a situação processual da empresa\, <b>via zoom meeting</b>. (En
+ viar link 5 minutos antes)&nbsp\;
+LAST-MODIFIED:20201119T133913Z
+LOCATION:Av Paulista 1776 andar 10b Bela Vista 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MR VAREJO COMUNICACAO E MARKETING LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201124T180000Z
+DTEND:20201124T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:21noldf7fb9icb12v17g1g8rav@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T142011Z
+DESCRIPTION:Reunião agendada com o Sr Ricardo Casagrande (11 94728-2885) da
+  empresa LAUCY USINAGEM E QUEIMADORES INDUSTRIAIS LTDA\, presencialmente. \
+ n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma 
+ videochamada.\nParticipar: https://meet.google.com/gyo-oaat-bii\n-::~:~::~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~:
+ :-
+LAST-MODIFIED:20201119T142011Z
+LOCATION:Av. Gen. Pedro Pinho\, 1321 - Pestana\, Osasco - SP\, 06122-160\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LAUCY USINAGEM E QUEIMADORES INDUSTRIAIS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201124T190000Z
+DTEND:20201124T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6ipqpiasg6f1r2vdg6d1i3ghag@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T172509Z
+DESCRIPTION:Ficou agendado reunião de alinhamento com o Sr Guilherme da emp
+ resa G.J.G STUDIO GRAFICO LTDA\, presencialmente. \n\n-::~:~::~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edi
+ te esta seção da descrição.\n\nEste evento tem uma videochamada.\nParticipa
+ r: https://meet.google.com/vyy-qaqc-neq\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201119T172520Z
+LOCATION:Rua Oswaldo Collino\, 908 - Pres. Altino\, Osasco - SP\, 06210-008
+ \, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:G.J.G STUDIO GRAFICO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201126T120000Z
+DTEND:20201126T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:72v6250od285gh6jvvnl40pf3a@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T192622Z
+DESCRIPTION:Reunião de alinhamento agendada com o Sr Jaime (11 99598-5307) 
+ da empresa B.C EMPILHADEIRAS LTDA\, presencialmente. \n\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão 
+ edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPartic
+ ipar: https://meet.google.com/syq-cxxz-jmk\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201119T192623Z
+LOCATION:av paulista 1776 andar 10b bela vista 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:B.C EMPILHADEIRAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T193000Z
+DTEND:20201123T203000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5gh6glg0vt2is6vhh096b9jbi1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201119T195123Z
+DESCRIPTION:Reunião agendada com o Sr Rubens (11 94733-7118) da empresa BAR
+ RETO & SOUSA COMERCIO DE ALIMENTOS LTDA. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta s
+ eção da descrição.\n\nEste evento tem uma videochamada.\nParticipar: https:
+ //meet.google.com/qdb-nctb-amx\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201119T195123Z
+LOCATION:R. Nicolau Mayevsky\, 128 - Jardim Lindomar\, Jandira - SP\, 06622
+ -005\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BARRETO & SOUSA COMERCIO DE ALIMENTOS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T140000Z
+DTEND:20201123T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:7prl52am7f86s8ec7ir1qjh0ot@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201117T121509Z
+DESCRIPTION:Reunião agendada com a Sra Vera\, na empresa VALU INDUSTRIA E C
+ OMERCIO DE MOLAS LTDA e COMERCIAL DE MOLAS G & V LTDA. \n\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNã
+ o edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPart
+ icipar: https://meet.google.com/pxc-wkxo-jqg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201120T135251Z
+LOCATION:R ANHANGUERA 52 JD JURUPARI SANTANA DE PARNAIBA 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:VALU INDUSTRIA E COMERCIO DE MOLAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201124T160000Z
+DTEND:20201124T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:560tbi53on4180qte3li039re2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201120T174640Z
+DESCRIPTION:Reunião agendada com o Sr Admir (11 99740-1731)\, da empresa TR
+ O TRANSPORTES E LOGISTICA LTDA. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da d
+ escrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.go
+ ogle.com/qsa-aowz-utk\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201120T174640Z
+LOCATION:R. Mário de Andrade\, 54 6286 - Barra Funda\, São Paulo - SP\, 011
+ 54-060\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TRO TRANSPORTES E LOGISTICA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T190000Z
+DTEND:20201125T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:1joanccli1k7e9243uqumsgkn1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=zu
+ cchirs@gmail.com;X-NUM-GUESTS=0:mailto:zucchirs@gmail.com
+CREATED:20201120T183931Z
+DESCRIPTION:Reunião agendada com a Sra Julia (11 99627-8853) das empresas S
+ EVEN CINE FOTO E INFORMATICA LTDA e FOTO MAISUMI & NISHIWAKI COMERCIAL LTDA
+ . \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem u
+ ma videochamada.\nParticipar: https://meet.google.com/zmv-wzha-kzk\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20201120T183932Z
+LOCATION:Av Paulista 1776 andar 10b 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SEVEN CINE FOTO E INFORMATICA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200121T130000Z
+DTEND:20200121T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:49qb6g1cg21v6ovg22ddch1978@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillalbrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillalbrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190724T115937Z
+DESCRIPTION:Empresa: SPANDY PECAS EM POLIURETANO LTDA\nCnpj:59.553.917/0001
+ -66\nDívida:9.873.424\,06\nfalar com Alexandre
+LAST-MODIFIED:20210702T171137Z
+LOCATION:Av. Poe. Francisco das Chagas Fonseca\, 579 - Serraria\, Diadema -
+  SP\, 09980-240\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Reunião Ricardo Spandy Diadema 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T120000Z
+DTEND:20210201T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5lekdmqe7vbvvtt6bp48qm59cv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20210129T174358Z
+DESCRIPTION:Ficou agendado às 9:00 horas uma entrevista com o Eric Filipe d
+ a Silva. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste event
+ o tem uma videochamada.\nParticipar: https://meet.google.com/snw-rfmx-art\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-
+LAST-MODIFIED:20210129T174358Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Entrevista Ricardo Sampaio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T130000Z
+DTEND:20210310T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:5oino6a2jkffb301i863hh1hs5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210309T124420Z
+DESCRIPTION:Reunião em cotia com Fernanda e Sara.\nObs. empresa de portão v
+ ermelho\, em frente a rotatória.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da d
+ escrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.go
+ ogle.com/ebq-bazd-hqg\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210309T124420Z
+LOCATION:Estrada Manoel lages do chão\, 394 - C.1 - Jardim Caiapia - Cotia 
+ / SP - Altura do KM 30\,5 da Raposo Tavares sentido Cotia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lydia Castelo- Grupo eleve- Presencial 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T130000Z
+DTEND:20210311T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6fse0vfrn081vdfvgcctdifaa0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210309T124826Z
+DESCRIPTION:Reunião com o Sr  João.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção d
+ a descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet
+ .google.com/uxh-fzvz-xuy\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210309T124826Z
+LOCATION:Praça Carlos Maldonado Campoy\, 41 - Centro\, São José dos Campos 
+ - SP\, 12209-610\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lydia Castelo- BSS transportes- Presencial 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T140000Z
+DTEND:20210311T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:3qdq2t1he1bet5spcd0jephkoi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210310T164534Z
+DESCRIPTION:Reunião agendada com o Sr Marcos Jacomassi\, cel: 12 99713-2410
+ \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma
+  videochamada.\nParticipar: https://meet.google.com/icr-xwvv-qwh\n-::~:~::~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+LAST-MODIFIED:20210310T164534Z
+LOCATION:Av. Dr. João Batista Soares Queiroz 1901 - Jardim das Indústrias.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LYDIA CASTELO- AMBIOTEC- PRESENCIAL 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210315T130000Z
+DTEND:20210315T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:42mguhhs0vat5d4mvj9k24udjl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210309T123727Z
+DESCRIPTION:Reunião presencial com o Sr Ricardo Reina 94731-1396.\n\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videocham
+ ada.\nParticipar: https://meet.google.com/wgk-ywme-srq\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210310T170415Z
+LOCATION:Rua Reverendo João Euclides Pereira\, 122 - 4º Andar - Sala 41 - P
+ residente Altino - Osasco
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Lydia Castelo- Grupo JPL- Presencial 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210315T170000Z
+DTEND:20210315T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0b1jkd46o4afj5gvtchsbc98b6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210310T184457Z
+DESCRIPTION:Reunião agendada com o Sr Cláudio\, cel 11 99365-0730.\n\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videocha
+ mada.\nParticipar: https://meet.google.com/vfe-uxbm-ctb\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210310T184457Z
+LOCATION:R. Gen. Florêncio\, 1541 - Quitaúna\, Osasco - SP\, 06186-150\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LYDIA CASTELO- TRANSGESSITA- PRESENCIAL 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210317T160000Z
+DTEND:20210317T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:19bnplb9b4mka34fktja7ppn30@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210310T185429Z
+DESCRIPTION:Reunião agendada com o Sr Luiz Gustavo\, cel 12 99685-4572.\n\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma vid
+ eochamada.\nParticipar: https://meet.google.com/tqu-rexm-tin\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210310T185429Z
+LOCATION:zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lydia Castelo- KUBUKI SERVIÇOS- Videoconferência 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210316T130000Z
+DTEND:20210316T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:6amv19rmv7r1elu756lkli8t1j@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20210312T204244Z
+DESCRIPTION:Reunião agendada com o Dr Valter\, cel 11 95238-8930.\n\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videocham
+ ada.\nParticipar: https://meet.google.com/nff-sdaw-zpw\n-::~:~::~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210312T204244Z
+LOCATION:Avenida Cásper Líbero\,58 sala 1002 - Santa Ifigênia\, São Paulo -
+  SP\, 01033-001\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LYDIA CASTELO- AVANTE/AVANTEC- PRESENCIAL 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210409T130000Z
+DTEND:20210409T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:26sv6mj9k3ob09d3f1sp4842dm@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20210407T190852Z
+DESCRIPTION:Reunião agendada com a Dra Denise (dona) pelo franqueado Carlos
+  Henrique\, via zoom. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\
+ n\nEste evento tem uma videochamada.\nParticipar: https://meet.google.com/r
+ td-yvgw-kjm\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210407T190852Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CARLOS HENRIQUE- ALBINOMED CLÍNICA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210413T130000Z
+DTEND:20210413T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:4ur85gn8f9hq9otfvs598tpjb3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20210408T195714Z
+DESCRIPTION:Reunião agendada pelo franqueado Rodrigo Reis com a  empresária
+   Ana Paula da Silva dos Santos. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da 
+ descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.g
+ oogle.com/dby-qbwh-diz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210412T140239Z
+LOCATION:zoom 
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Rodrigo Reis- Contmax Assessoria Contábil e Empresarial
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T140000Z
+DTEND:20210622T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:13fggldmb7dhpoj6u3l5l67rii@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=juridi
+ co@maksoud.com.br;X-NUM-GUESTS=0:mailto:juridico@maksoud.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uricio@grupovillela.com;X-NUM-GUESTS=0:mailto:mauricio@grupovillela.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ gelicavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@g
+ mail.com
+CREATED:20190724T115937Z
+DESCRIPTION:reativar contato<br>Conforme combinado\, reunião agendada com o
+  Sr Valdir para <u>sexta-feira ás 11hrs </u>para apresentar nosso Plano de 
+ recuperação fiscal !
+LAST-MODIFIED:20210621T171706Z
+LOCATION:Alameda Campinas\, 150 - Jardim Paulista\, São Paulo - SP\, 01404-
+ 900\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KXYZ - TECNOLOGIA DE INFORMACAO S/A
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

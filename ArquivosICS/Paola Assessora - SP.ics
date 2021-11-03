@@ -1,0 +1,3781 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paola Assessora - SP
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20190509T170000Z
+DTEND:20190509T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:4rq7n5rgcebmroc8005cfatglk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=estela
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190508T203201Z
+DESCRIPTION: Cnpj: 08.638.511/0001-45\n\nNome: Cida / Empresa Hermes Zambon
+ i \n\nTel: 11 23112179
+LAST-MODIFIED:20190511T171446Z
+LOCATION:Av. Conde Francisco Matarazzo\, 85 - Centro\, São Caetano do Sul -
+  SP\, 09520-120\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião 1 - HERMES ZAMBONI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190514T123000Z
+DTEND:20190514T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5lnuk00a1nqa0nfuaf2o77u577@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=estela
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190513T122713Z
+DESCRIPTION:Nome: Marco \nCnpj: 04.700.632/0001-19\nTelefone: 42267096
+LAST-MODIFIED:20190513T170510Z
+LOCATION:R. Alagoas\, 451 - Centro\, São Caetano do Sul - SP\, 09521-050\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Estela 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190514T190000Z
+DTEND:20190514T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2r43aql0g9v4tmip0k7120m2uf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=estela
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190513T183421Z
+DESCRIPTION:Nome: Claudio \nCnpj: 02.743.694/0001-82\nTelefone: 42274615
+LAST-MODIFIED:20190513T195853Z
+LOCATION:R. Aurélia\, 122 - Santa Paula\, São Caetano do Sul - SP\, 09551-3
+ 40\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Estela 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190516T180000Z
+DTEND:20190516T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:42ub2u3h63rs2tlqq6i3ippj5u@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=estela
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190515T193610Z
+DESCRIPTION:Parceria Contabilidade MORTARI \nNome:  Carla ou Ronaldo \nTel:
+  2090-9494
+LAST-MODIFIED:20190515T203259Z
+LOCATION:Alameda Cassaquera\, 123 - Barcelona\, São Caetano do Sul - SP\, 0
+ 9560-100\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Parceria Contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190522T160000Z
+DTEND:20190522T210000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:71uib05h11md4m5i1oneoabkgi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com.br;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com.
+ br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190517T182909Z
+DESCRIPTION:HOTEIS DELPHIN LTDA - tel (13) 3797-6000\n\nCNPJ 48.690.564/000
+ 1-20\n\nDívida R$ 11.080.815\,94\n\nOBS: reunião com o Sr Jair (diretor) //
+ / o Alysson irá me acompanhar 
+LAST-MODIFIED:20190520T130522Z
+LOCATION:Delphin Hotel\, Av. Miguel Estefno\, 1295 - Enseada\, Guarujá - SP
+ \, 11440-530\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190523T180000Z
+DTEND:20190523T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:5b9d3hn0i1cfi801jktq3tph5s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190520T131038Z
+DESCRIPTION:PROTECNICA PAULISTA LTDA\n\nCNPJ 60.704.335/0001-12 // dívida 6
+ .811.396\,70 (porém são 4 CNPJ's com dívida)\n\ntel (11) 3824-3660 Edilson 
+ (financeiro)\n\nOBS: a reunião será com o Dr.Carlos Henrique Juvêncio e a D
+ ra. Elaine Novello
+LAST-MODIFIED:20190520T144310Z
+LOCATION:Rua Brigadeiro Galvão\, 540 (Prédio I)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190528T140000Z
+DTEND:20190528T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:6g8nbpgcjm3010givqenrtt1a6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190520T145146Z
+DESCRIPTION:Reunião com Elvia\, para falar sobre a parceria.\nTel: 21981398
+ \nContabilidade: Pena fiel 
+LAST-MODIFIED:20190520T174104Z
+LOCATION:R. Me. de Deus\, 408 - Mooca\, São Paulo - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190522T120000Z
+DTEND:20190522T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:58hnrkc4jledfs73o1156t99jp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190520T190302Z
+DESCRIPTION:Nome: Mauricio \nTel: 20212573\nRua Francisco Polito 337 sala 1
+  Ponto de referência rua orfanato.\nParceria de contabilidade\, 9 horas.
+LAST-MODIFIED:20190520T190344Z
+LOCATION:Rua Francisco Polito\, 337 - Vila Prudente\, São Paulo - SP\, 0313
+ 7-010\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190524T130000Z
+DTEND:20190524T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:17eboumir6r7n6l49db50n3aft@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190521T133732Z
+DESCRIPTION:Parceria de contabilidade\nEmpresa: M&S Assessoria Contábil\nTe
+ l: (11) 2692-9531 \nEnd: Rua da mooca 2455\nNome da Proprietária: Eunice  
+LAST-MODIFIED:20190522T145736Z
+LOCATION:R. da Mooca\, 2455 - Mooca\, São Paulo - SP\, 03103-003\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190524T170000Z
+DTEND:20190524T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1023n0qroeg1ecaurji62raqt1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190521T201717Z
+DESCRIPTION:\nParceria de ContabilidadeEmpresa: Confidence consultoria\, Au
+ ditoria e pericias contábeis \nNome Eduardo \ntel: 11 2155-2155
+LAST-MODIFIED:20190522T145806Z
+LOCATION:R. Leocádia Cintra\, 80 - Mooca\, São Paulo - SP\, 03112-040\, Bra
+ sil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190605T190000Z
+DTEND:20190605T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:3fiin2508g5g4vljpdo0tivchg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com.br;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com.
+ br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190523T172732Z
+DESCRIPTION:Dalmet Laminação Brasileira Metais  \n\n(11) 5061-5119\n\nOBS: 
+ 2a reunião c/ Paulo (um dos sócios)\, quer apresentar a Villela para o irmã
+ o que tem participação na empresa
+LAST-MODIFIED:20190524T120052Z
+LOCATION:R. Bom Pastor\, 2860 - Ipiranga\, São Paulo - SP\, 04203-003\, Bra
+ sil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião - Paula  
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T170000Z
+DTEND:20190527T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0iri55snqspujbm2ebrjagpi08@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190524T173158Z
+DESCRIPTION:Parceria Contabilidade\nNome: Cleiton \nTel: 3105-8093\nKemel C
+ ontabilidade 
+LAST-MODIFIED:20190524T190630Z
+LOCATION:R. Sen. Feijó\, 161 - Sé\, São Paulo - SP\, 01006-001\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T123000Z
+DTEND:20190527T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5h7g40o8kfgjbpsrpus3670dbl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190524T172554Z
+DESCRIPTION:Parceria contabilidade\nNome: Isabel \nRangel Contabilidade \nT
+ el: 3107-8504\nEnd: Av Rangel pestana 243 Sé 
+LAST-MODIFIED:20190524T190640Z
+LOCATION:Av. Rangel Pestana\, 243 - Sé\, São Paulo - SP\, 03216-050\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T203000Z
+DTEND:20190527T213000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5hg7e3sc4mqknh4t0rb31lv3pd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190524T174929Z
+DESCRIPTION:Parceria Contabilidade \nNome: Rogerio \nSB Assessoria \nTel: 2
+ 060-1330\nEnd: Rua falchi gianine 681 vila prudente.
+LAST-MODIFIED:20190524T190645Z
+LOCATION:R. Falchi Gianini\, 681 - Vila Prudente\, São Paulo - SP\, 03136-0
+ 40\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190530T130000Z
+DTEND:20190530T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5846p6dv0rjgl8urakpo2n5ipd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190528T183349Z
+DESCRIPTION:Martini Contabilistas \nNome: Junior \nTel: 32931415\nParceria 
+ Contabilidade 
+LAST-MODIFIED:20190528T191456Z
+LOCATION:R. Riachuelo\, 44 - Sé\, São Paulo - SP\, 01006-001\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190529T130000Z
+DTEND:20190529T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:20s2qpd5jmroknscdj9o9hhl22@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190528T182953Z
+DESCRIPTION:Organização Pacini \nParceria contabilidade\nNome: Claudemir ou
+  Lurdes para falar.\nTel: (11) 3107-1598\nMarquei vista com Laercio. 
+LAST-MODIFIED:20190528T193428Z
+LOCATION:Praça joão mendes 42\, Andar 19°/ Conj 195  (Sé)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190529T140000Z
+DTEND:20190529T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:66rtu4ake2r0n0rle16mp2c028@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=es
+ telavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:estelavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190528T191637Z
+DESCRIPTION:Asseplan Consultoria \nResponsável: Celso \nTel: 4227-3526\nEnd
+ ereço: Alameda terracota 215/ Conj: 506 São Caetano  
+LAST-MODIFIED:20190528T193950Z
+LOCATION:Alameda terracota 215 / Conj: 506 São Caetano 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Estela 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190603T180000Z
+DTEND:20190603T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7l66f41ss7obqspolr6971v71h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=renato
+ @shogohirata.com.br;X-NUM-GUESTS=0:mailto:renato@shogohirata.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190529T190435Z
+DESCRIPTION:Parceria Contabilidade consultora Paula Torniolo \nEmpresa: Sho
+ go Hirata / Falar com Renato \nTel: 3335-0224
+LAST-MODIFIED:20190530T200312Z
+LOCATION:rua lubavitch 113\, 3° andar Bom retiro 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T130000Z
+DTEND:20190604T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:4e20faidkiviusbqumsb9ef50k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190531T133051Z
+DESCRIPTION:Visitei a contabilidade na semana passada\, o proprietário Anto
+ nio tem algumas dúvidas mais técnicas e gostaria de conhecer nosso escritór
+ io e conversar com alguém do Jurídico.\n\nOBS: Alysson ou Mauricio precisar
+ ão participar
+LAST-MODIFIED:20190531T140341Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190604T170000Z
+DTEND:20190604T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:49vohogs2sb9su4cqes35oa9nm@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dp
+ @idealcursos.com.br;X-NUM-GUESTS=0:mailto:dp@idealcursos.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190603T144430Z
+DESCRIPTION:Reunião Empresa Ideal centro de vigilantes\nCnpj: 0093400500019
+ 1\nResponsável do Finaceiro/ Renata \nTel: 11 3315-9738\nConsultora: Paula 
+LAST-MODIFIED:20190603T161324Z
+LOCATION:R. Rodolfo Miranda\, 131 - Bom Retiro\, São Paulo - SP\, 01121-010
+ \, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/ Empresa Ideal 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190606T130000Z
+DTEND:20190606T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:6ld7to2hc68kh9bdn5k6aomm03@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fa
+ ustojborsato@gmail.com;X-NUM-GUESTS=0:mailto:faustojborsato@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190604T124206Z
+DESCRIPTION:Empresa Artpress editora e  comercio\nNome: Socio Fausto/ Marci
+ o vai participar da reunião.\nTel: 3331-4522\nCnpj:47.259.940/0001-63
+LAST-MODIFIED:20190604T130317Z
+LOCATION:R. Javaés\, 681 - Bom Retiro\, São Paulo - SP\, 01130-010\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/ Empresa Artpress
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T130000Z
+DTEND:20190611T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:6veru8t0377cvjuvcruhk1v2gs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ io@fcb.com.br;X-NUM-GUESTS=0:mailto:caio@fcb.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190605T123157Z
+DESCRIPTION:Empresa: FCB FOOD CONCEPTS BRASIL LTDA\nNome: Caio Responsável 
+ da empresa \nTel: 2918-6267\nCnpj: 03.510.370/0001-67\nConsultora: Paula 
+LAST-MODIFIED:20190605T173734Z
+LOCATION:R. Sérgio Tomás\, 482 - Bom Retiro\, São Paulo - SP\, 01131-010\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/ Empresa Fcb Food 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190614T120000Z
+DTEND:20190614T210000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0trvj1si9g3ll0tuv4a8d77ke3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190605T171147Z
+DESCRIPTION:
+LAST-MODIFIED:20190605T174307Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Convenção Campinas 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T143000Z
+DTEND:20190607T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:37vrj9k8vd32n6moiiv2iatji4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190605T175313Z
+DESCRIPTION:Reunião Contabilidade Primar\nFalar com Claudio responsável.\nT
+ el: 3017-0001
+LAST-MODIFIED:20190605T200919Z
+LOCATION:Praça Dom José Gáspar  134 - República 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Contabilidade Primar 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T120000Z
+DTEND:20190613T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2tb1o7v6dbm8b8a15nbpk8hti5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ mberto@tecstam.com.br;X-NUM-GUESTS=0:mailto:humberto@tecstam.com.br
+CREATED:20190530T190528Z
+DESCRIPTION:Reunião Empresa: Tec-stam forjaria e estamparia\, Falar com Hum
+ berto\nTel:11 2219-7875\nEndereço: Av Presidente wilson 2571 Mocca \nCnpj: 
+ 96.655.741/0001-80\nConsutora: Paula 
+LAST-MODIFIED:20190606T165431Z
+LOCATION:Av. Presidente Wilson\, 2571 - Mooca\, São Paulo - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190605T143000Z
+DTEND:20190605T153000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:10af75a557lbkkq6ik6qdl1egr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ rgio.prado@saopaulopesquisa.com.br;X-NUM-GUESTS=0:mailto:sergio.prado@saopa
+ ulopesquisa.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190603T170508Z
+DESCRIPTION:Empresa Analise final pesquisa e assessoria de marketing Ltda \
+ nSergio Financeiro\nCnpj: 01.163.217/0001-85\nTel: 3224-8808
+LAST-MODIFIED:20190606T165503Z
+LOCATION:Vieira de carvalho 40\, 3° andar Republica 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula Empresa Analise final 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190607T130000Z
+DTEND:20190607T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0acv7v6mcb1u8sbsrk14d5iql3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ed
+ uardo@net-intercon.com.br;X-NUM-GUESTS=0:mailto:eduardo@net-intercon.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=paula
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190604T181459Z
+DESCRIPTION:Empresa STANLEY DO BRASIL LTDA.\nCnpj: 61.100.061/0001-15\nNome
+ : Eduardo/ Responsável da empresa.\nTel: 3129-4738\nConsultora: Paula 
+LAST-MODIFIED:20190609T035550Z
+LOCATION:rua sete de abril 235\, 5° Andar Republica 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/ Empresa Stanley Brasil
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T130000Z
+DTEND:20190612T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:3ao9hmkb8gamc1ogcrcpul5mn3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190610T182821Z
+DESCRIPTION:Reunião empresa/ Cunha Assessoria (Contabilidade)\nNome: Ricard
+ o \nTel: 3331-4553\n\n\n 
+LAST-MODIFIED:20190610T235945Z
+LOCATION:R. da Graça\, 61 - Bom Retiro\, São Paulo - SP\, 01125-001\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Cunha Assessoria 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T140000Z
+DTEND:20190619T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:17necujtiigcm6mijk1s85rgrt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190610T192327Z
+DESCRIPTION:Reunião Contabilidade\nEmpresa Servicon Contabilidade\nTel: 385
+ 4-2830\nResponsável: Oscar\nele ta muito interessado!!
+LAST-MODIFIED:20190611T000027Z
+LOCATION:Rua Sousa Caldas\, 125 - Brás\, São Paulo - SP\, 03025-040\, Brasi
+ l
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Servicon Contabilidade
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T190000Z
+DTEND:20190611T193000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=priscilavillelabrasil@gmail.com:mailto:priscilavillelabrasil@g
+ mail.com
+UID:15dlpcml2ic6mmrcbefoh2qrsf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=prisci
+ lavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:priscilavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ @villelabrasil.com.br;X-NUM-GUESTS=0:mailto:sp@villelabrasil.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ ulavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190513T130029Z
+DESCRIPTION:Empresa de contabilidade que cuida da \;TALENTO SERVICOS E MAO 
+ DE OBRA LTDA\, CNPJ 00.000.058/0001-35\, Valor da DÍVIDA:  5.217.839\,03.\n
+ Falei da parceria que efetuamos com a contabilidade. \nMarcos  Telefone: 39
+ 231650
+LAST-MODIFIED:20190611T123652Z
+LOCATION: R. Rui de Morais Apocalipse\, 79 - 1° andar Jardim do Tiro
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T190000Z
+DTEND:20190613T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:7v5473t68t3dg9f13i81sjat01@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190606T183938Z
+DESCRIPTION:Artpress Editora e Com.\n\nVisitei a empresa hoje\, Sr Fausto (
+ diretor) e Marcos (financeiro) querem vir conhecer o escritório.\n\n\nCNPJ 
+ 47.259.940/0001-63\n\nDívida R$ 5.669.581\,84 \n\nOBS: pedi para o Alysson 
+ atender\, pois a Renata disse que o Mauricio não estará no escritório.
+LAST-MODIFIED:20190611T123704Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T170000Z
+DTEND:20190612T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:02edtl3rvsu36e2eon5vt9bik6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=di
+ rceu@policontabil.com;X-NUM-GUESTS=0:mailto:dirceu@policontabil.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190529T192057Z
+DESCRIPTION:Parceria Contabilidade / Sociedade Policontabil\nFalar com Dirc
+ eu \nTel: 3329-8844\nConsultora Paula 
+LAST-MODIFIED:20190611T125216Z
+LOCATION:Rua ribeirão de lima 316\, 1° andar Bom Retiro 
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190613T130000Z
+DTEND:20190613T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5nbifn84c1lkcpcj9ps1j3vgmc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190611T195429Z
+DESCRIPTION:Empresa Ovetril Oleos Vegetais \nClaudio/ Financeiro \nTel: 260
+ 6-8950\nCnpj:  84591064000102\nDivida 276.774.296\,74 
+LAST-MODIFIED:20190612T122843Z
+LOCATION:R. Dias Leme\, 28 - Mooca\, São Paulo - SP\, 03118-040\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/ Mauricio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190612T140000Z
+DTEND:20190612T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:35q5vh1ii8ibnq2n2ajpfrlvj4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190610T183351Z
+DESCRIPTION:Reunião Contabilidade/ Organização Pupo \nFalar com/ Juliane \n
+ Tel: 3221-0518
+LAST-MODIFIED:20190612T141416Z
+LOCATION:R. José Paulino\, 226 - Bom Retiro\, São Paulo - SP\, 01101-010\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Organização Pupo 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190619T173000Z
+DTEND:20190619T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:376ei6i5rin9kr0sk8v9lec8c6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190612T125555Z
+DESCRIPTION:Reunião empresa Luz & Alcântara Assessoria Contábil\nDono: Rica
+ rdo\nTel: (11) 3271-7382
+LAST-MODIFIED:20190612T174924Z
+LOCATION:R. Visc. de Parnaíba\, 124 - Brás\, São Paulo - SP\, 03101-005\, B
+ rasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Contabilidade Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T200000Z
+DTEND:20190618T204500Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7gcv2dusbifn5d4onpe68k9lln@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=co
+ ntador@mcfcontabil.com.br;X-NUM-GUESTS=0:mailto:contador@mcfcontabil.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190617T125119Z
+DESCRIPTION:Contabilidade M7 \nResponsável: Alexandre\nTel: 3106-5435\nCons
+ ultora: Paula 
+LAST-MODIFIED:20190617T162717Z
+LOCATION:Rua jose bonifacio 278 conj 712
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião / Contabilidade Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T120000Z
+DTEND:20190626T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:3mcn6aseq4cp13jc3mfrdmnmfr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190617T201723Z
+DESCRIPTION:Empresa: Alcance logistica do brasil\nCnpj: 04.196.381/0001-87\
+ nProprietário: Marcio \nTel: 2062-5469
+LAST-MODIFIED:20190618T112309Z
+LOCATION:Av. Henry Ford\, 250 - Parque da Mooca\, São Paulo - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Empresa Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T170000Z
+DTEND:20190617T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:74hgnl24vrq3pvbfv4g1o0l0nt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fr
+ igorificorocca@terra.com.br;X-NUM-GUESTS=0:mailto:frigorificorocca@terra.co
+ m.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190612T142738Z
+DESCRIPTION:Empresa: FRIGORIFICO ROCCA LTDA\nFalar com: Sr Dominico \nTel: 
+ 2965-0186\nCnpj: 61.983.813/0001-33\nConsultora: Paula 
+LAST-MODIFIED:20190618T125005Z
+LOCATION:R. Piraja\, 1305 - Mooca\, São Paulo - SP\, 03190-170\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190617T130000Z
+DTEND:20190617T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2uu7vedrnhppj8blkaonm17hsi@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190610T183701Z
+DESCRIPTION:Reunião/ Hashimoto Contabilidade \nFalar com/ Carla Responsável
+  \nTel: 2289-0144
+LAST-MODIFIED:20190618T125030Z
+LOCATION:Praça da sé 21\, conj 901
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Hashimoto contabilidade
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190618T160000Z
+DTEND:20190618T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:55q2ra41pmmb2i44lle2d2p39e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190617T120319Z
+DESCRIPTION:Empresa: Salgueiro Industria e Comercio Ltda \nFalar com Gislai
+ ne/ Filha do dono sr Mario \nCnpj: 62490255/000137\nTel: 2063-2512/ 3711-01
+ 33
+LAST-MODIFIED:20190618T134410Z
+LOCATION:Av. Presidente Wilson\, 2753 - Mooca\, São Paulo - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Paula Empresa 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T130000Z
+DTEND:20190625T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:4sjj4eqo06atgidkjiv3uhffqp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=antoni
+ ocarlos@policontabil.com;X-NUM-GUESTS=0:mailto:antoniocarlos@policontabil.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190611T132315Z
+DESCRIPTION:Sociedade Mega Contábil\nResponsável: Antonio Carlos \nTel: 322
+ 7-5666\nConsultora: Paula 
+LAST-MODIFIED:20190618T170628Z
+LOCATION:Condomínio Edifício Brana\, R. Ribeiro de Lima\, 316 - Bom Retiro\
+ , São Paulo - SP\, 01122-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T130000Z
+DTEND:20190626T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:4ku04am3kf1lba741jhgmeqouo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardo@bifarma.com.br;X-NUM-GUESTS=0:mailto:ricardo@bifarma.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190618T181031Z
+DESCRIPTION:Empresa: DEMAC PRODUTOS FARMACEUTICOS LTDA - BIFARMA\nCnpj: 65.
+ 837.916/0001-46\nTel: 4441-6530\nResponsável do Financeiro: Ricardo Balogui
+  \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190618T203753Z
+LOCATION:Rod. Pres. Tancredo de Almeida Neves 5820b Caieras/ Ao lado da est
+ ação de trem.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T173000Z
+DTEND:20190626T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7bji1oebcop7m8p6fm0mq441ck@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ m@plooma.com.br;X-NUM-GUESTS=0:mailto:adm@plooma.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190618T193246Z
+DESCRIPTION:Empresa: PLOOMA INDUSTRIA E COMERCIO EIRELI\nResponsável: Bene 
+ Santos \nCnpj: 59.534.701/0001-53\nTel: 4441-5200\nConsultor: Marco Aurélio
+  
+LAST-MODIFIED:20190618T212110Z
+LOCATION:Av. Giovanni Gabrielli\, 423 - Laranjeiras\, Caieiras - SP\, 07700
+ -000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurelio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T113000Z
+DTEND:20190626T123000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:062m1c7hd0sqt4npajd0o9ahj5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190619T143617Z
+DESCRIPTION:Empresa: Metalgrafica Rojek Ltda \nResponsável: Olindo Rodella 
+ \nTel: 4447-7900\nCnpj: 52.502.978/0001-55\n\nOBS: Sr Olindo pediu para lig
+ ar na terça-feira\, para ver se não terá nenhum imprevisto na quarta-feira 
+ da reunião. 
+LAST-MODIFIED:20190619T145823Z
+LOCATION:Av. Pedro Celestino Leite Penteado\, 55 - Jardim Penteado\, Cajama
+ r - SP\, 07750-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T193000Z
+DTEND:20190626T203000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:75gd9t2os8oc4ckpl4qtfsvfq4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ve
+ ndas@brasprint.com.br;X-NUM-GUESTS=0:mailto:vendas@brasprint.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190619T174813Z
+DESCRIPTION:Empresa: BRASPRINT ARTES GRAFICAS EIRELI\nCnpj: 59.231.639/0001
+ -20\nTel:  (11) 4447-4733\nResponsável: Deise \nConsultor: Marco Aurélio\n 
+  
+LAST-MODIFIED:20190619T191431Z
+LOCATION:Av. Arnaldo Rojek\, 144 - Jardim Penteado\, Cajamar - SP\, 07750-0
+ 00\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190625T170000Z
+DTEND:20190625T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0r8f8he8fo8ao1js4sfpu8d96r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ju_mat
+ urana@hotmail.com;X-NUM-GUESTS=0:mailto:ju_maturana@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190624T124735Z
+DESCRIPTION:Empresa: Vaz Teixera Cia Ltda \nCnpj: 61.586.632/0001-73\n\nTel
+ : 3105 -1793\nResponsável: Juliana Maturana/ Dona da empresa \nConsultora: 
+ Paula 
+LAST-MODIFIED:20190624T132244Z
+LOCATION:Praça Dr. João Mendes\, 150 - Centro Histórico de São Paulo\, São 
+ Paulo - SP\, 01501-001\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Paula 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190611T170000Z
+DTEND:20190611T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:11k18fief7n9v9elfca17gsp1n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+CREATED:20190607T174721Z
+DESCRIPTION:COMERCIAL MILLONAS DE TECIDOS\n\nCNPJ 08.518.879/0001-70\n\nDív
+ ida R$ 3.696.125\,34 \n\n(11) 3326-8494 Karla (proprietária)\n\nOBS: empres
+ a indicada pelo contador Antonio (Via Contabilidade) // o Mauricio vai comi
+ go
+LAST-MODIFIED:20190624T190134Z
+LOCATION:Rua Correia de Andrade\, 62 - Brás\, São Paulo - SP\, 03001-000\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/Mauricio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T170000Z
+DTEND:20190627T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:6kp9t4ri5lme9qd55lv2fu4nvr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190624T153222Z
+DESCRIPTION:Empresa SP Pesquisas \nSérgio (proprietário)\nCNPJ: 01.163.217/
+ 0001-85\nTel: (11) 3224-8808\n\nOBS: visitei a empresa em 05/6\, o cliente 
+ quer conhecer nosso escritório e falar com alguém da diretoria // a reunião
+  estava marcada para 19/6\, tive que cancelar pois nem o Mauricio e nem o A
+ lysson estavam no escritório.
+LAST-MODIFIED:20190624T193655Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/Alysson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T130000Z
+DTEND:20190627T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2pj4nb5krv639am0kve83sekep@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fi
+ nanceiro@fofokits.com.br;X-NUM-GUESTS=0:mailto:financeiro@fofokits.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190625T143951Z
+DESCRIPTION:Empresa: CHILDRENS BAG INDUSTRIA E COMERCIO DE ARTIGOS INFANTIS
+  LTDA\nCnpj: 11.010.820/0001-80\nTel: 4441-8813\nResponsável: Cristiana \nC
+ onsultor: Marco Aurélio 
+LAST-MODIFIED:20190625T163900Z
+LOCATION:R. Atílio Thomazzi\, 230 - Vila Ajoá\, Caieiras - SP\, 07700-000\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190703T130000Z
+DTEND:20190703T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:6fbdd78rbk9jp14jtfoitn5169@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190625T190514Z
+DESCRIPTION:Empresa: RODOSERPA TRANSPORTES LTDA\nCnpj: 03.588.339/0001-49\n
+ Tel: 4605-4002\nResponsável: Weliton/ Gerente Geral \nConsultor: Marco Auré
+ lio 
+LAST-MODIFIED:20190625T192240Z
+LOCATION:R. Geni Goes de Moraes\, 185 - Vila Miraval\, Caieiras - SP\, 0770
+ 0-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reinião/ Marco Aurélio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T113000Z
+DTEND:20190627T123000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2t2ctkg5n139rke5823b9ecq0g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ nneflon@manneflon.com.br;X-NUM-GUESTS=0:mailto:manneflon@manneflon.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190625T201853Z
+DESCRIPTION:Empresa: MANNEFLON INDUSTRIA E COMERCIO DE VEDAÇÕES LTDA\nCnpj:
+  55.157.648/0001-68\nTel: 13- 3361-2127\nResponsável: Junior \nConsultor: M
+ arco Aurélio \n 
+LAST-MODIFIED:20190625T210623Z
+LOCATION:Av. Giovanni Gabrielli\, 563 - Parque Industrial Araucarea\, Caiei
+ ras - SP\, 07747-200\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T170000Z
+DTEND:20190627T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:391al7fadpedgq3l95ogvhu9c4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=fabio@
+ exacon.com.br;X-NUM-GUESTS=0:mailto:fabio@exacon.com.br
+CREATED:20190626T130006Z
+DESCRIPTION:Reunião: Contabilidade Exacon Organização Contábil\nResponsável
+ : Fabio Silva \nTel: 4608-2236/ 4489-7070\nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190626T165406Z
+LOCATION:R. Progresso\, 774 - Centro\, Francisco Morato - SP\, 07901-170\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Contabilidade 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T170000Z
+DTEND:20190711T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:29lu57i93nb88275l6apre268k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gi
+ ovana@calibratec.com.br;X-NUM-GUESTS=0:mailto:giovana@calibratec.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190529T191549Z
+DESCRIPTION:Reunião Empresa Calibratec Instrumentos de Meditação \nConsulto
+ ra Paula \nTel: 3222-5522\nEnd: Rua Tenente Pena\, 71 \nFalar com Giovana \
+ nCnpj: 52.522.075/0001-36\n\nObs: A reunião era em 12/06 e foi reagendada p
+ ara 11/07  (Contato com Silvia)
+LAST-MODIFIED:20190627T112856Z
+LOCATION:R. Ten. Pena\, 71 - Bom Retiro\, São Paulo - SP\, 01127-020\, Bras
+ il
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula Calibratec
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T180000Z
+DTEND:20190627T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:01s34attdu85t4uqf0i2ieve7n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lu
+ celia@ldltransportes.com.br;X-NUM-GUESTS=0:mailto:lucelia@ldltransportes.co
+ m.br
+CREATED:20190626T180142Z
+DESCRIPTION:Empresa: TRANSPORTADORA LDL LTDA\nCnpj: 04.613.986/0001-26\nTel
+ : (11) 4442-2421\nResponsável: Lucelia/Sócia\nConsultor: Marco Aurélio  
+LAST-MODIFIED:20190627T112903Z
+LOCATION:Av. Pres. Juscelino Kubitscheck Oliveira\, 102 - Jardim Monte Aleg
+ re\, Caieiras - SP\, 07700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190701T180000Z
+DTEND:20190701T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:417pe0i4h4dbre39f57b8jvtdm@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190626T185129Z
+DESCRIPTION:
+LAST-MODIFIED:20190627T132341Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião com a Equipe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190703T173000Z
+DTEND:20190703T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:16v1qbrhm1mutl1a1cd8phvn5e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=si
+ monelaki@aass.org.br;X-NUM-GUESTS=0:mailto:simonelaki@aass.org.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190627T201031Z
+DESCRIPTION:Empresa: BEGE COMERCIAL DE ELETROFERRAGENS LTDA\nCnpj: 00.830.3
+ 02/0001-97\nResponsável: Advogada da empresa (Simone Laki)\nTel: 3638-2671\
+ nConsultor villela brasil: Marco Aurélio 
+LAST-MODIFIED:20190628T125541Z
+LOCATION:Rua Emílio Colella\, 85 - Parque Sao Domingos\, São Paulo - SP\, 0
+ 5126-130\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190702T173000Z
+DTEND:20190702T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:6k55a5ic1jjgmfs1iova8qpq1b@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ tia@lajotart.com.br;X-NUM-GUESTS=0:mailto:catia@lajotart.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190701T135348Z
+DESCRIPTION:\nEmpresas: LAJOTART COMERCIO DE PEDRAS MARMORES E GRANITOS LTD
+ A\nCnpj: 47.434.345/0001-17\nTel: 3022-2142\nResponsável: Catia/ Proprietár
+ ia \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190701T141943Z
+LOCATION:Av. Ten. Marques\, 3143 - Jardim Adelaide\, Cajamar - SP\, 07750-0
+ 00\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190703T143000Z
+DTEND:20190703T153000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:322qqqgp9jela1p8i1hi1jh0f5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ed
+ uardo@mamaplast.com.br;X-NUM-GUESTS=0:mailto:eduardo@mamaplast.com.br
+CREATED:20190701T141054Z
+DESCRIPTION:Empresa: MAMAPLAST EMBALAGENS PLASTICAS EIRELI\nCnpj: 59.527.42
+ 4/0001-51\nTel: 4441-2020\nResposável: Gestor Eduardo Silva\nConsultor: Mar
+ co Aurélio  
+LAST-MODIFIED:20190701T141958Z
+LOCATION:Rod. Pres. Tancredo de Almeida Neves\, 3005 - Parque Industrial Ar
+ aucarea\, Caieiras - SP\, 07700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190704T170000Z
+DTEND:20190704T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1ru3n0uelkid968og6abt8mr5r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vd
+ m.escovas@yahoo.com.br;X-NUM-GUESTS=0:mailto:vdm.escovas@yahoo.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190702T125943Z
+DESCRIPTION:Empresa: VALDIMEC INDUSTRIA E COMERCIO LTDA\nCnpj: 02.157.462/0
+ 001-42 \nTel: 4441-4339\nResponsável: Jose Valdinei \nConsultor: Marco Auré
+ lio 
+LAST-MODIFIED:20190702T173110Z
+LOCATION:R. Pintassilgo\, 307 - Jardim Helena\, Caieiras - SP\, 07700-000\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190705T130000Z
+DTEND:20190705T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1phocc2bl0s5kou1jb3ulnf9ai@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190702T184144Z
+DESCRIPTION:Empresa: GAP MADEIRAS E TELHAS LTDA\nCnpj: 15.457.226/0001-93\n
+ Tel: (11) 4899-3917\nResponsável:  ALEX TADEU VIEIRA BELOTI\n\nOBS: Marco\,
+   Por gentileza verificar também se possui divida estadual.
+LAST-MODIFIED:20190702T194603Z
+LOCATION:Av. Raimundo Pereira de Magalhães\, 19001 - Vila Pirituba\, São Pa
+ ulo - SP\, 02675-031\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190704T140000Z
+DTEND:20190704T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:6fjrhapn3h2c4gnma28e7i8591@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190703T135159Z
+DESCRIPTION:Empresa:  FCB FOOD CONCEPTS BRASIL EIRELI\nCaio (responsável) \
+ nTel: (11) 2918-6267\nCNPJ 03.510.370/0001-67\nDívida R$ 9.415.332\,13
+LAST-MODIFIED:20190703T135201Z
+LOCATION:R. Sérgio Tomás\, 486 - Bom Retiro\, São Paulo - SP\, 01131-010\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T130000Z
+DTEND:20190710T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:41oq1v0s42i9uaqbnu7j0qvjrr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=si
+ lvio.planoprint@hotmail.com.br;X-NUM-GUESTS=0:mailto:silvio.planoprint@hotm
+ ail.com.br
+CREATED:20190704T182908Z
+DESCRIPTION:Empresa: PLANOPRINT ARTES GRAFICAS LTDA\nCnpj: 59.394.882/0001-
+ 60\nTel: 3056-5999\nResponsável: Silvio \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190704T195404Z
+LOCATION:R. Paulo Cândido da Silva\, 178 - Parque Industrial Araucarea\, Ca
+ ieiras - SP\, 07700-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T130000Z
+DTEND:20190717T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:5fomgkanlsm0j1fg1e2qo4g9s1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190704T184426Z
+DESCRIPTION:Empresa: AVALTEC EXPOSITORES LTDA\nCnpj: 49.459.746/0001-57\nTe
+ l: 3902-5500\nResponsável: Anselmo \nConsultor: Marco Aurélio
+LAST-MODIFIED:20190705T171636Z
+LOCATION:R. José Lopes\, 338 - Laranjeiras\, Caieiras - SP\, 07747-150\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T140000Z
+DTEND:20190710T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:0nijh7p4ep599ouo0jbc0aetrp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marian
+ evillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+CREATED:20190705T190418Z
+DESCRIPTION:Conforme contato telefônico realizado dia 05/07\, ficou agendad
+ o com Sr Guilherme Siqueira Marcolino para a entrega do Parecer da empresa.
+  Secretária Tamires.\n\nTelefone: (11)98957-3129 Sr Guilherme\n\nCNPJ 12.43
+ 7.735/0001-66\n\nDívida: 1.099.400\,24
+LAST-MODIFIED:20190708T114013Z
+LOCATION:R Jose Tibúrcio Da Cunha\, 281\, Térreo - Jardim Suina\, Taboão Da
+  Serra  SP\, CEP 06773-360
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP ESTOFADOS WG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T143000Z
+DTEND:20190710T153000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:26u1fen083477cvj549jrq5142@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190708T120815Z
+DESCRIPTION:Empresa: G.F.COMERCIO E SERVIÇOS DE USINAGEM E CALDERARIA LTDA\
+ nCnpj: 01.700.805/0001-00\nTel: 4899-4465\nResponsável: Francisco \nConsult
+ or: Marco Aurélio 
+LAST-MODIFIED:20190708T123058Z
+LOCATION:Estr. do Ajoa\, 2200 - Morro Grande\, Caieiras - SP\, 07700-000\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T140000Z
+DTEND:20190711T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:3teof4engo12muu69c8f9lmg5r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190708T181848Z
+DESCRIPTION:Conforme contato telefônico realizado dia 08/07\, ficou agendad
+ o com SR MÁRIO para a entrega do parecer da empresa.\n\nTelefone: (11) 5631
+ -3411\n\nCNPJ 01.495.013/0001-41\n\nDívida: R$ 12.773.145\,87 
+LAST-MODIFIED:20190708T185430Z
+LOCATION:R. Pacaritambo\, 41 - Vila Isa\, São Paulo - SP\, 04689-005\, Bras
+ il
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP HORTIPLAST EMBALAGENS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T180000Z
+DTEND:20190710T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2gnnhbec2iu8l5hfuj72isdqip@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=do
+ uglas@servgela.com.br;X-NUM-GUESTS=0:mailto:douglas@servgela.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190708T140754Z
+DESCRIPTION:Empresa: SERV GELA COMERCIO DE BRINDES EIRELI\nCnpj: 04.207.170
+ /0001-00\nTel: 3933-2530\nResponsável: Douglas \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190708T185441Z
+LOCATION:R. Eng. José de Azeredo Santos\, 86 - Vila Carbone\, São Paulo - S
+ P\, 02751-030\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190710T190000Z
+DTEND:20190710T200000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:25b9k9mlns15rq678j9u7dqj6i@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=is
+ aacrosan@globo.com;X-NUM-GUESTS=0:mailto:isaacrosan@globo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190708T183053Z
+DESCRIPTION:Empresa: MADIPE COMERCIO DE MADEIRAS EIRELI\nCnpj: 01.864.472/0
+ 001-55\nTel: 4442-3000\nResponsável: Isaac \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190708T191514Z
+LOCATION:R. Luiz Vaz de Camões\, 880 - Nova Caieiras\, Caieiras - SP\, 0770
+ 0-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T160000Z
+DTEND:20190711T170000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:7vla6t86h2nl0fb7h1pb8ghe7e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190710T131337Z
+DESCRIPTION:Conforme contato telefônico realizado dia 10/07\, ficou agendad
+ o com Sr Altemir para a entrega do parecer da empresa.\n\nTelefone:  (11) 3
+ 926-3975\n\nCNPJ: 56.996.200/0001-09\n\nDÍVIDA: R$ 10.342.820
+LAST-MODIFIED:20190710T133735Z
+LOCATION:R. Arnoldo Felmanas\, 67 - Veleiros\, São Paulo - SP\, 04774-010\,
+  Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP H C INDUSTRIA E COMERCIO DE MOLAS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190711T180000Z
+DTEND:20190711T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:6bsu0alrc8uhq1rclv95fk66uh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+CREATED:20190711T123857Z
+DESCRIPTION:Conforme contato telefônico realizado dia 11/07 ficou agendado 
+ com Sra Simone (esposa do Sr Daniel)\, para a entrega do parecer da empresa
+ .\n\nTelefone: (11) 4701-0107\n\nCNPJ- 57.475.626/0001-71\n\nDÍVIDA- R$ 367
+ .000\,47
+LAST-MODIFIED:20190711T124502Z
+LOCATION:R. Pedro Pedrão\, 105 - Jardim Santa Rosa\, Taboão da Serra - SP\,
+  06755-225\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP DANIEL BORGHETTI-BORGHELIX - CAÇAMBAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T113000Z
+DTEND:20190712T123000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:056dvjf0f6egerqe9kgjgduvt5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190711T123745Z
+DESCRIPTION:Contabilidade: SXV Assessoria \nResponsável: Sr Luis Antonio \n
+ Tel: 4442-3582\nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190711T132818Z
+LOCATION:R. Catão\, 128 - Vila Romana\, São Paulo - SP\, 05049-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T120000Z
+DTEND:20190712T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:0dp0aga9pada3tm7jhsuuokouu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianavillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190711T163026Z
+DESCRIPTION:Conforme contato telefônico realizado dia 11/07\, ficou agendad
+ o com Sr Ruy para a entrega do parecer da empresa.\n\nResp. Sr Carlos Taniz
+ aka\n\nTelefone: (11)3217-5650\n\nCnpj- 44.125.185/0001-36\n\nDÍVIDA R$ 5.9
+ 76.247\,33
+LAST-MODIFIED:20190711T182530Z
+LOCATION:Av. Dr. Gastão Vidigal\, 221 - Vila Leopoldina\, São Paulo - SP\, 
+ 02675-031\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JULIANA SP COMERCIAL PAPELYNA DE EMBALAGENS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T133000Z
+DTEND:20190717T143000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:1f230990n0i9e6395rae8c08mg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianavillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+CREATED:20190523T133736Z
+DESCRIPTION:\nRETORNO PARA POSSÍVEL FECHAMENTO. \nConforme contato telefôni
+ co realizado dia 23/05 ficou agendado na empresa AGATEC INDUSTRIA COMERCIO 
+ E MANUTENÇÃO EIRELI\, Cnpj 00.660.827/0001-21\, com Sra DENISE do setor fin
+ anceiro para Apresentação do PLANO DE RECUPERAÇÃO FISCAL e entrega do Parec
+ er. Valor da dívida: 7.019.970\,34\n\nTelefone: (11) 4441-8309
+LAST-MODIFIED:20190712T133245Z
+LOCATION:R. Danilo Valbuza\, 703 - Laranjeiras\, Caieiras - SP\, 07744-025\
+ , Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:(retorno) Juliana Sp AGATEC INDUSTRIA COMERCIO E MANUTENÇÃO EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190712T173000Z
+DTEND:20190712T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:4pq2cfb6jb93dl1t3i4bpjmmor@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+CREATED:20190711T204345Z
+DESCRIPTION:Empresa: Ampliathos Ferramentas Eireli \nCnpj: 155290780001-75\
+ nTel: 3995-0970\nResponsável: Silvana \nConsultor: Ricardo
+LAST-MODIFIED:20190712T133329Z
+LOCATION:R. Aulivieri Bozzato\, 760 - Lot. Industrial Coral\, Mauá - SP\, 0
+ 9372-010\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Ricardo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190715T110000Z
+DTEND:20190715T120000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:4ibq188aj3tmp8ks02r8j3e2ii@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190711T201906Z
+DESCRIPTION:Malfati Contabilidade\nResponsável: Reginaldo \nTel: 3903-1113\
+ nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190712T133339Z
+LOCATION:Av. Agenor Couto de Magalhães\, 195 - Jardim Regina\, São Paulo - 
+ SP\, 02675-031\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190715T130000Z
+DTEND:20190715T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:0518b3h2sn8p6ub4ks9obdpppl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianavillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190711T200904Z
+DESCRIPTION:Conforme contato telefônico realizado dia 11/07\, ficou agendad
+ o com DR MILTON no escritório dele para a entrega do parecer da empresa CLU
+ BE DE CAMPO ASSOCIAÇÃO ATLÉTICA GUAPIRA e apresentação do Plano de Recupera
+ ção Fiscal.\n\nTelefone: DR MILTON (11)99941-5352\n\nCNPJ - 52.161.825/0001
+ -91\n\nDÍVIDA 12.462.437\,14
+LAST-MODIFIED:20190712T133342Z
+LOCATION:Av Jaçanã\, 707 - Sala 08 - Jaçanã - SP 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JULIANA SP CLUBE DE CAMPO ASSOCIAÇÃO ATLÉTICA GUAPIRA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T140000Z
+DTEND:20190717T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:2i1adh5epoqdklimrgg1vfbuso@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ sana@voxgrafica.com.br;X-NUM-GUESTS=0:mailto:rosana@voxgrafica.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190715T123854Z
+DESCRIPTION:Empresa: Vox Editora Eireli\nCnpj: 592223070001-80\nTel: 3871-7
+ 300\nResponsável: Rosana \nConsultor: Marcelo 
+LAST-MODIFIED:20190715T132840Z
+LOCATION:R. Castro Alves\, 1012 - Aclimação\, São Paulo - SP\, 01532-000\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCELO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T170000Z
+DTEND:20190717T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7l8pd5b9t3b2mcte63oj5ob1sq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ cqueline.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190715T184447Z
+DESCRIPTION:Empresa: HEZOLINEM EQUIP TOP E COM DE SERV E DESENVOLVIMENTO LT
+ D\nCnpj: 50.279.942/0001-29\nTel: 113868-0820\nResponsável: Maria Luiza \nC
+ onsultor: Marcelo 
+LAST-MODIFIED:20190716T122329Z
+LOCATION:Av. Paulo VI\, 184 - Sumaré\, São Paulo - SP\, 01262-010\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCELO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190716T170000Z
+DTEND:20190716T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:043ijqa90gn50aok5h2hgrec6g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190716T144708Z
+DESCRIPTION:\nEMPRESA: ANÁLISE FINAL PESQUISA E ASSESSORIA DE MARKETING LTD
+ A\nCNPJ: 01.163.217/0001-85\n\nOBS: cliente já esteve em nosso escritório
+LAST-MODIFIED:20190716T144856Z
+LOCATION:Av. Viêira de Carvalho\, 40 - República\, São Paulo - SP\, 01210-0
+ 10\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190718T170000Z
+DTEND:20190718T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:54i1qiao3sdrvsna8ttrnjedar@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+CREATED:20190716T151035Z
+DESCRIPTION:Reunião com Dr Ivan (((advogado da empresa SALGUEIRO INDÚSTRIA 
+ E COMÉRCIO DE AÇO // CNPJ 62490255/000137)))... estive na empresa em 18/6\,
+  conversei com Gislaine (filha do propr)
+LAST-MODIFIED:20190716T165357Z
+LOCATION:R. Leopoldo Couto de Magalhães Júnior\, 110 - Itaim Bibi\, São Pau
+ lo - SP\, 04542-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/Mauricio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190719T130000Z
+DTEND:20190719T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:15vd16rd27pejluit82d2311jt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianavillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=do
+ nizete@fibertectelecom.com.br;X-NUM-GUESTS=0:mailto:donizete@fibertecteleco
+ m.com.br
+CREATED:20190711T200258Z
+DESCRIPTION:Empresa: FIBERTEC TELECOMUNICACOES E COMERCIO LTDA\nCnpj: 03.56
+ 0.952/0001-58\nTel: 3935-5168\nResponsável: Donizete Pereira \nConsultora: 
+ Juliana Guedes \n\nOBS: Retorno com senhor Donizete!!\nReunião aqui no escr
+ itório as 10 horas.
+LAST-MODIFIED:20190716T172427Z
+LOCATION:Rua Precilia Rodrigues\, 143 - Piqueri\, São Paulo - SP\, 02914-01
+ 0\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Juliana Guedes 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190719T173000Z
+DTEND:20190719T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:3drk4i9pa6ku82c18dt0utvmjv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marian
+ evillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+CREATED:20190716T140830Z
+DESCRIPTION:Conforme contato telefônico realizado 16/07\, ficou agendado co
+ m SR FRANCISCO do setor Fiscal para a entrega do Parecer e apresentação do 
+ Plano de Recuperação Fiscal.\n\nNome Fantasia Fulpel Group BioCopo\n\nPropr
+ ietária- Gabrielle Dos Santos Silva\n\nTelefone:  (11) 4138-9300/ (11) 4138
+ -9315\n\nCNPJ - 09.078.522/0001-80\n\nValor da dívida - R$ 12.379.037\,23\n
+ \n* Consultar CNPJ 43.816.552/0001-85\, consta no mesmo endereço
+LAST-MODIFIED:20190716T172734Z
+LOCATION:R. Guilherme de Almeida\, 187 - Jardim Saint Moritz\, Taboão da Se
+ rra - SP\, 06787-440\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PEDRO SP Flog Indústria e Comercio de Embalagens Ltda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190718T140000Z
+DTEND:20190718T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:57238m5jbcanqbjgp30hvbg9el@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pe
+ drovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190715T124154Z
+DESCRIPTION:Empresa: SIG BEVERAGES BRASIL LTDA\nCnpj: 57.866.238/0001-11\nT
+ el: (11) 3028-6744\n\nFalar com Sr Julio !
+LAST-MODIFIED:20190716T182255Z
+LOCATION:VILA OLIMPIA FUNCHAL 418 EDIF: E-TOWER\; ANDAR: 14\; SALA: 01\;
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PEDRO- SIG BEVERAGES 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190717T170000Z
+DTEND:20190717T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:06ve9b7l7edk5p52dphf5dbpcv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190717T121012Z
+DESCRIPTION:Empresa: Soldier Blindados \nCnpj: 06335677/0001-67\nTel: 4702-
+ 5772\nResponsável: Brasil Camargo \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190717T122839Z
+LOCATION:Estrada do Embú\, 1853 - Cemucam\, Cotia - SP\, 06713-100\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCO AURÉLIO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190724T120000Z
+DTEND:20190724T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alinevillelabrasil@gmail.com:mailto:alinevillelabrasil@gmail.c
+ om
+UID:48gjhljf27pq0a8r0g6anq9hti@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ lianavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianavillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marianevillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190712T121411Z
+DESCRIPTION:Conforme contato telefônico realizado dia 12/07\, ficou agendad
+ o com Sr Valter para a entrega do Parecer da empresa.\n\nTelefone: (11)3872
+ -0266\n\nCNPJ- 00.824.989/0001-58\n\nDÍVIDA R$ 6.517.739\,93
+LAST-MODIFIED:20190717T195602Z
+LOCATION:Rua Sebastião Bach\, 59 - Vila Leopoldina\, São Paulo - SP\, 05304
+ -020\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(retorno)JULIANA SP V S B IMPERMEABILIZAÇÕES EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190719T170000Z
+DTEND:20190719T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1eo5tluf4ldr9dp3egs8skivnl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190719T143927Z
+DESCRIPTION:Empresa: VCR Reparos \nCnpj: 03.439.252./0001-00\nTel: 3672-758
+ 2\nResponsável: Maria Helena \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190719T175634Z
+LOCATION:Av. Corifeu de Azevedo Marques\, 152 - Butantã\, São Paulo - SP\, 
+ 05576-100\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCO AURÉLIO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190722T130000Z
+DTEND:20190722T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=Lydia Consultora - SP:mailto:hp0vs4u5a2jvisf7gh18kvj1e0@group.
+ calendar.google.com
+UID:59k1dbr312ipg88q1tk3ombh2o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+CREATED:20190717T122215Z
+DESCRIPTION:Empresa: ST MODAS \nCnpj: 02436714/0001-37\nTel: 3329-3433\nRes
+ ponsável: Fause 
+LAST-MODIFIED:20190724T130023Z
+LOCATION:R. Guamiranga\, 1530 - Vila Independencia\, São Paulo - SP\, 04220
+ -020\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ LYDIA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190722T170000Z
+DTEND:20190722T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=Lydia Consultora - SP:mailto:hp0vs4u5a2jvisf7gh18kvj1e0@group.
+ calendar.google.com
+UID:3p8o0p6qegas1usqgn7lap1h0n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190718T205743Z
+DESCRIPTION:Empresa: Promaler Indústria e Comércio de Máquinas\nCnpj: 04.63
+ 2.034/0001-50\nTel: 3922-2104\nResponsável: Eliane Financeiro \nConsultor: 
+ Marco Aurélio 
+LAST-MODIFIED:20190724T130030Z
+LOCATION:Rua Joaquim José Fioravante\, 11 - Vila Rosina\, Caieiras - SP\, 0
+ 7749-105\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCO AURÉLIO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190722T173000Z
+DTEND:20190722T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=Paula Consultora - SP:mailto:6mij61eil67ur53mr6guj64dts@group.
+ calendar.google.com
+UID:4hmhb7jqs1t2ue9b43ihd0ht3h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+CREATED:20190716T174830Z
+DESCRIPTION:Empresa: FENIX MERCANTIL IMPORTADORA E EXPORTADORA LTDA.\nCnpj:
+  43.770.965/0001-76\nTel: 2946-3855 Ramal 235\nResponsável: Suzete/ Contado
+ ra \nConsultora: Paula 
+LAST-MODIFIED:20190724T130106Z
+LOCATION:Av. Nossa Sra. da Encarnação\, 445 - Jardim Maria Estela\, São Pau
+ lo - SP\, 04180-081\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião/ PAULA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190724T173000Z
+DTEND:20190724T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0hnc1k97hh9m1e2dtk8c1n0rin@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T143727Z
+DESCRIPTION:Empresa: EBR Empresa brasileira de revistas limitadas \nCnpj: 0
+ 7.221.257/0001-12\nResponsável: Claudia \nConsultor: Marco Aurélio 
+LAST-MODIFIED:20190724T144930Z
+LOCATION:R. Osasco\, 783 - Guaturinho\, Cajamar - SP\, 07750-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ MARCO AURÉLIO 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190724T130000Z
+DTEND:20190724T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:r6afk1gst0e3bd2qouasmiu0dg@group.calendar.google.com
+UID:38mtpphcfdgnc2vqraopm7npu1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+CREATED:20190723T202521Z
+DESCRIPTION:Empresa: Escala empresa de comunicação integrada Ltda \nCnpj: 0
+ 3.638.463./0001-71\nTel: 3855-2100\nResponsável: Claudia Santos \nclaudiasa
+ ntos@escala.com.br
+LAST-MODIFIED:20190724T194029Z
+LOCATION:Av. Profa. Ida Kolb\, 551 - Jardim das Laranjeiras\, São Paulo - S
+ P\, 02518-050\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO- ESCALA-JD LARANJEIRAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190725T120000Z
+DTEND:20190725T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:r6afk1gst0e3bd2qouasmiu0dg@group.calendar.google.com
+UID:0oqog53qmiv9m0u6nt2dpb1dlq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+CREATED:20190722T192108Z
+DESCRIPTION:Empresa: LUMOLD INDUSTRIA E COMERCIO DE MOLDES E PLASTICOS LTDA
+ \nCnpj: 53.122.891/0001-15\nTel: 99938-0018\nResponsável: Vivian/ Filha do 
+ dono 
+LAST-MODIFIED:20190724T194129Z
+LOCATION:R. Antônio de Barros\, 838 - Parque Sao Roberto II\, Cajamar - SP\
+ , 07750-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MARCO - LUMOLD - CAJAMAR
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190724T150000Z
+DTEND:20190724T160000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER:mailto:r6afk1gst0e3bd2qouasmiu0dg@group.calendar.google.com
+UID:0u40qlpsm7ci8rinucff7utvbc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190724T143137Z
+DESCRIPTION:Empresa: Edições escala educacional limitada \nCnpj: 03.759.341
+ /0001-33\nResponsável: Alan \nconsultor: Marco Aurélio 
+LAST-MODIFIED:20190724T194249Z
+LOCATION:Av. Profa. Ida Kolb\, 551 - Jardim das Laranjeiras\, São Paulo - S
+ P\, 02518-050\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO - EDIÇÕES - JD LARANJEIRAS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190708T120000Z
+DTEND:20190708T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=villelabrasilsp@gmail.com:mailto:villelabrasilsp@gmail.com
+UID:2aj5qe15k53jlh9g2q3d2f85f6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fe
+ rnandolugani.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:fernandoluganivi
+ llelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rianevillelabrasil@gmail.com.br;X-NUM-GUESTS=0:mailto:marianevillelabrasil@
+ gmail.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=villel
+ abrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+CREATED:20190705T135717Z
+DESCRIPTION:Empresa: 4A COMERCIAL ELETRICA LTDA\nCnpj: 00.495.593/0001-04\n
+ Tel: 3429-0900
+LAST-MODIFIED:20190727T135326Z
+LOCATION:R. Padre João Álvares\, 588 - Jardim Vila Galvao\, Guarulhos - SP\
+ , 07056-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FERNANDO- 4A COMERCIAL ELÉTRICA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190801T130000Z
+DTEND:20190801T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:70sm4dj360rm2b9hc8sj6b9kcgp3abb16gom4b9i6gs34cr460r66cj164@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ ysson Garcia;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Re
+ nata Thomaz;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ uricio Bendl;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+CREATED:20190722T141253Z
+DESCRIPTION:Empresa FCB FOOD\n\n\nTel: (11) 2918-6267 \n\nCNPJ 03.510.370/0
+ 001-67\nDívida R$ 9.415.332\,13\n\nVisitei a empresa mês passado (conversei
+  com Caio/Financeiro)\, agora o proprietário deseja conhecer nosso escritór
+ io.
+LAST-MODIFIED:20190731T175555Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/Alysson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190808T180000Z
+DTEND:20190808T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:5vg9gpncbd0u13a39p6bdikjcr@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190801T131428Z
+DESCRIPTION:PROTECNICA PAULISTA LTDA - Av. Angélica\, 352 - Santa Cecilia\n
+ (11) 3824-3930\n\nCNPJ 60.704.335/0001-12\nDívida R$ 6.846.660\,15 \n\nOBS:
+  a reunião será com a Dra Elaine (advogada) que fica na sede da faculdade (
+ outro endereço)
+LAST-MODIFIED:20190801T131431Z
+LOCATION:R. Brg. Galvão\, 540 - Barra Funda\, São Paulo - SP\, 01154-000\, 
+ Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula - Alysson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190809T130000Z
+DTEND:20190809T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:5t2vmnc74cc90nm2qgsj6do520@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190723T180923Z
+DESCRIPTION:Via Contabilidade\n\nCNPJ 08.726.431/0001-41\n\nObs: Antonio (p
+ ropr) já indicou uma empresa\, quer fechar a parceria e conversar sobre a d
+ ívida do seu escritório.
+LAST-MODIFIED:20190801T144335Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Paula/Alysson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T193000Z
+DTEND:20190909T203000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paulavillelabrasil@gmail.com:mailto:paulavillelabrasil@gmail.c
+ om
+UID:0972ntipnimfhfjmm7t6kja5q7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20190903T140327Z
+DESCRIPTION:Empresa: EMPRESA JORNALISTICA E EDITORIAL NOVA ALIANCA SS LTDA\
+ nCnpj: 66.656.174/0001-15\nTel: (11) 4651-5097\nResponsável: Sr Nelson (pro
+ prietário)\n\nOBS: estive lá em 14/08\, será a segunda reunião
+LAST-MODIFIED:20190906T150622Z
+LOCATION:R. Zeferino Barbosa de Souza\, 194 - Jardim Renata\, Arujá - SP\, 
+ 07432-575\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Paula - reunião
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T120000Z
+DTEND:20191018T130000Z
+DTSTAMP:20211014T133019Z
+UID:3i1opm3fcrrg0s3vp1lp4r6u60@google.com
+CREATED:20191017T143508Z
+DESCRIPTION:Empresa: FACCHINI & SERRANO EMPREITEIRA LTDA\nCnpj: 65.646.267/
+ 0001-04\nTel: 11984792730\nResponsável: EDUARDO FACCHINI SERRANO\n\nOBS: En
+ trei em contato com Eduardo Facchini\, ele não tem mais a empresa em Santan
+ a de Parnaiba\, mas tem interesse em pagar esta divida para n criar problem
+ as futuramente\, porém gostaria que a reunião fosse feita em campinas.\nEnt
+ rei em contato com Douglas (Diretor de Campinas) e o mesmo passou a reunião
+  para o consultor Alexandre. 
+LAST-MODIFIED:20191017T143508Z
+LOCATION:Villela Brasil - Unidade Campinas\, Ed. Sant's - Av. Antônio Artio
+ li\, 570 - Sala 09 - Swiss Park\, Campinas - SP\, 13061-155\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALEXANDRE-(CAMPINAS) FACCHINI & SERRANO EMPREITEIRA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191209T123000Z
+DTEND:20191209T133000Z
+DTSTAMP:20211014T133019Z
+UID:4eddhlpekaua0d9tk8mp9rlmhs@google.com
+CREATED:20191203T201603Z
+DESCRIPTION:Empresa: M & M ENGENHARIA ARQUITETURA E PAISAGISMO LTDA\nCnpj: 
+ 96497011000106\nTel: 11-99339-5900\nResponsável: CARLOS AUGUSTO MENEZES\n\n
+ Obs: Vou ligar para seu Carlos amanha e pedir o endereço que não achei. \n\
+ nAtt\, Paola Felipeto. 
+LAST-MODIFIED:20191203T201615Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARCO-M & M ENGENHARIA ARQUITETURA E PAISAGISMO LTDA-SANTANADPARNAI
+ BA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190626T193000Z
+DTEND:20190626T203000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=julianaalves.villelabrasil@gmail.com:mailto:julianaalves.ville
+ labrasil@gmail.com
+UID:6ck7fm93ogsgacaru8eb61kmfg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ve
+ ndas@brasprint.com.br;X-NUM-GUESTS=0:mailto:vendas@brasprint.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=julian
+ aalves.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:julianaalves.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcoaurelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.ville
+ labrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ llelabrasilsp@gmail.com;X-NUM-GUESTS=0:mailto:villelabrasilsp@gmail.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/anVsaWFuYW
+ FsdmVzLnZpbGxlbGFicmFzaWxAZ21haWwuY29t.6ck7fm93ogsgacaru8eb61kmfg
+CREATED:20200427T145737Z
+DESCRIPTION:Empresa: BRASPRINT ARTES GRAFICAS EIRELI\nCnpj: 59.231.639/0001
+ -20\nTel:  (11) 4447-4733\nResponsável: Deise \nConsultor: Marco Aurélio\n 
+  \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem um
+ a videochamada do Google Hangouts.\nParticipar: https://hangouts.google.com
+ /hangouts/_/calendar/anVsaWFuYWFsdmVzLnZpbGxlbGFicmFzaWxAZ21haWwuY29t.6ck7f
+ m93ogsgacaru8eb61kmfg?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200427T145738Z
+LOCATION:Av. Arnaldo Rojek\, 144 - Jardim Penteado\, Cajamar - SP\, 07750-0
+ 00\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião/ Marco Aurélio 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200114T180000Z
+DTEND:20200114T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:7nhv8hur6vudct681seh2s409q@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+CREATED:20191213T132734Z
+DESCRIPTION:Empresa: Pro-Estamp Ph Sc Ferramentas industriais ltda \nCnpj: 
+ 00.250.397/0001-70\nTel:11-95551-5500\nResponsável: Cristiano \n\nObs: Reun
+ ião marcada para nosso diretor Ricardo. \n\nAtt\, Paola Felipeto. 
+LAST-MODIFIED:20191213T185016Z
+LOCATION:R. João Elías Calache\, 33 - Jardim Santo Antoninho\, São Paulo - 
+ SP\, 04368-090\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RICARDO DIRETOR-PROESTAMP PH SC FERRAMENTAS INDUS LTDA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200205T113000Z
+DTEND:20200205T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=jacqueline.villelabrasil@gmail.com:mailto:jacqueline.villelabr
+ asil@gmail.com
+UID:0hl5770pb60crop5m4um5gaeb9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=angeli
+ cavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:angelicavillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ yssondrg@gmail.com;X-NUM-GUESTS=0:mailto:alyssondrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alinev
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alinevillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ uriciobendl@gmail.com;X-NUM-GUESTS=0:mailto:mauriciobendl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jacque
+ line.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jacqueline.villelabrasil
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ tavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ritavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ureen.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:laureen.villelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrov
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:pedrovillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ yce.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:joyce.villelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelopisavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelopisavillelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paulav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paulavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=valter
+ villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:valtervillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcoa
+ urelio.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcoaurelio.villelabr
+ asil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ cardorvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ly
+ diavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:lydiavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ imevillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:jaimevillelabrasil@gmail.c
+ om
+CREATED:20200128T193710Z
+DESCRIPTION:Teremos uma reunião com nosso presidente Renan Villela aqui no 
+ escritório\, fico no aguardo de todos vocês. 
+LAST-MODIFIED:20200129T113425Z
+LOCATION:Av. Paulista\, 1776 - Bela Vista\, São Paulo - SP\, 01310-200\, Br
+ asil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO COM O RENAN VILLELA 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200211T130000Z
+DTEND:20200211T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1o6sk96j61t873dp3t1jaso4pu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rs
+ ampaio.souza@gmail.com;X-NUM-GUESTS=0:mailto:rsampaio.souza@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dd
+ elano29@gmail.com;X-NUM-GUESTS=0:mailto:ddelano29@gmail.com
+CREATED:20200203T130904Z
+DESCRIPTION:Empresa: GUITER ENGENHARIA E CONSTRUÇÃO EIRELI\nCnpj: 092659480
+ 00143\nTel: 019-3253-3233 // 019-8122-3614\nResponsável: Sr Rosângela \nDiv
+ ida:  545.345\,90\n\n\n\nObs: Cliente informou que a empresa esta localizad
+ a em Mairiporã\, porém o escritório do mesmo se localiza em campinas. \nCon
+ forme conversado com diretor Ricardo\, fui orientada a agendar para o diret
+ or Douglas Lima. \n\nAtt\, Paola Felipeto.
+LAST-MODIFIED:20200206T143225Z
+LOCATION:R. Rev. Paulo Lício Rizzo\, 61 - Jardim Margarida\, Campinas - SP\
+ , 13090-340\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DOUGLASCAMPINAS-GUITER ENGENHARIA E CONSTRUCAO EIRELI-CAMPINAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200703
+DTEND;VALUE=DATE:20200704
+DTSTAMP:20211014T133019Z
+UID:74rmrfd9rf3sca21jsmgp6kcnt@google.com
+CREATED:20200702T203238Z
+DESCRIPTION:
+LAST-MODIFIED:20200702T203238Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200706
+DTEND;VALUE=DATE:20200707
+DTSTAMP:20211014T133019Z
+UID:661j4ng5t547ademt9rsmsfn27@google.com
+CREATED:20200702T204738Z
+DESCRIPTION:
+LAST-MODIFIED:20200702T204738Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200629
+DTEND;VALUE=DATE:20200630
+DTSTAMP:20211014T133019Z
+UID:66ko1coniqn5qmfqtg6b6hq2ha@google.com
+CREATED:20200626T135224Z
+DESCRIPTION:
+LAST-MODIFIED:20200702T213152Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA (ANDRÉA) 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200707
+DTEND;VALUE=DATE:20200708
+DTSTAMP:20211014T133019Z
+UID:634c2slm0nflqr7js8p5bvp922@google.com
+CREATED:20200703T182928Z
+DESCRIPTION:
+LAST-MODIFIED:20200703T182928Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA// ASSIS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200708
+DTEND;VALUE=DATE:20200709
+DTSTAMP:20211014T133019Z
+UID:19tmmn4t3kk9g09jmiej50jv2b@google.com
+CREATED:20200706T180002Z
+DESCRIPTION:
+LAST-MODIFIED:20200706T180002Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200713
+DTEND;VALUE=DATE:20200714
+DTSTAMP:20211014T133019Z
+UID:6q3nadtn44s9i4csf2tmesamge@google.com
+CREATED:20200709T140905Z
+DESCRIPTION:
+LAST-MODIFIED:20200709T140906Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200714
+DTEND;VALUE=DATE:20200715
+DTSTAMP:20211014T133019Z
+UID:7mltamlkaf2hht64962nsvlvtv@google.com
+CREATED:20200710T195654Z
+DESCRIPTION:
+LAST-MODIFIED:20200710T195654Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200715
+DTEND;VALUE=DATE:20200716
+DTSTAMP:20211014T133019Z
+UID:1qn1457ms5nvjnu7l2v5auvmjl@google.com
+CREATED:20200714T195959Z
+DESCRIPTION:
+LAST-MODIFIED:20200714T195959Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200716
+DTEND;VALUE=DATE:20200717
+DTSTAMP:20211014T133019Z
+UID:0ko0dqtj3lt2p51do8m6j3b16a@google.com
+CREATED:20200715T193227Z
+DESCRIPTION:
+LAST-MODIFIED:20200715T193227Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MARÍLIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200720
+DTEND;VALUE=DATE:20200721
+DTSTAMP:20211014T133019Z
+UID:3dablf2kgmmhdisni6mk5htj3m@google.com
+CREATED:20200717T140156Z
+DESCRIPTION:
+LAST-MODIFIED:20200717T140156Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:São Manuel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200728
+DTEND;VALUE=DATE:20200729
+DTSTAMP:20211014T133019Z
+UID:0q6r9kmr62dk72ani3q1ss1v3l@google.com
+CREATED:20200727T185825Z
+DESCRIPTION:
+LAST-MODIFIED:20200727T185825Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SÃO MANUEL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200730
+DTEND;VALUE=DATE:20200731
+DTSTAMP:20211014T133019Z
+UID:7bk1fedlu2bl56p754l1t56vm3@google.com
+CREATED:20200728T145019Z
+DESCRIPTION:
+LAST-MODIFIED:20200728T145019Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SÃO MANUEL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200806
+DTEND;VALUE=DATE:20200807
+DTSTAMP:20211014T133019Z
+UID:0jjrq2i5riiop2k0543ono9iqd@google.com
+CREATED:20200804T193618Z
+DESCRIPTION:
+LAST-MODIFIED:20200804T193618Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BOTUCATU
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200807
+DTEND;VALUE=DATE:20200808
+DTSTAMP:20211014T133019Z
+UID:2u6cd78de7mhok1fkc7d5skgp0@google.com
+CREATED:20200805T145616Z
+DESCRIPTION:
+LAST-MODIFIED:20200805T145633Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BOTUCATU
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200811
+DTEND;VALUE=DATE:20200812
+DTSTAMP:20211014T133019Z
+UID:122g6goj5a76iq8d02n9r22aii@google.com
+CREATED:20200806T202024Z
+DESCRIPTION:
+LAST-MODIFIED:20200806T202024Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BAURU/ AGUDOS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200810
+DTEND;VALUE=DATE:20200811
+DTSTAMP:20211014T133019Z
+UID:6dodtchrsb66i3ps4es116dljb@google.com
+CREATED:20200806T202750Z
+DESCRIPTION:
+LAST-MODIFIED:20200806T202750Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BOTUCATU
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200826
+DTEND;VALUE=DATE:20200827
+DTSTAMP:20211014T133019Z
+UID:49p0klmq8apgd3jb4js0dntqcc@google.com
+CREATED:20200824T180353Z
+DESCRIPTION:
+LAST-MODIFIED:20200824T180353Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lençóis 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200827
+DTEND;VALUE=DATE:20200828
+DTSTAMP:20211014T133019Z
+UID:45m4u8atr69i6815s2m1k9s5s7@google.com
+CREATED:20200826T191349Z
+DESCRIPTION:
+LAST-MODIFIED:20200826T191349Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lençóis 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201014
+DTEND;VALUE=DATE:20201015
+DTSTAMP:20211014T133019Z
+UID:25eui9umfa3m1itib57aiecnif@google.com
+CREATED:20201009T133752Z
+DESCRIPTION:
+LAST-MODIFIED:20201009T133752Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CERQUEIRA CESAR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210312T180000Z
+DTEND:20210312T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:73d26jrslmuu2eka5cjhfpj2pn@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20210311T155401Z
+DESCRIPTION:<b>07.511.954/0001-08</b>&nbsp\;<br>Bete\, adv\, contadora\n\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma vide
+ ochamada.\nParticipar: https://meet.google.com/typ-btrt-xma\n-::~:~::~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210311T173041Z
+LOCATION:Rua Flórida Paulista\, 173\, vila nina rosa\, Ribeirão Pires - SP\
+ , 09403-250\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:presencial. GMT .BETE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210329T130000Z
+DTEND:20210329T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:5l23tkkn4je1b444i0ehel716b@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+CREATED:20210325T132604Z
+DESCRIPTION:contrato\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\
+ nEste evento tem uma videochamada.\nParticipar: https://meet.google.com/kpq
+ -sfxr-aoe\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210325T132605Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rocca Industria E Comercio Joel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210329T140000Z
+DTEND:20210329T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:2o3489vf7vf71vf2vtaruaqrkv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20210322T185320Z
+DESCRIPTION:<p><b>29/03 contrato</b></p><p><b>23/03. Reunião com contadores
+  e advogada.</b></p><p><b>Nome Empresarial:</b></p><p>GMT CONFECCAO ECOMERC
+ IO DE UNIFORME INDUSTRIAL E EQUIPAMENTO DE SEGURANCA LTDA</p><p><b>Nome Fan
+ tasia:</b></p><p>GMT</p><p><b>CNPJ:</b></p><p>07.511.954/0001-08</p><p><b>D
+ omicílio doDevedor:</b></p><p>RIBEIRAO PIRES</p><p><b>AtividadeEconômica:</
+ b></p><p>Confec. peçasvest.\,exc. roupas íntimas e confec. sob medida</p><p
+ ><b>Valor Total dadívida:</b></p><p>R$ 439.027\,56</p>\n\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão
+  edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nParti
+ cipar: https://meet.google.com/tmj-csjm-yrb\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210325T133822Z
+LOCATION:zoom
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:GTM. BETE/LETICIA/TATIANA TIBERIO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210426T113000Z
+DTEND:20210426T123000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:1b3b56ko1hvtck593uugq3n3nu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20210405T185025Z
+DESCRIPTION:\n08/04 cliente disse não ter tempo\n06/04 - cliente pediu para
+  reagendar pq está cumprindo a falta dos funcionários.\n\nNome Empresarial:
+ \nDONBOR ARTEFATOS DE BORRACHA LTDA\n\nCNPJ:\n17.450.572/0001-75\n\nDomicíl
+ io do Devedor:\nDIADEMA\n\nAtividade Econômica:\nFabricação artefatos de bo
+ rracha não especif. anteriormente\n\nValor Total da dívida:\nR$ 2.063.188\,
+ 75\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem u
+ ma videochamada.\nParticipar: https://meet.google.com/mtw-hcdh-eqy\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20210408T115011Z
+LOCATION:zoom
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:RICARDO. DANBOR. Daniel 11 99989-1103
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210416T170000Z
+DTEND:20210416T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:16jltsoukdg55bvobnh007e4c1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+CREATED:20210413T173457Z
+DESCRIPTION:indicação de parceiro\nReunião com contadoras e advogada\nNome 
+ Empresarial:\nI.V.L PRESTACAO DE SERVICOS EM GERAL LTDA\n\nCNPJ:\n65.704.32
+ 2/0001-67\n\nDomicílio do Devedor:\nCOTIA\n\nAtividade Econômica:\nLocação 
+ de mão-de-obra temporária\n\nValor Total da dívida:\nR$ 864.739\,34\n\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videoch
+ amada.\nParticipar: https://meet.google.com/pfi-copo-gqm\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210413T175350Z
+LOCATION:R. Afonso Zampol\, 94 - Centro\, Ribeirão Pires - SP\, 09400-050\,
+  Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ROBLES. IVL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210419T130000Z
+DTEND:20210419T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:2ajnhvls51ehaeu73vetcqklo6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=fabiob
+ anhosvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:fabiobanhosvillelabrasil
+ @gmail.com
+CREATED:20210414T134446Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/zag-yhfb-jah\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20210415T140110Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fabio. ABID PUBLICIDADE E PROPAGANDA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210415T210000Z
+DTEND:20210415T220000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:6l6ptiu9l2sdvf66apa0dpt5et@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fa
+ biobanhosvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:fabiobanhosvillelabr
+ asil@gmail.com
+CREATED:20210415T194117Z
+DESCRIPTION:\n\nNome Empresarial:\nSUPER LANCHONETE SARAMANDAIA LTDA\n\nCNP
+ J:\n48.140.289/0001-70\n\nDomicílio do Devedor:\nSANTO ANDRE\n\nAtividade E
+ conômica:\nLanchonetes\, casas de chá\, de sucos e similares\n\nValor Total
+  da dívida:\nR$ 164.667\,98\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descri
+ ção.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.google.
+ com/egw-gepz-ecs\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210415T194153Z
+LOCATION:zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:fabio. sa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210421
+DTEND;VALUE=DATE:20210422
+DTSTAMP:20211014T133019Z
+UID:1u1nbb0fsd0q8ogqbrqmkd405m@google.com
+CREATED:20210419T131801Z
+DESCRIPTION:
+LAST-MODIFIED:20210419T131801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Feriado
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210428T130000Z
+DTEND:20210428T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0c6fr5slnkr5pc7ocfhtv2ic5p@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+CREATED:20210426T152525Z
+DESCRIPTION:20.818.413/0001-95\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da des
+ crição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.goog
+ le.com/twa-csuo-twj\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210427T120837Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:fabio. zoom. 8 bits tecnologia.Edinei
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210428T180000Z
+DTEND:20210428T190000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:0kvkrl8ho2j2a62m2qefdq68uo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=paolav
+ illelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+CREATED:20210426T152655Z
+DESCRIPTION:\n\n10.775.891/0001-01\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da
+  descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.
+ google.com/cxu-zcat-ryv\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210427T120853Z
+LOCATION:Rua Dr. Siqueira\, 43\, Vl Helena\, santo andré/sp
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:fabio. presencial. M.H.A. dos ramos. Marcio
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210428T170000Z
+DTEND:20210428T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=paolavillelabrasil@gmail.com:mailto:paolavillelabrasil@gmail.c
+ om
+UID:1i1b8urlqshkc57vkik1sfu7g8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pr
+ iscilapalmavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:priscilapalmaville
+ labrasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20210427T174309Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento
+  tem uma videochamada.\nParticipar: https://meet.google.com/yhs-szrx-qik\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20210427T174543Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Priscila. zoom. SF. Fabio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210507T130000Z
+DTEND:20210507T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=ricardorvillelabrasil@gmail.com:mailto:ricardorvillelabrasil@g
+ mail.com
+UID:0qmjfvfmg4e607q0ok9ne6qo7k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=br
+ unadyas2015@gmail.com;X-NUM-GUESTS=0:mailto:brunadyas2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ricard
+ orvillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:ricardorvillelabrasil@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ olavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:paolavillelabrasil@gmail.c
+ om
+CREATED:20210318T191943Z
+DESCRIPTION:ligar antes\n26/03 fazer contato\nreagendar\n23/03 cliente esta
+ va em um velório...\nNome Empresarial:\nPADRAO EVOLUCAO EMPREENDIMENTOS E C
+ ONSTRUCAO LTDA\n\nCNPJ:\n13.918.924/0001-13\n\nDomicílio do Devedor:\nRIBEI
+ RAO PIRES\n\nAtividade Econômica:\nConstrução de edifícios\n\nValor Total d
+ a dívida:\nR$ 531.798\,5\nJones cel 94266-3264\n\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite e
+ sta seção da descrição.\n\nEste evento tem uma videochamada.\nParticipar: h
+ ttps://meet.google.com/mxj-rkxc-hac\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210504T212012Z
+LOCATION:zoom
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:PADRAO EVOLUCAO 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

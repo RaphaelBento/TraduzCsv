@@ -1,0 +1,430 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alessandro Mela 
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20200903T130000Z
+DTEND:20200903T140000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:62l782qvfjm05851li8dc33jla@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200901T165632Z
+DESCRIPTION:\n\nNome Empresarial:\nHASA ADMINISTRACOES E PARTICIPACOES LTDA
+ \n\nCNPJ:\n57.378.135/0001-02\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtivid
+ ade Econômica:\nHoldings de instituições não-financeiras\n\nValor Total da 
+ dívida:\nR$ 888.972\,53\n\ncontato Antonia 11 99656 6144\n\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nN
+ ão edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nPar
+ ticipar: https://meet.google.com/uxa-zhkx-xhh\n-::~:~::~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200901T165632Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Alessandro-presencial Taubaté-HASA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200908T140000Z
+DTEND:20200908T150000Z
+DTSTAMP:20211014T133019Z
+UID:2lfbcem47vrrh4kf74k2mc4sgh@google.com
+CREATED:20200901T172854Z
+DESCRIPTION:\n\nNome Empresarial:\nCONSTRUTORA VARCA SCATENA LTDA\n\nCNPJ:\
+ n47.232.970/0001-86\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtividade Econôm
+ ica:\nConstrução de edifícios\n\nValor Total da dívida:\nR$ 36.917.027\,95\
+ n\nContato:\nscatena@cvssa.com.br\n11 99981-6482\n\nResponsável:\nWILLIAM C
+ ESAR SCATENA\n\nZOOM MEETING
+LAST-MODIFIED:20200902T134706Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- CONSTRUTORA VARCA SCATENA LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200910T190000Z
+DTEND:20200910T200000Z
+DTSTAMP:20211014T133019Z
+UID:2scanm37eq8tftcg73bablk9h2@google.com
+CREATED:20200910T142440Z
+DESCRIPTION:\n\nNome Empresarial:\nAVODA DESIGN INDUSTRIAL EIRELI\n\nCNPJ:\
+ n23.440.428/0001-50\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtividade Econôm
+ ica:\nDesign de produto\n\nValor Total da dívida:\nR$ 847.121\,31\n\nContat
+ o:\n11 98244-1827\n\nResponsável:\nRoberto Lang \n\nZOOM MEETING.\n\nFALAR 
+ COM ROBERTO ESPOSO DA SÓCIA BARBARA HELENA DE CARVALHO ELMOR\n\n-----------
+ ---------------------------------------------------------------------------
+ ----\n\n\n\nNome Empresarial:\nVESTES CRIACAO EIRELI\n\nCNPJ:\n03.828.813/0
+ 001-62\n\nDomicílio do Devedor:\nITAPEVI\n\nAtividade Econômica:\nComércio 
+ atac. roupas e acess. uso profissional e segurança.\n\nValor Total da dívid
+ a:\nR$ 8.540.520\,16\n\nResponsável:\nRoberto Lang   
+LAST-MODIFIED:20200910T144640Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- AVOADA DESIGN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200915T173000Z
+DTEND:20200915T183000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:3iku2hql6257etgiah0hg76e9m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200911T142347Z
+DESCRIPTION:\n\nNome Empresarial:\nALTO DA LAPA COMERCIO DE MATERIAIS PARA 
+ CONSTRUCAO LTDA.\n\nCNPJ:\n60.521.663/0001-83\n\nDomicílio do Devedor:\nSAO
+  PAULO\n\nAtividade Econômica:\nComércio varejista materiais de construção 
+ não especificados\n\nValor Total da dívida:\nR$ 627.410\,18\n\nContato:\n11
+  97130-5643\n\nResposável:\nROSELY DOS SANTOS GEBAILE\n\nPRESENCIAL : Av di
+ ogenes ribeiro de lima 2426\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descri
+ ção.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.google.
+ com/hkf-vscg-xfb\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200911T142347Z
+LOCATION:Av diogenes ribeiro de lima 2426
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- PRESENCIAL- ALTO DA LAPA COM. DE MATERIAIS PARA CONSTRU
+ ÇÃO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200917T120000Z
+DTEND:20200917T130000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:4ptos6a03pv3l4ucl78thcd9u3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=marce
+ lovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.
+ com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200916T195522Z
+DESCRIPTION:\n\nNome Empresarial:\nREFRIGERACAO ARCOVERDE COMERCIO DE PECAS
+  PARA REFRIGERACAO EIRELI\n\nNome Fantasia:\nREFRIGERACAO ARCOVERDE\n\nCNPJ
+ :\n08.701.371/0001-02\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtividade Econ
+ ômica:\nComércio varejista outros prod. não especific. anteriormente\n\nVal
+ or Total da dívida:\nR$ 214.653\,3\n\nContato:\n(11) 97689-8829 \nrefriarco
+ verde@uol.com.br \n\nResponsável:\nADIB CADAH \n\nFalou que tem o contador 
+ que cuida da empresa\, expliquei que nosso trabalho era diferente e que o c
+ ontador só tinha acesso a refis\, ainda argumentei que trabalhavamos com po
+ rtarias jurídicas de redução e parcelamento mais extensivo. Ele ficou inter
+ essado e agendamos uma breve conversa para apresentar nosso projeto e o sta
+ tus atual do débito.\n\nZOOM MEETING  \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seçã
+ o da descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://m
+ eet.google.com/hui-bipg-wwi\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200917T112447Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- REFRIGERACAO ARCOVERDE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200922T110000Z
+DTEND:20200922T160000Z
+DTSTAMP:20211014T133019Z
+UID:1hj5a39m6bs9d55niui5650oq8@google.com
+CREATED:20200917T132204Z
+DESCRIPTION:
+LAST-MODIFIED:20200917T132204Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:*
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200924T170000Z
+DTEND:20200924T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:34pb1hijb44hbghaq49c8442dq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200921T180727Z
+DESCRIPTION:\n\nNome Empresarial:\nPRIMES EXPRESS LOGISTICA INTELIGENTE LTD
+ A\n\nCNPJ:\n17.080.611/0001-90\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtivi
+ dade Econômica:\nServiços de malote não realizados pelo Correio Nacional\n\
+ nValor Total da dívida:\nR$ 530.544\,64\n\nContato:\n11 98431-8080\nrinaldo
+ @primeslog.com.br\n\nResponsável:\nRINALDO JOSE MIRANDA\n\nZoom Meeting\n\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma vid
+ eochamada.\nParticipar: https://meet.google.com/ujj-kgbs-tee\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200921T180727Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- PRIMES EXPRESS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200925T170000Z
+DTEND:20200925T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:000ccjo4gl9tvplp3rdk28r1ml@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200910T194600Z
+DESCRIPTION:\n\nNome Empresarial:\nPERENNE EQUIPAMENTOS E SISTEMAS DE AGUA 
+ SA\n\nCNPJ:\n66.118.142/0001-66\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtiv
+ idade Econômica:\nFabric. máq.\, equip. uso indust. não especif.\, peças\, 
+ acess.\n\nValor Total da dívida:\nR$ 9.502.518\,87\n\nContato:\nnelson.guan
+ aes@perenne.com.br\n11 98831-9573\n\nResponsável:\nNELSON DE OLIVEIRA GUANA
+ ES  \n\nZOOM MEETING\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\
+ nEste evento tem uma videochamada.\nParticipar: https://meet.google.com/vev
+ -nrff-zpe\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200924T194334Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO - VIDEOCONFERÊNCIA - PERENNE EQUIPAMENTOS 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200929T170000Z
+DTEND:20200929T173000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:4vsrtpc8654mcvt7mee91h5arl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20200925T145138Z
+DESCRIPTION:\n\n\nNome Empresarial:\nF. O. MACHADO\nNome Fantasia:\nFORNERI
+ A INTERVALO\nCNPJ:\n10.217.127/0001-10\nDomicílio do Devedor:\nSAO PAULO\nA
+ tividade Econômica:\nServiços organização feiras\, congressos\, exposições 
+ e festas\nValor Total da dívida:\nR$ 1.067.994\,23\n\n\n-------------------
+ -------------------------------- \n \n\nNome Empresarial:\nF. O. M. RESTAUR
+ ANTE EIRELI\n\nNome Fantasia:\nF. O. M. RESTAURANTE\n\nCNPJ:\n27.234.022/00
+ 01-72\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtividade Econômica:\nRestaura
+ ntes e similares\n\nValor Total da dívida:\nR$ 230.230\,63\n\nContato:\n11 
+ 99803-1298\nResponsável:\nFABIO DE OLIVEIRA MACHADO\n\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão ed
+ ite esta seção da descrição.\n\nEste evento tem uma videochamada.\nParticip
+ ar: https://meet.google.com/agw-ygkf-qbo\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200928T133800Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- F. O. MACHADO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201001T123000Z
+DTEND:20201001T140000Z
+DTSTAMP:20211014T133019Z
+UID:6clccbg37ch81a0120006vhsq5@google.com
+CREATED:20200930T174034Z
+DESCRIPTION:
+LAST-MODIFIED:20200930T174451Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REUNIÃO VILLELA BRASIL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201006T140000Z
+DTEND:20201006T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:114tfhh5ovgk7hjkp8efoaea5d@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20201006T114711Z
+DESCRIPTION:\n\nNome Empresarial:\nONIX TRANSPORTES RODOVIARIOS E DISTRIBUI
+ CAO LTDA\n\nCNPJ:\n23.862.623/0001-79\n\nDomicílio do Devedor:\nSAO PAULO\n
+ \nAtividade Econômica:\nTransp. rodov. carga\, exceto prod. perig. \, inter
+ mun.\, etc.\n\nValor Total da dívida:\nR$ 341.616\,13\n\nContato:\n11 93802
+ -1619\n\nResponsável:\nVICTOR HUGO BRASILIO MAESTRIPIERI  \n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nNão edite esta seção da descrição.\n\nEste evento tem uma videochamada.\nP
+ articipar: https://meet.google.com/kmx-ithx-zru\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201006T130026Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- ONIX TRANSPORTES RODOVIARIOS E DISTRI
+ BUICAO LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201007T123000Z
+DTEND:20201007T133000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:73aetns0d2ucgo92f8plobrhen@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20201001T191852Z
+DESCRIPTION:\n\nNome Empresarial:\nDANIEL DE OLIVEIRA COMERCIO E SERVICOS\n
+ \nNome Fantasia:\nOLIVEIRA CONSTRUCOES COMERCIO E SERVICOS\n\nCNPJ:\n03.177
+ .331/0001-90\n\nDomicílio do Devedor:\nSAO PAULO\n\nAtividade Econômica:\nC
+ omércio varejista de vidros\n\nValor Total da dívida:\nR$ 666.844\,64\n\nCo
+ ntato:\n 11 98203-8312\n\nResponsável:\nDANIEL DE OLIVEIRA \n\n \n\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videochama
+ da.\nParticipar: https://meet.google.com/otk-bxkg-uge\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201007T115556Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- DANIEL DE OLIVEIRA COMERCIO E SERVIÇO
+ S
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201008T170000Z
+DTEND:20201008T180000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:7l8e1hu5bbs58d40eirn521gdq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rcelovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20201005T133022Z
+DESCRIPTION:<br><br>Nome Empresarial:<br>ORIENTE EVENTOS SC LTDA<br><br>CNP
+ J:<br>05.124.741/0001-06<br><br>Domicílio do Devedor:<br>SAO PAULO<br><br>A
+ tividade Econômica:<br>Serviços organização feiras\, congressos\, exposiçõe
+ s e festas<br><br>Valor Total da dívida:<br>R$ 238.786\,78<br><br><br>Respo
+ nsável:<br>MARIA TEREZA RODRIGUES <br><br>Contato:<br>11 97115-9516 <br><a 
+ href="mailto:maite@mtrmanager.com.br">maite@mtrmanager.com.br</a><br><br>ZO
+ OM MEETING<br><br>---------------------------------------------------------
+ ---------------------------<br><br><br><br>Nome Empresarial:<br>MARIA TEREZ
+ A RODRIGUES<br><br>Nome Fantasia:<br>MAITE RODRIGUES CONSULTORA E TRAINER<b
+ r><br>CNPJ:<br>30.300.547/0001-73<br><br>Domicílio do Devedor:<br>SAO PAULO
+ <br><br>Atividade Econômica:<br>Atividades consult. gestão empr.\, exceto t
+ écnica específica<br><br>Valor Total da dívida:<br>R$ 35.817\,07\n\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videochama
+ da.\nParticipar: https://meet.google.com/jxc-auhv-soj\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201007T170327Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA- ORIENTE EVENTOS SC LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201009T140000Z
+DTEND:20201009T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:4okjun2qqmqjvaiorlf8md4jhh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ ovillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelovillelabrasil@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+CREATED:20201009T010809Z
+DESCRIPTION:<p><b>Nome Empresarial: </b>ETIKA ADMINISTRACAOE CORRETAGENS DE
+  SEGUROS EIRELI</p><p><b>CNPJ: </b>65.011.645/0001-75</p><p><b>Domicílio do
+  Devedor: </b>SAO PAULO</p><p><b>Atividade Econômica: </b>Corretores eagent
+ es seguros\, planos previd. complem.\, saúde</p><p><b>Valor Total da dívida
+ : </b><b>R$ 976.787\,02</b></p><p><br>Responsável:<br>Silvia Regina<br><br>
+ Contato:<br>1199982 9367</p><p><br>etika<a href="mailto:maite@mtrmanager.co
+ m.br" id="ow987" __is_owner="true">@etikaseguros.com.br</a>&nbsp\; e&nbsp\;
+  silvia@etikaseguros.com.br&nbsp\;</p><p><br>ZOOM MEETING&nbsp\;&nbsp\;<b><
+ br></b></p>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste eve
+ nto tem uma videochamada.\nParticipar: https://meet.google.com/idv-vugp-oas
+ \n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~::~:~::-
+LAST-MODIFIED:20201009T113135Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALESSANDRO- VIDEOCONFERÊNCIA-ETIKA ADMINISTRAÇAO E CORRETAGENS DE S
+ EGUROS EIRELI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201022T140000Z
+DTEND:20201022T150000Z
+DTSTAMP:20211014T133019Z
+ORGANIZER;CN=alessandromelavillelabrasil@gmail.com:mailto:alessandromelavil
+ lelabrasil@gmail.com
+UID:4qd16i1dbcoh0ri61v47ho8bae@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alessa
+ ndromelavillelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:alessandromelavillela
+ brasil@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marcel
+ o.villelabrasil@gmail.com;X-NUM-GUESTS=0:mailto:marcelo.villelabrasil@gmail
+ .com
+CREATED:20201016T163536Z
+DESCRIPTION: Sr. Rogerio M.B.Viana\, 11- 99127 5571.\n Empresa ENGEARTE-Eng
+ enharia e Comercio Ltda. \nCnpj 57.824.062/0001-35 \nR$ 362.580\,12\n\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma videoch
+ amada.\nParticipar: https://meet.google.com/mqm-scsw-yni\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201020T111508Z
+LOCATION:A. Paulista\, 1776
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião presencial Av. Paulista
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,381 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sarah Assessora - POA
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20200714T120000Z
+DTEND:20200714T130000Z
+DTSTAMP:20211014T133020Z
+UID:6l6lr5jls5g6d4nn1ntf0e9ud1@google.com
+CREATED:20200709T132919Z
+DESCRIPTION:
+LAST-MODIFIED:20200709T132919Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ligar - Vagner - 19 98112-4266
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200713T180000Z
+DTEND:20200713T190000Z
+DTSTAMP:20211014T133020Z
+UID:0kjq1gtuu2ln3uqream7v28cm7@google.com
+CREATED:20200713T135204Z
+DESCRIPTION:
+LAST-MODIFIED:20200713T135204Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ligar - Everton - 19 99667-1982
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200810T140000Z
+DTEND:20200810T150000Z
+DTSTAMP:20211014T133020Z
+UID:4a6plv1q2d7aaqqhj1e6aqq62m@google.com
+CREATED:20200807T133912Z
+DESCRIPTION:
+LAST-MODIFIED:20200807T133912Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chamar Gylson 11 94707-4788 NOVA ODESSA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200825T170000Z
+DTEND:20200825T180000Z
+DTSTAMP:20211014T133020Z
+UID:6oq22hl974ub88ectmq103lmgf@google.com
+CREATED:20200820T182413Z
+DESCRIPTION:Empresa: F. DE SOUZA E SILVA MONTAGENS LTDA\n\nCNPJ: 2626909100
+ 0159\n\nResponsável: Fabio (dono)\n\nTelefone de contato: 19 99354-5454\n\n
+ E-CAC: R$ 103.347\,89\n\nFalei com Fabio\, fiz script de PRF e ele ficou be
+ m interessado\, mas disse que precisa falar com seu contador primeiro. Reun
+ ião será presencial.
+LAST-MODIFIED:20200824T141608Z
+LOCATION:CONFIRMAR ENDEREÇO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALEX - HORTOLÂNDIA - F. DE SOUZA E SILVA MONTAGENS LTDA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200911T140000Z
+DTEND:20200911T150000Z
+DTSTAMP:20211014T133020Z
+UID:2idctlstucq0d8ouqoh19c7i9f@google.com
+CREATED:20200910T143703Z
+DESCRIPTION:
+LAST-MODIFIED:20200910T143703Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Retornar Eden 11 99982-4409 Guarulhos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200925T193000Z
+DTEND:20200925T203000Z
+DTSTAMP:20211014T133020Z
+ORGANIZER;CN=sarah.villelabrasil@gmail.com:mailto:sarah.villelabrasil@gmail
+ .com
+UID:5tokrv7t21npa6mi8akfaeovtt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ astelonunesvillela@gmail.com;X-NUM-GUESTS=0:mailto:acastelonunesvillela@gma
+ il.com
+CREATED:20200921T195422Z
+DESCRIPTION:Empresa:&nbsp\;JEB AGROPECUARIA - INSTITUTO DE BIOCIENCIAS<br><
+ br>CNPJ: 55182265000140<br><br>Responsável: Mariana (dona)<br><br>Telefone 
+ de contato: 19 99565-6767<br><br><b>E-CAC: R$ 522.224\,45</b><br><br><i>Fal
+ ei com Mariana\, fiz script de PRF e ela ficou bem interessada\, informou q
+ ue atualmente paga um REFIS de R$ 5 mil reais a uns 5 anos. Marcamos a reun
+ ião no escritório de Campinas.</i>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da
+  descrição.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.
+ google.com/ocq-pzpi-kqn\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200925T201225Z
+LOCATION:Swiss Park\, Campinas - SP\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALEX - CAMPINAS - JEB AGROPECUARIA - INSTITUTO DE BIOCIENCIAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201013T120000Z
+DTEND:20201013T130000Z
+DTSTAMP:20211014T133020Z
+UID:0tmvrtb8jkc81ac015en4ap45m@google.com
+CREATED:20200929T185510Z
+DESCRIPTION:Empresa:&nbsp\;CICLO SERVICOS E REPRESENTACOES LTDA<br><br>CNPJ
+ : 00653921000153<br><br>Responsável: Camilo (dono)<br><br>Telefone de conta
+ to: 19 98141-6269<br><br><b>E-CAC: R$ 2.467.172\,60</b><br><br><i>Falei com
+  Camilo\, fiz script de PRF e ele ficou bem interessado\, disse que está no
+  RJ mas que segunda estaria em Campinas\, marcamos a reunião no escritório 
+ da Villela Campinas.</i><br><br><u><b>OBS: Cliente da lista de Monte Mor</b
+ ></u>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento te
+ m uma videochamada.\nParticipar: https://meet.google.com/vgt-xgby-edj\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-
+LAST-MODIFIED:20201006T124255Z
+LOCATION:Swiss Park\, Campinas - SP\, Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ALEX - CAMPINAS - CICLO SERVICOS E REPRESENTACOES LTDA
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201007T190000Z
+DTEND:20201007T200000Z
+DTSTAMP:20211014T133020Z
+UID:298sijr846bguoubb8d8b726g7@google.com
+CREATED:20201005T140436Z
+DESCRIPTION:Empresa:&nbsp\;BOSCOLO MOCOCA<br><br>CNPJ: 13728387000149<br><b
+ r>Responsável: Valmir (dono)<br><br>Telefone de contato:&nbsp\; 19 99238-84
+ 38<br><br><b>E-CAC: R$ 196.117\,31</b><br><br><i>Falei com Valmir\, Fiz scr
+ ipt de PRF e ele ficou bem interessado\, marcamos a reunião presencial.</i>
+ \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nEste evento tem uma
+  videochamada.\nParticipar: https://meet.google.com/efg-xvbp-izh\n-::~:~::~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+ ::-
+LAST-MODIFIED:20201008T153250Z
+LOCATION:R SERAFINA ALBERTI PRICOLI\, 135\, JARDIM CENTRAL PRICOLI\, MOCOCA
+  - SP - 13736-566
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JADE - MOCOCA - BOSCOLO MOCOCA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201015T123000Z
+DTEND:20201015T133000Z
+DTSTAMP:20211014T133020Z
+UID:2759j4v4snc4vtgakkumtre182@google.com
+CREATED:20201006T161052Z
+DESCRIPTION:Tentar marcar reunião presencial para segunda!
+LAST-MODIFIED:20201009T130803Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Ligar Adriano 16 99275-6393
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T190000Z
+DTEND:20201027T200000Z
+DTSTAMP:20211014T133020Z
+UID:1ah8m0qqmcccq3hefjha7ujl8p@google.com
+CREATED:20201026T143146Z
+DESCRIPTION:Empresa:&nbsp\;RIO PARDO FUTEBOL CLUBE&nbsp\;<br><br>CNPJ: 5990
+ 2445000100<br><br>Responsável: Marcelo (presidente)<br><br>Telefone de cont
+ ato: 19 99267-0857<br><br><b>E-CAC:&nbsp\; R$ 149.808\,89</b><br><br><i>Fal
+ ei com Marcelo\, fiz script de PRF\, ele ficou interessado e disse que irão
+  participar ele\, a diretoria do clube e o escritório de advogados do clube
+ \, marcamos a reunião presencial.</i>
+LAST-MODIFIED:20201028T122319Z
+LOCATION:R SAINT CLAIR DE ANDRADE JUNQUEIRA\, JARDIM BELA VISTA\, SAO JOSE 
+ DO RIO PARDO - SP - 13720-000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JADE - RIO PARDO - RIO PARDO FUTEBOL CLUBE
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T130000Z
+DTEND:20201027T140000Z
+DTSTAMP:20211014T133020Z
+UID:5ouafsli9qh5cg9v68nb6oo1np@google.com
+CREATED:20201026T183550Z
+DESCRIPTION:Empresa:&nbsp\;BARBOZA &amp\; TESSARI EIRELI<br><br>CNPJ: 11937
+ 774000160<br><br>Responsável: Acacio (dono)<br><br>Telefone de contato: 19 
+ 99733-7776<br><br><b>E-CAC: R$ 207.416\,87</b><br><i><br></i><br><i>Falei c
+ om Acacio\, fiz script de PRF\, ele gostou mas não tem mais escritório\, ma
+ rcamos a reunião presencial no café Senhor Espresso Cafe.</i>
+LAST-MODIFIED:20201028T122338Z
+LOCATION:R. Silva Jardim\, 216 - Vila Pereira\, São José do Rio Pardo - SP\
+ , 13720-000\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JADE - RIO PARDO - BARBOZA & TESSARI EIRELI
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201116T120000Z
+DTEND:20201116T130000Z
+DTSTAMP:20211014T133020Z
+UID:7kh7ceccrj6tvh6d3bsn5fc1q0@google.com
+CREATED:20201112T195032Z
+DESCRIPTION:
+LAST-MODIFIED:20201112T195032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lembrar  Eduardo 19 99291-8141 da reunião 14hs
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201123T120000Z
+DTEND:20201123T130000Z
+DTSTAMP:20211014T133020Z
+UID:19qmb8uitqarh07blv7icp504b@google.com
+CREATED:20201118T181831Z
+DESCRIPTION:
+LAST-MODIFIED:20201118T181831Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Falar com Rodrigo 19 98206-4540 para marcar.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201203T163000Z
+DTEND:20201203T173000Z
+DTSTAMP:20211014T133020Z
+UID:4l3ogchqjudu09367pr7a9uf3e@google.com
+CREATED:20201123T185932Z
+DESCRIPTION:\nEndereço: Rua Maria Grassi\, 579 - Morumbi - Descalvado/SP\n\
+ n\nEmpresa: 54.268.842/0001-58 -  PELECRIS INJETADOS PLASTICOS\n\n\nValor d
+ a dívida: R$ 6.738.603\,44\n\n\nResponsável: Sr. Gustavo\n\n\nTelefone: 19 
+ 99784-5462\n\n\nHorario às 15:00h
+LAST-MODIFIED:20201201T193515Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Alex - PELECRIS INJETADOS PLASTICOS
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210107T130000Z
+DTEND:20210107T140000Z
+DTSTAMP:20211014T133020Z
+UID:54qgj7lrr9vqvkoa4qhbrkrstc@google.com
+CREATED:20210104T180252Z
+DESCRIPTION:Empresa:&nbsp\;LAVORART STUDIO E GRAVACOES A LASER EIRELI<br><b
+ r>CNPJ: 61.259.685/0001-80<br><br>Responsável: Jose Odil (dono)<br><br>Tele
+ fone de contato: 19 99602-0105<br><br><b>E-CAC: R$ 1.776.490\,91</b><br><b>
+ <br></b><br><b>ICMS: R$ 670.911\,52</b><br><br><i>Falei com Jose Odil\, pas
+ sei script de PRF e ele ficou bem interessado\, marcamos a reunião presenci
+ al.</i>
+LAST-MODIFIED:20210105T132650Z
+LOCATION:R. 22\, 1260 - Estádio\, Rio Claro - SP\, 13501-388\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALEX - RIO CLARO - LAVORART STUDIO E GRAVACOES A LASER EIRELI
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T180000Z
+DTEND:20210208T190000Z
+DTSTAMP:20211014T133020Z
+UID:1u0qg11t2qdheco9uvdpcr8mpd@google.com
+CREATED:20210203T200256Z
+DESCRIPTION:Empresa: MARCOR TINTAS TECNICAS LTDA<br><br>CNPJ: 02.526.108/00
+ 01-48<br><br>Responsável: Jannette (dona)<br><br>Telefone de contato: 19 99
+ 146-1351<br><br><b>E-CAC: R$ 879.564\,12</b><br><b><br></b><br><b>ICMS: R$ 
+ 825.670\,65</b><br><br>Falei com Jannette\, fiz script de PRF e ela ficou b
+ em interessada\, porém a empresa em Nova Odessa foi fechada\, mas pediu par
+ a a reunião ser em sua casa que fica em Americana.<br><br><b><u>CLIENTE DA 
+ LISTA DE NOVA ODESSA.</u></b>
+LAST-MODIFIED:20210208T112709Z
+LOCATION:R. das Poncianas\, 194\, apto 54 T - Jardim Gloria\, Americana - S
+ P\, 13468-180\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ALEX - AMERICANA - MARCOR TINTAS TECNICAS LTDA
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T183000Z
+DTEND:20210224T193000Z
+DTSTAMP:20211014T133020Z
+UID:32qhprb5iidle0mg618ar897l7@google.com
+CREATED:20210222T121129Z
+DESCRIPTION:Empresa: AUTO POSTO DIAN LTDA<br><br>CNPJ: 10.622.081/0001-15<b
+ r><br><b>E-CAC: R$ 365.803\,05</b><br><b><br></b><br><b>ICMS: R$ 2.913.148\
+ ,30</b><br><br>Responsável: Andre (dono)<br><br>Telefone de contato: 19 997
+ 87-2706<br><br><i>Falei com Andre\, passei script de PRF e ele me informou 
+ que também advogado tributário e sugeriu uma parceria. Marcamos a reunião p
+ resencial. Aguardando o endereço.</i>
+LAST-MODIFIED:20210223T133723Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DENILSON - SUMARÉ - AUTO POSTO DIAN LTDA
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210318T170000Z
+DTEND:20210318T180000Z
+DTSTAMP:20211014T133020Z
+ORGANIZER;CN=sarah.villelabrasil@gmail.com:mailto:sarah.villelabrasil@gmail
+ .com
+UID:17tonhb4l8qji216dc3555q32l@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dm
+ rdreds@gmail.com;X-NUM-GUESTS=0:mailto:dmrdreds@gmail.com
+CREATED:20210310T171614Z
+DESCRIPTION:Empresa: R. L. V. DA SILVA COZINHA INDUSTRIAL<br><br>CNPJ: 01.1
+ 58.270/0001-98<br><br><b>E-CAC: R$ 130.568\,62</b><br><br>Responsável: Robs
+ on (dono)<br><br>Telefone de contato: 19 99280-9257<br><br><i>Falei com Rob
+ son\, passei script de PRF e ele ficou bem interessado\, marcamos a reunião
+  presencial em nosso escritório de Campinas.</i><br><br><u><b>Empresa da li
+ sta de Hortolândia!</b></u>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descri
+ ção.\n\nEste evento tem uma videochamada.\nParticipar: https://meet.google.
+ com/yak-bebx-xqk\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210317T195913Z
+LOCATION:Swiss Park\, Campinas - SP\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DENILSON - R. L. V. DA SILVA COZINHA INDUSTRIAL
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
