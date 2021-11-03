@@ -26,12 +26,11 @@ namespace TraduzCsv
     }
     class Program
     {
-        
         public static string CleanString(string input)
         {
-            return Regex.Replace(input, "<.*?>", String.Empty).Replace("\\n", " ").Replace("\\r", " ").Replace("\\ n", " ").Replace("\\ r", " ").Replace("::~", "").
+            return Regex.Replace(input.Trim(), "<.*?>", String.Empty).Replace("\\n", " ").Replace("\\r", "").Replace("\\ n", "").Replace("\\ r", "").Replace("::~", "").
                 Replace("-:~", "").Replace("<", "").Replace("&", "").Replace("nbsp\\", "").Replace("amp\\", "").Replace("\\", "").Replace(":~::-", "").Replace(":~", "").
-                Replace(";", "").Replace(" ;", "").Replace("00S", "STATUS").Replace("n\\n", "");
+                Replace(";", "").Replace(" ;", "").Replace("n\\n", " ").Replace("--","");
         }
         static void Main(string[] args)
         {
@@ -45,7 +44,7 @@ namespace TraduzCsv
 
             foreach (string file in files)
             {
-                var Name= Path.GetFileNameWithoutExtension(file);
+                var Name = Path.GetFileNameWithoutExtension(file);
                 Console.WriteLine($"Processando arquivo {file}");
                 string[] linhas = File.ReadAllLines(file);
                 var linhaDeObservacao = false;
@@ -54,7 +53,7 @@ namespace TraduzCsv
 
                 foreach (string linha in linhas)
                 {
-                    if (linha.Contains("BEGIN:VCALENDAR") )
+                    if (linha.Contains("BEGIN:VEVENT"))
                     {
                         ID_DO_EVENTO++;
                         deveProcessarProximaLinha = true;
@@ -62,14 +61,6 @@ namespace TraduzCsv
                         dicionarioDeEventos[ID_DO_EVENTO].NomeFranqueado = Name;
                         continue;
                     }
-                    if (linha.Contains("BEGIN:VEVENT"))
-                    {
-                        ID_DO_EVENTO++;
-                        deveProcessarProximaLinha = true;
-                        dicionarioDeEventos.Add(ID_DO_EVENTO, new Evento());
-                        continue;
-                    }
-
                     if (deveProcessarProximaLinha)
                     {
                         if (linha.StartsWith("DTSTART:"))
@@ -80,39 +71,50 @@ namespace TraduzCsv
                         }
                         if (linha.StartsWith("DTEND:"))
                         {
-                            ConverteData = linha.Replace("DTEND:", "").Substring(0, 8).Insert(4,"/").Insert(7,"/");
+                            ConverteData = linha.Replace("DTEND:", "").Substring(0, 8).Insert(4, "/").Insert(7, "/");
                             dateTime = DateTime.Parse(ConverteData);
                             dicionarioDeEventos[ID_DO_EVENTO].DTEND += dateTime.ToString("dd/MM/yyyy");
                             linhaDeObservacao = false;
                         }
 
-                        if (linha.StartsWith("DTSTAMP:") )
+                        if (linha.StartsWith("DTSTAMP:"))
                         {
                             ConverteData = linha.Replace("DTSTAMP:", "").Substring(0, 8).Insert(4, "/").Insert(7, "/");
                             dateTime = DateTime.Parse(ConverteData);
                             dicionarioDeEventos[ID_DO_EVENTO].DTSTAMP += dateTime.ToString("dd/MM/yyyy");
                         }
-                     
+
                         if (linha.StartsWith("UID:"))
                         {
                             dicionarioDeEventos[ID_DO_EVENTO].UID += CleanString(linha.Replace("UID:", ""));
                         }
-                      
+
                         if (linha.StartsWith("CREATED:"))
                         {
-                            dicionarioDeEventos[ID_DO_EVENTO].CREATED += CleanString(linha.Replace("CREATED:", ""));
+                            ConverteData = linha.Replace("CREATED:", "").Substring(0, 8).Insert(4, "/").Insert(7, "/");
+                            dateTime = DateTime.Parse(ConverteData);
+                            dicionarioDeEventos[ID_DO_EVENTO].CREATED += dateTime.ToString("dd/MM/yyyy");
+                            linhaDeObservacao = false;
                         }
 
                         if (linha.StartsWith("DESCRIPTION:") || linhaDeObservacao)
                         {
+                            string TestaLinha = linha;
+                            Regex regex = new Regex(@"[~:]+");
+                            bool TesaLinha = regex.IsMatch(linha);
+
+
                             dicionarioDeEventos[ID_DO_EVENTO].DESCRIPTION += CleanString(linha.Replace("DESCRIPTION:", ""));
                             linhaDeObservacao = true;
                         }
-                      
+
                         if (linha.StartsWith("LAST-MODIFIED:"))
                         {
                             linhaDeObservacao = false;
-                            dicionarioDeEventos[ID_DO_EVENTO].LAST_MODIFIED += CleanString(linha.Replace("LAST-MODIFIED:", ""));
+                            ConverteData = linha.Replace("LAST-MODIFIED:", "").Substring(0, 8).Insert(4, "/").Insert(7, "/");
+                            dateTime = DateTime.Parse(ConverteData);
+                            dicionarioDeEventos[ID_DO_EVENTO].LAST_MODIFIED += dateTime.ToString("dd/MM/yyyy");
+
                         }
 
                         if (linha.StartsWith("LOCATION:"))
@@ -140,29 +142,33 @@ namespace TraduzCsv
                             dicionarioDeEventos[ID_DO_EVENTO].TRANSP += CleanString(linha.Replace("TRANSP:", ""));
                         }
                     }
-
                     if (linha.Contains("END:VEVENT"))
                     {
                         ID_DO_EVENTO++;
                         deveProcessarProximaLinha = false;
                         continue;
                     }
-                }            
+                }
             }
-
-            using (StreamWriter writer = new StreamWriter(@"C:\Users\Public\Takeout\Arquivo convertido\Arquivo.csv"))
+            using (StreamWriter writer = new StreamWriter(@"C:\Users\Public\Takeout\Arquivo convertido\Arquivo.csv", false, Encoding.GetEncoding("iso-8859-1")))
             {
+                writer.Write("NOME FRANQUEADO;" + "DATA DE INÍCIO;" + "DATA DE ENCERRAMENTO;" + "DATA STAMP;" + "UID;" + "CRIAÇÃO;" +
+                             "DESCRIÇÃO;" + "ÚLTIMA MODIFICAÇÃO;" + "SEQUÊNCIA;" + "STATUS;" + "SUMÁRIO;" + "TRANSPARÊNCIA;\n");
                 foreach (var item in dicionarioDeEventos.Values)
                 {
-                    if (item.NomeFranqueado != null)
-                    {
-                        writer.Write("\n");
-                        writer.Write("NOME FRANQUEADO: " + item.NomeFranqueado + ";");//Pode ser nomeado como titular da agenda
-                    }
-                    else
-                    {
-                        writer.Write(item.DTSTART+" " + item.DTEND+" "+ item.DTSTAMP+" "+ item.UID+ item.CREATED+ item.DESCRIPTION+ item.LAST_MODIFIED + item.SEQUENCE + item.STATUS + item.SUMMARY + item.TRANSP + ";");                 
-                    }
+                    writer.Write(item.NomeFranqueado + ";");
+                    writer.Write(item.DTSTART + ";");
+                    writer.Write(item.DTEND + ";");
+                    writer.Write(item.DTSTAMP + ";");
+                    writer.Write(item.UID + ";");
+                    writer.Write(item.CREATED + ";");
+                    writer.Write(item.DESCRIPTION + ";");
+                    writer.Write(item.LAST_MODIFIED + ";");
+                    writer.Write(item.SEQUENCE + ";");
+                    writer.Write(item.STATUS + ";");
+                    writer.Write(item.SUMMARY + ";");
+                    writer.Write(item.TRANSP + ";");
+                    writer.WriteLine();
                 }
             }
         }

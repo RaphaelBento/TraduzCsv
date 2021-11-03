@@ -22,7 +22,7 @@ C:\Users\PC\Desktop\PROJETO_VILLELA\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.pdb
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\bin\Debug\TraduzCsv.exe.config
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\bin\Debug\TraduzCsv.exe
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\bin\Debug\TraduzCsv.pdb
-C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.csproj.AssemblyReference.cache
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.exe
 C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.pdb
+C:\Users\PC\Desktop\TraduzCsv\TraduzCsv\obj\Debug\TraduzCsv.csproj.AssemblyReference.cache
